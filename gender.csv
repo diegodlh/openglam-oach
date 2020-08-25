@@ -1,0 +1,1291 @@
+,Key,Creator,Creator Role,Creator Order,gender,agreement,split,male,female,ambiguous
+0,YG6RT9NK,"Burkett, Ingrid",Author,0.0,F,1.0,False,{},"{'INGRID': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'FR', 'GB', 'HR', 'LU', 'MT', 'NL', 'NO', 'NZ', 'SE', 'SK', 'US']}",{}
+1,5UUVWZ5J,"Allahyari, Morehshin",Author,0.0,Name(s) not found,,,,,
+2,LANWDUCV,"Qureshi, Abdullah",Author,0.0,M,1.0,False,"{'ABDULLAH': [nan, 'AE', 'AL', 'CA', 'EG', 'GB', 'IQ', 'IR', 'KS', 'SA', 'TR', 'US']}",{},{}
+3,LANWDUCV," Allahyari, Morehshin",Author,1.0,Name(s) not found,,,,,
+4,RSJNCTG2,"Chan, Sebastian",Author,0.0,M,1.0,False,"{'SEBASTIAN': ['AT', 'BE', 'CA', 'CH', 'CO', 'DE', 'DK', 'EE', 'ES', 'GB', 'IE', 'MT', 'MX', 'PE', 'PL', 'RO', 'SE', 'US', 'VE']}",{},{}
+5,P26SARX5,acmonk,Author,0.0,Unexpected name format,,,,,
+6,X253B3GW,"Summers, Ed",Author,0.0,M,1.0,False,"{'ED': ['CA', 'GB', 'NL', 'US']}",{},{}
+7,PFN7XY8N,"Summers, Ed",Author,0.0,M,1.0,False,"{'ED': ['CA', 'GB', 'NL', 'US']}",{},{}
+8,ALIIQ5VQ,"Costanza-Chock, Sasha",Author,0.0,M,0.5,False,"{'SASHA': ['AM', 'AZ', 'BY', 'KZ', 'RU', 'UA']}","{'SASHA': ['BG', 'GB', 'IE', 'SE', 'US']}",{'SASHA': ['CA']}
+9,9I2864CH,"Bingo, Steven",Author,0.0,M,1.0,False,"{'STEVEN': ['BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'SE', 'US']}",{},{}
+10,V4UN98WB,"Antonelli, Alexandre",Author,0.0,M,0.8888888888888888,False,"{'ALEXANDRE': ['AM', 'BE', 'CH', 'FR', 'GB', 'LU', 'PT', 'US']}",{},{'ALEXANDRE': ['CA']}
+11,TKKCKZWG,"Engster, Daniel",Author,0.0,M,0.9736842105263158,False,"{'DANIEL': ['AD', 'AL', 'AM', 'AT', 'AU', 'AW', 'AZ', 'BE', 'BG', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HT', 'HU', 'IE', 'IL', 'IS', 'JM', 'LU', 'MD', 'MK', 'MT', 'NL', 'NO', 'PE', 'PL', 'PT', 'PY', 'RO', 'SE', 'SK', 'US']}",{},{'DANIEL': ['CA']}
+12,56K92S3H,"Jules, Bergis",Author,0.0,Name(s) not found,,,,,
+13,56K92S3H," Summers, Ed",Author,1.0,M,1.0,False,"{'ED': ['CA', 'GB', 'NL', 'US']}",{},{}
+14,56K92S3H," Mitchell, Jr, Vernon",Author,2.0,Unexpected name format,,,,,
+15,8RYMJZ9Y,"Moriarty, Adam",Author,0.0,M,1.0,False,"{'ADAM': ['AT', 'AU', 'BA', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EG', 'ES', 'FR', 'GB', 'GR', 'HU', 'IE', 'IL', 'IS', 'MY', 'PL', 'RO', 'SE', 'SK', 'US']}",{},{}
+16,RSYXEQ9S,"Hirtle, Peter",Author,0.0,M,1.0,False,"{'PETER': [nan, 'AT', 'BE', 'BY', 'CA', 'CH', 'DE', 'DK', 'EG', 'GB', 'GL', 'HU', 'IE', 'IL', 'KE', 'LI', 'LU', 'MT', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{},{}
+17,C4826LEF,"Light, Michelle",Author,0.0,F,0.9230769230769231,False,{},"{'MICHELLE': ['AT', 'BE', 'CH', 'DK', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'SE', 'US']}",{'MICHELLE': ['CA']}
+18,IP6YEG2U,"Dryden, Jean",Author,0.0,M,0.6470588235294118,False,"{'JEAN': [nan, 'BE', 'CH', 'DE', 'DK', 'FR', 'LU', 'NL', 'NO', 'RO', 'SE']}","{'JEAN': ['GB', 'IE', 'IL', 'US']}","{'JEAN': ['CA', 'MT']}"
+19,SP2UQ8X8,"Pappalardo, Kylie",Author,0.0,F,0.6666666666666666,False,{},"{'KYLIE': ['GB', 'US']}",{'KYLIE': ['CA']}
+20,SP2UQ8X8," Aufderheide, Patricia",Author,1.0,F,1.0,False,{},"{'PATRICIA': ['AT', 'AU', 'BE', 'CA', 'CH', 'DE', 'ES', 'FR', 'GB', 'HU', 'IE', 'LU', 'MT', 'NL', 'PT', 'PY', 'SE', 'SI', 'SK', 'US']}",{}
+21,SP2UQ8X8," Stevens, Jessica",Author,2.0,F,0.9375,False,{},"{'JESSICA': ['AT', 'BE', 'CH', 'DE', 'ES', 'FR', 'GB', 'HT', 'IE', 'IT', 'LU', 'NL', 'SE', 'SZ', 'US']}",{'JESSICA': ['CA']}
+22,SP2UQ8X8," Suzor, Nicolas",Author,3.0,M,1.0,False,"{'NICOLAS': ['AT', 'BE', 'CA', 'CH', 'CO', 'DE', 'ES', 'FR', 'GB', 'IE', 'LU', 'MX', 'SE', 'US', 'UY']}",{},{}
+23,UYINRWA2,"Gervais, Daniel J.",Author,0.0,M,0.9736842105263158,True,"{'DANIEL': ['AD', 'AL', 'AM', 'AT', 'AU', 'AW', 'AZ', 'BE', 'BG', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HT', 'HU', 'IE', 'IL', 'IS', 'JM', 'LU', 'MD', 'MK', 'MT', 'NL', 'NO', 'PE', 'PL', 'PT', 'PY', 'RO', 'SE', 'SK', 'US']}",{},{'DANIEL': ['CA']}
+24,3J4C4QNL,"Judge, Elizabeth F.",Author,0.0,F,0.9,True,{},"{'ELIZABETH': ['AM', 'BE', 'GB', 'IE', 'IL', 'MT', 'NL', 'PY', 'US']}",{'ELIZABETH': ['CA']}
+25,3J4C4QNL," Gervais, Daniel J.",Author,1.0,M,0.9736842105263158,True,"{'DANIEL': ['AD', 'AL', 'AM', 'AT', 'AU', 'AW', 'AZ', 'BE', 'BG', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HT', 'HU', 'IE', 'IL', 'IS', 'JM', 'LU', 'MD', 'MK', 'MT', 'NL', 'NO', 'PE', 'PL', 'PT', 'PY', 'RO', 'SE', 'SK', 'US']}",{},{'DANIEL': ['CA']}
+26,99ARYSND,"Lev-Aretz, Yafit",Author,0.0,F,1.0,False,{},"{'YAFIT': ['IL', 'US']}",{}
+27,7X3M224S,"Jones, Allison",Author,0.0,F,0.75,False,{},"{'ALLISON': ['GB', 'IE', 'US']}",{'ALLISON': ['CA']}
+28,7X3M224S," Ng, Karen",Author,1.0,F,0.8947368421052632,False,"{'KAREN': ['AM', 'AZ']}","{'KAREN': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'FR', 'GB', 'IE', 'IL', 'IS', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+29,7X3M224S,"Bruce, Symphony",Guest,0.0,F,1.0,False,{},"{'SYMPHONY': ['CA', 'GB', 'US']}",{}
+30,TP48EZ6I,"Jones, Allison",Author,0.0,F,0.75,False,{},"{'ALLISON': ['GB', 'IE', 'US']}",{'ALLISON': ['CA']}
+31,TP48EZ6I," Ng, Karen",Author,1.0,F,0.8947368421052632,False,"{'KAREN': ['AM', 'AZ']}","{'KAREN': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'FR', 'GB', 'IE', 'IL', 'IS', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+32,TP48EZ6I,"Maestro, Lara",Guest,0.0,F,1.0,False,{},"{'LARA': ['AD', 'BA', 'BE', 'BY', 'CA', 'CH', 'DE', 'EG', 'ES', 'GB', 'HR', 'IR', 'IS', 'IT', 'LU', 'MT', 'NL', 'PT', 'RS', 'RU', 'SE', 'SI', 'UA', 'US']}",{}
+33,3ILH2QSV,"Volmer, Timothy",Author,0.0,M,1.0,False,"{'TIMOTHY': ['AT', 'CA', 'GB', 'IE', 'SE', 'US']}",{},{}
+34,9IHXSVYU,"Heath, Victoria",Author,0.0,F,1.0,False,{},"{'VICTORIA': ['AM', 'AT', 'AZ', 'BE', 'BG', 'BY', 'CA', 'CH', 'DK', 'ES', 'FR', 'GB', 'IE', 'KZ', 'MD', 'MT', 'RO', 'RU', 'SE', 'UA', 'US', 'VE']}",{}
+35,L36G5IJN,Salzburg Research Forschungsgesellschaft mbH,Author,0.0,Unexpected name format,,,,,
+36,W5E5MALL,"Zimmerman, Diane Leenheer",Author,0.0,F,1.0,True,{},"{'DIANE': ['AT', 'BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'IE', 'LU', 'NL', 'US']}",{}
+37,B7LCS8W2,"Chon, Margaret",Author,0.0,F,1.0,False,{},"{'MARGARET': ['AM', 'BE', 'CA', 'CH', 'GB', 'IE', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+38,EXGRAJ7D,"Cohen, Julie E.",Author,0.0,F,1.0,True,{},"{'JULIE': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DK', 'FR', 'GB', 'GE', 'GL', 'IE', 'LU', 'MT', 'NO', 'SE', 'US']}",{}
+39,ZLFDM657,"Adam, Alison",Author,0.0,F,0.8571428571428571,False,{},"{'ALISON': ['BE', 'FR', 'GB', 'IE', 'MT', 'US']}",{'ALISON': ['CA']}
+40,9ADNHCLP,"Drahos, Peter",Author,0.0,M,1.0,False,"{'PETER': [nan, 'AT', 'BE', 'BY', 'CA', 'CH', 'DE', 'DK', 'EG', 'GB', 'GL', 'HU', 'IE', 'IL', 'KE', 'LI', 'LU', 'MT', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{},{}
+41,7SQXJK34,"Okediji, Ruth L",Author,0.0,F,1.0,True,{},"{'RUTH': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'DO', 'EE', 'ES', 'GB', 'IE', 'IL', 'IS', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+42,IPP6CSW4,"Lundqvist, Lars",Author,0.0,M,1.0,False,"{'LARS': ['BE', 'CA', 'CH', 'DE', 'DK', 'FI', 'GB', 'NL', 'NO', 'SE', 'US']}",{},{}
+43,IPP6CSW4,"Sanderhoff, Merete",Editor,0.0,F,1.0,False,{},"{'MERETE': ['DK', 'NO', 'US']}",{}
+44,TICCMZAE,"Torsen, Molly",Author,0.0,F,1.0,False,{},"{'MOLLY': ['CA', 'DK', 'GB', 'SE', 'US']}",{}
+45,TICCMZAE," Anderson, Jane",Author,1.0,F,0.9375,False,{'JANE': ['MK']},"{'JANE': ['AT', 'BE', 'CA', 'CH', 'DK', 'EE', 'GB', 'IE', 'LT', 'MT', 'NL', 'NO', 'PH', 'SE', 'US']}",{}
+46,4Z9XCC4R,"McBride, Pauline",Author,0.0,F,1.0,False,{},"{'PAULINE': [nan, 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+47,4Z9XCC4R,"Wallace, Andrea",Editor,0.0,F,0.9090909090909091,False,{'ANDREA': ['IT']},"{'ANDREA': ['AL', 'AT', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HU', 'IE', 'IS', 'LU', 'ME', 'NL', 'SK', 'US']}",{'ANDREA': ['CA']}
+48,4Z9XCC4R," Deazley, Ronan",Editor,1.0,M,0.8,False,"{'RONAN': ['FR', 'GB', 'IE', 'US']}",{},{'RONAN': ['CA']}
+49,92M6G7RB,"Jaszi, Peter",Author,0.0,M,1.0,False,"{'PETER': [nan, 'AT', 'BE', 'BY', 'CA', 'CH', 'DE', 'DK', 'EG', 'GB', 'GL', 'HU', 'IE', 'IL', 'KE', 'LI', 'LU', 'MT', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{},{}
+50,FX56AKB2,"Fisk, Catherine L.",Author,0.0,F,1.0,True,{},"{'CATHERINE': ['AT', 'BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'LU', 'MT', 'US']}",{}
+51,7TAZUFC9,"Hirtle, Peter B.",Author,0.0,M,1.0,True,"{'PETER': [nan, 'AT', 'BE', 'BY', 'CA', 'CH', 'DE', 'DK', 'EG', 'GB', 'GL', 'HU', 'IE', 'IL', 'KE', 'LI', 'LU', 'MT', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{},{}
+52,7TAZUFC9," Hudson, Emily",Author,1.0,F,1.0,False,{},"{'EMILY': ['AU', 'AW', 'BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'LU', 'MT', 'NZ', 'US']}",{}
+53,7TAZUFC9," Kenyon, Andrew T.",Author,2.0,M,0.8333333333333334,True,"{'ANDREW': ['GB', 'IE', 'MT', 'UA', 'US']}",{},{'ANDREW': ['CA']}
+54,EGCSN6WK,"Williamson, Bess",Author,0.0,F,1.0,False,{},"{'BESS': ['CA', 'GB', 'US']}",{}
+55,SGKIGQGG,"Heidel, Evelin",Author,0.0,F,1.0,False,{},"{'EVELIN': ['AT', 'CA', 'CH', 'DE', 'EE', 'GB', 'US']}",{}
+56,SGKIGQGG," Fauconnier, Sandra",Author,1.0,F,1.0,False,{},"{'SANDRA': ['AT', 'BA', 'BE', 'CA', 'CH', 'DE', 'DK', 'DM', 'EE', 'ES', 'FR', 'GB', 'HR', 'IE', 'IS', 'IT', 'LT', 'LU', 'LV', 'ME', 'MT', 'NL', 'NO', 'PT', 'RS', 'SE', 'SI', 'US']}",{}
+57,U5VDSRP7,"Tanner, Simon",Author,0.0,M,0.9642857142857143,False,"{'SIMON': ['AL', 'AM', 'AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'GE', 'IE', 'IL', 'IS', 'LI', 'LU', 'ME', 'MK', 'MT', 'NL', 'NO', 'RO', 'RS', 'SE', 'SI', 'US']}",{},{'SIMON': ['CA']}
+58,SDLP8SCC,Universities UK Open Access Monographs Group,Author,0.0,Unexpected name format,,,,,
+59,4AR8Q29S,New York Public Library,Author,0.0,Unexpected name format,,,,,
+60,PT64LI6C,"Andersen, Nikki",Author,0.0,F,0.8571428571428571,False,{},"{'NIKKI': ['BE', 'GB', 'IN', 'NL', 'SE', 'US']}",{'NIKKI': ['CA']}
+61,RGDAAB8C,Biblioteca Nacional de Maestros,Author,0.0,Unexpected name format,,,,,
+62,W5QXN4GS,"Kassim, Sumaya",Author,0.0,F,1.0,False,{},"{'SUMAYA': ['CA', 'GB', 'IR', 'SE', 'US']}",{}
+63,F5IFT3V4,Getty Institute,Author,0.0,Unexpected name format,,,,,
+64,HC2DKDDH,"Emery, Jill",Author,0.0,F,1.0,False,{},"{'JILL': ['CA', 'CH', 'DK', 'GB', 'IE', 'MT', 'NL', 'SE', 'US']}",{}
+65,HC2DKDDH," Glahn, Peggy",Author,1.0,F,1.0,False,{},"{'PEGGY': ['BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'IE', 'LU', 'NL', 'US']}",{}
+66,HC2DKDDH," Robertson, Tara",Author,2.0,F,0.8888888888888888,False,{},"{'TARA': ['BE', 'GB', 'IE', 'IL', 'IN', 'NL', 'SE', 'US']}",{'TARA': ['CA']}
+67,82A6BMEA,"Ellcessor, Elizabeth",Author,0.0,F,0.9,False,{},"{'ELIZABETH': ['AM', 'BE', 'GB', 'IE', 'IL', 'MT', 'NL', 'PY', 'US']}",{'ELIZABETH': ['CA']}
+68,T43VWP88,"Mahey, M.",Author,0.0,Name(s) not found,,,,,
+69,T43VWP88," Al-Abdulla, A.",Author,1.0,Name(s) not found,,,,,
+70,T43VWP88," Ames, S.",Author,2.0,Name(s) not found,,,,,
+71,T43VWP88," Bray, P.",Author,3.0,Name(s) not found,,,,,
+72,T43VWP88," Candela, G.",Author,4.0,Name(s) not found,,,,,
+73,T43VWP88," Chambers, S.",Author,5.0,Name(s) not found,,,,,
+74,T43VWP88," Derven, C.",Author,6.0,Name(s) not found,,,,,
+75,T43VWP88," Dobreva-McPherson, M.",Author,7.0,Name(s) not found,,,,,
+76,T43VWP88," Gasser, K.",Author,8.0,Name(s) not found,,,,,
+77,T43VWP88," Karner, S.",Author,9.0,Name(s) not found,,,,,
+78,T43VWP88," Kokegei, K.",Author,10.0,Name(s) not found,,,,,
+79,T43VWP88," Laursen, D.",Author,11.0,Name(s) not found,,,,,
+80,T43VWP88," Potter, A.",Author,12.0,Name(s) not found,,,,,
+81,T43VWP88," Straube, A.",Author,13.0,Name(s) not found,,,,,
+82,T43VWP88," Wagner, S-C.",Author,14.0,Name(s) not found,,,,,
+83,T43VWP88," Wilms, L.",Author,15.0,Name(s) not found,,,,,
+84,GKLZ8CN9,"Allison-Cassin, Stacy",Author,0.0,F,0.6666666666666666,False,{},"{'STACY': ['GB', 'US']}",{'STACY': ['CA']}
+85,GKLZ8CN9," Armstrong,, Alison",Author,1.0,F,0.8571428571428571,False,{},"{'ALISON': ['BE', 'FR', 'GB', 'IE', 'MT', 'US']}",{'ALISON': ['CA']}
+86,GKLZ8CN9," Ayers, Phoebe",Author,2.0,F,1.0,False,{},"{'PHOEBE': ['CA', 'GB', 'US']}",{}
+87,GKLZ8CN9," Cramer, Tom",Author,3.0,M,1.0,False,"{'TOM': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'LU', 'NL', 'NO', 'SE', 'US']}",{},{}
+88,GKLZ8CN9," Custer, Mark",Author,4.0,M,1.0,False,"{'MARK': [nan, 'AL', 'AM', 'AT', 'AZ', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'EG', 'GB', 'HU', 'IE', 'IL', 'KS', 'KZ', 'LI', 'MT', 'NL', 'SE', 'SI', 'US']}",{},{}
+89,GKLZ8CN9," Lemus-Rojas, Mairelys",Author,5.0,Name(s) not found,,,,,
+90,GKLZ8CN9," McCallum, Sally",Author,6.0,F,1.0,False,{},"{'SALLY': ['BE', 'CA', 'DK', 'GB', 'IE', 'NL', 'SE', 'US']}",{}
+91,GKLZ8CN9," Proffitt, Merrilee",Author,7.0,F,1.0,False,{},"{'MERRILEE': ['CA', 'US']}",{}
+92,GKLZ8CN9," Puente, Mark A.",Author,8.0,M,1.0,True,"{'MARK': [nan, 'AL', 'AM', 'AT', 'AZ', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'EG', 'GB', 'HU', 'IE', 'IL', 'KS', 'KZ', 'LI', 'MT', 'NL', 'SE', 'SI', 'US']}",{},{}
+93,GKLZ8CN9," Ruttenberg, Judy",Author,9.0,F,1.0,False,{},"{'JUDY': ['CA', 'GB', 'IE', 'US']}",{}
+94,GKLZ8CN9," Stinson, Alex",Author,10.0,M,0.7727272727272727,False,"{'ALEX': ['AD', 'AM', 'AT', 'AZ', 'BE', 'CH', 'DE', 'DK', 'ES', 'FI', 'FR', 'IS', 'LU', 'NL', 'NO', 'SK', 'US']}",{},"{'ALEX': ['CA', 'GB', 'IE', 'IL', 'MT']}"
+95,AKAXJ3ZK,"Worcman, Karen",Author,0.0,F,0.8947368421052632,False,"{'KAREN': ['AM', 'AZ']}","{'KAREN': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'FR', 'GB', 'IE', 'IL', 'IS', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+96,HFRVDI7C,"Smith, Laurajane",Author,0.0,Name(s) not found,,,,,
+97,A2MDLC78,"Heidel, Evelin",Author,0.0,F,1.0,False,{},"{'EVELIN': ['AT', 'CA', 'CH', 'DE', 'EE', 'GB', 'US']}",{}
+98,C56Q7LF6,"Heidel, Evelin",Author,0.0,F,1.0,False,{},"{'EVELIN': ['AT', 'CA', 'CH', 'DE', 'EE', 'GB', 'US']}",{}
+99,GN7PAD8Q,"Heidel, Evelin",Author,0.0,F,1.0,False,{},"{'EVELIN': ['AT', 'CA', 'CH', 'DE', 'EE', 'GB', 'US']}",{}
+100,UBQGME8R,"Ruiz, Claudio",Author,0.0,M,1.0,False,"{'CLAUDIO': ['CA', 'CH', 'ES', 'GB', 'IT', 'MT', 'PT', 'US']}",{},{}
+101,UBQGME8R," Heidel, Evelin",Author,1.0,F,1.0,False,{},"{'EVELIN': ['AT', 'CA', 'CH', 'DE', 'EE', 'GB', 'US']}",{}
+102,BUEZJ9AY,"Union, Publications Office of the European",Author,0.0,M,0.6666666666666666,True,"{'EUROPEAN': [nan], 'THE': ['GB', 'NL', 'US']}",{'THE': ['VN']},{'THE': ['CA']}
+103,U9H7I8XQ,"Union, Publications Office of the European",Author,0.0,M,0.6666666666666666,True,"{'EUROPEAN': [nan], 'THE': ['GB', 'NL', 'US']}",{'THE': ['VN']},{'THE': ['CA']}
+104,MK5E7L2W,"Terras, Melissa",Author,0.0,F,0.9230769230769231,False,{},"{'MELISSA': ['AT', 'BE', 'CH', 'DE', 'FR', 'GB', 'IE', 'IT', 'MT', 'NL', 'SE', 'US']}",{'MELISSA': ['CA']}
+105,WNRNU8HD,United Nations,Author,0.0,Unexpected name format,,,,,
+106,SV3HV63T,Europeana,Author,0.0,Unexpected name format,,,,,
+107,Q3X6Q9HL,European Commission,Author,0.0,Unexpected name format,,,,,
+108,L8YVCEH3,"Bietti, Elettra",Author,0.0,F,1.0,False,{},"{'ELETTRA': ['GB', 'IT', 'US']}",{}
+109,6PBZNB68,"Thambisetty, Dr Siva",Author,0.0,M,0.5,True,"{'SIVA': ['IN', 'US']}",{'SIVA': ['CA']},{'DR': ['IN']}
+110,TXDW9ADF,"Shibata, Akiho",Author,0.0,Name(s) not found,,,,,
+111,ZDR9N7WU,"Rykner, Didier",Author,0.0,M,1.0,False,"{'DIDIER': ['BE', 'CA', 'CH', 'FR', 'GB', 'LU', 'US']}",{},{}
+112,UX753IWZ,"Thylstrup, Nanna Bonde",Author,0.0,F,1.0,True,{},"{'NANNA': ['DE', 'DK', 'FI', 'IS', 'IT', 'NO', 'SE', 'US']}",{}
+113,USCBVY5I,"Sanderhoff, Merete",Author,0.0,F,1.0,False,{},"{'MERETE': ['DK', 'NO', 'US']}",{}
+114,ND5YMV23,"Anisia-Maria, AVRAM",Author,0.0,M,1.0,False,"{'AVRAM': ['AL', 'CA', 'GB', 'IL', 'RO', 'RS', 'US']}",{},{}
+115,DH6SYKDX,"Angelopoulos, Christina",Author,0.0,F,0.9333333333333333,False,{},"{'CHRISTINA': [nan, 'AT', 'BE', 'CH', 'DE', 'DK', 'FR', 'GB', 'GR', 'IE', 'NL', 'NO', 'SE', 'US']}",{'CHRISTINA': ['CA']}
+116,SXV68BLG,European Commission,Author,0.0,Unexpected name format,,,,,
+117,NPRUPA65,"Pessach, Guy",Author,0.0,M,1.0,False,"{'GUY': ['BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'IL', 'JP', 'LU', 'NL', 'US']}",{},{}
+118,CU6KWJ8U,"Pessach, Guy",Author,0.0,M,1.0,False,"{'GUY': ['BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'IL', 'JP', 'LU', 'NL', 'US']}",{},{}
+119,Z394KQRE,"Petri, Grischka",Author,0.0,Name(s) not found,,,,,
+120,23ZJVIPE,"Schmidt, Antje",Author,0.0,F,1.0,False,{},"{'ANTJE': ['AT', 'BE', 'CA', 'CH', 'DE', 'NL', 'US']}",{}
+121,NRDI2ST9,"Margoni, Thomas",Author,0.0,M,1.0,False,"{'THOMAS': ['AT', 'AU', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'GR', 'IE', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{},{}
+122,R5IZ3BVW,"Harpur, Paul",Author,0.0,M,1.0,False,"{'PAUL': ['AT', 'BE', 'CA', 'CH', 'CM', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'RO', 'SE', 'US']}",{},{}
+123,AL23UEJ3,Indigitization,Author,0.0,Unexpected name format,,,,,
+124,6RD5G3MG,"Powell, Sarah",Author,0.0,F,1.0,False,{},"{'SARAH': ['AE', 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'LI', 'LU', 'LY', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+125,6RD5G3MG," Moriarty, Adam",Author,1.0,M,1.0,False,"{'ADAM': ['AT', 'AU', 'BA', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EG', 'ES', 'FR', 'GB', 'GR', 'HU', 'IE', 'IL', 'IS', 'MY', 'PL', 'RO', 'SE', 'SK', 'US']}",{},{}
+126,6RD5G3MG," O'Donovan, Michaela",Author,2.0,F,1.0,False,{},"{'MICHAELA': ['AT', 'CA', 'CH', 'CZ', 'DE', 'DK', 'GB', 'RO', 'SE', 'SK', 'US']}",{}
+127,6RD5G3MG," Sanderson, Dave",Author,3.0,M,1.0,False,"{'DAVE': ['BE', 'CA', 'GB', 'IE', 'NL', 'US']}",{},{}
+128,82TGBP9Q,"Tuck, Eve",Author,0.0,F,1.0,False,{},"{'EVE': ['CA', 'DE', 'EE', 'FR', 'GB', 'US']}",{}
+129,82TGBP9Q," Yang, K. Wayne",Author,1.0,M,0.8,True,"{'WAYNE': ['GB', 'IE', 'JM', 'US']}",{},{'WAYNE': ['CA']}
+130,M76X2CEA,"Rudy, Kathryn M.",Author,0.0,F,1.0,True,{},"{'KATHRYN': ['CA', 'GB', 'IE', 'MT', 'US']}",{}
+131,822KQKH5,"Prescott, Andrew",Author,0.0,M,0.8333333333333334,False,"{'ANDREW': ['GB', 'IE', 'MT', 'UA', 'US']}",{},{'ANDREW': ['CA']}
+132,822KQKH5," Hughes, Lorna",Author,1.0,F,1.0,False,{},"{'LORNA': ['CA', 'GB', 'IE', 'NO', 'US']}",{}
+133,LG7P4VTT,FAIR Principles,Author,0.0,Unexpected name format,,,,,
+134,R54CKARR,United Nations for Indigenous Peoples,Author,0.0,Unexpected name format,,,,,
+135,N7FXCWFM,UNESCO,Author,0.0,Unexpected name format,,,,,
+136,C5UIFGHC,UNESCO,Author,0.0,Unexpected name format,,,,,
+137,WM8TKC6M,University Museum of University of Pennysylvania,Author,0.0,Unexpected name format,,,,,
+138,BLYZBB39,RedCSur,Author,0.0,Unexpected name format,,,,,
+139,ZM3988XD,Smithsonian Institution,Author,0.0,Unexpected name format,,,,,
+140,JWX8IVF3,AHRC,Author,0.0,Unexpected name format,,,,,
+141,XZTP33LR,Atlanta University Center,Author,0.0,Unexpected name format,,,,,
+142,YK4UCTN9,Protocols for Native American Archival Materials,Author,0.0,Unexpected name format,,,,,
+143,HSCJJB8M,"Anderson, Jane",Author,0.0,F,0.9375,False,{'JANE': ['MK']},"{'JANE': ['AT', 'BE', 'CA', 'CH', 'DK', 'EE', 'GB', 'IE', 'LT', 'MT', 'NL', 'NO', 'PH', 'SE', 'US']}",{}
+144,WSADMXZI,Derechos Digitales,Author,0.0,Unexpected name format,,,,,
+145,34TTHE2K,"Soueif, Ahdaf",Author,0.0,Name(s) not found,,,,,
+146,R5IKMM7H,First Nations Information Governance Centre,Author,0.0,Unexpected name format,,,,,
+147,YF2F5UKS,Museums Galleries Australia,Author,0.0,Unexpected name format,,,,,
+148,358BF82J,BC Musuems Association,Author,0.0,Unexpected name format,,,,,
+149,QXMSNWPF,CIDOC,Author,0.0,Unexpected name format,,,,,
+150,N7FZMWY6,"Kalshoven, Lisette",Author,0.0,F,1.0,False,{},"{'LISETTE': ['BE', 'CA', 'CH', 'DK', 'FR', 'GB', 'NL', 'US']}",{}
+151,SXKIMTK9,UKRI,Author,0.0,Unexpected name format,,,,,
+152,RFZ5BSK4,British Council,Author,0.0,Unexpected name format,,,,,
+153,2S2G55ZJ,OER Congress,Author,0.0,Unexpected name format,,,,,
+154,U96D6K3U,"Cruz, Maria",Author,0.0,F,1.0,False,{},"{'MARIA': ['AD', 'AL', 'AM', 'AR', 'AT', 'AZ', 'BE', 'BG', 'BY', 'CA', 'CH', 'CO', 'CU', 'CZ', 'DE', 'DK', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GE', 'GR', 'HU', 'IE', 'IL', 'IS', 'IT', 'KZ', 'LU', 'MD', 'MT', 'MX', 'NL', 'NO', 'PE', 'PL', 'PT', 'PY', 'RO', 'RU', 'SE', 'SK', 'UA', 'US']}",{}
+155,U96D6K3U," Dintzner, Nicolas",Author,1.0,M,1.0,False,"{'NICOLAS': ['AT', 'BE', 'CA', 'CH', 'CO', 'DE', 'ES', 'FR', 'GB', 'IE', 'LU', 'MX', 'SE', 'US', 'UY']}",{},{}
+156,U96D6K3U," Dunning, Alastair",Author,2.0,M,1.0,False,"{'ALASTAIR': ['CA', 'GB', 'IE', 'US']}",{},{}
+157,U96D6K3U," Kuil, Annemiek van der",Author,3.0,F,0.42857142857142855,True,"{'VAN': ['US', 'VN']}","{'ANNEMIEK': ['CA', 'NL'], 'DER': ['US']}","{'VAN': ['CA', 'GB']}"
+158,U96D6K3U," Plomp, Esther",Author,4.0,F,1.0,False,{},"{'ESTHER': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'ES', 'FR', 'GB', 'HT', 'IE', 'IL', 'IS', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+159,U96D6K3U," Teperek, Marta",Author,5.0,F,1.0,False,{},"{'MARTA': ['AT', 'AZ', 'BA', 'BY', 'CA', 'CH', 'CL', 'CZ', 'DE', 'DK', 'EE', 'ES', 'GB', 'HR', 'HU', 'IS', 'IT', 'LT', 'LV', 'ME', 'MK', 'NO', 'PL', 'PT', 'RO', 'RS', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{}
+160,U96D6K3U," Velden, Yasemin Turkyilmaz-van der",Author,6.0,F,0.5555555555555556,True,"{'VAN': ['US', 'VN']}","{'DER': ['US'], 'YASEMIN': ['CA', 'GB', 'TR', 'US']}","{'VAN': ['CA', 'GB']}"
+161,U96D6K3U," Versteeg, Anke",Author,7.0,F,1.0,False,{},"{'ANKE': ['AT', 'BE', 'CA', 'CH', 'DE', 'GB', 'NL', 'US']}",{}
+162,PDVAFS8L,UNESCO,Author,0.0,Unexpected name format,,,,,
+163,46VYFDQ6,"Thorpe, Kirsten",Author,0.0,F,0.9090909090909091,False,{},"{'KIRSTEN': ['AT', 'BE', 'CH', 'DE', 'DK', 'GB', 'NL', 'NO', 'SE', 'US']}",{'KIRSTEN': ['CA']}
+164,AU6W44G7,"Moreton-Robinson, Aileen",Author,0.0,F,1.0,False,{},"{'AILEEN': ['CA', 'GB', 'IE', 'US']}",{}
+165,XRJWCKWA,"Sentance, Nathan",Author,0.0,M,1.0,False,"{'NATHAN': ['BE', 'CA', 'CH', 'FR', 'GB', 'IL', 'IN', 'MC', 'NL', 'SE', 'US']}",{},{}
+166,4L9MWLGK,"Sentance, Nathan",Author,0.0,M,1.0,False,"{'NATHAN': ['BE', 'CA', 'CH', 'FR', 'GB', 'IL', 'IN', 'MC', 'NL', 'SE', 'US']}",{},{}
+167,5EGE9L4P,"Crissinger, Sarah",Author,0.0,F,1.0,False,{},"{'SARAH': ['AE', 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'LI', 'LU', 'LY', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+168,CJAMT8UR,ARCHIVOZ,Author,0.0,Unexpected name format,,,,,
+169,6JF26UDS,BAPLA,Author,0.0,Unexpected name format,,,,,
+170,RX6PRZQI,"Sentance, Nathan",Author,0.0,M,1.0,False,"{'NATHAN': ['BE', 'CA', 'CH', 'FR', 'GB', 'IL', 'IN', 'MC', 'NL', 'SE', 'US']}",{},{}
+171,N4J4RD2J,European Commission,Author,0.0,Unexpected name format,,,,,
+172,PQ7QW4GN,European Commission,Author,0.0,Unexpected name format,,,,,
+173,2DAYSDA5,"Blake, Janet",Author,0.0,F,1.0,False,{},"{'JANET': ['AT', 'BE', 'CA', 'CH', 'DE', 'GB', 'IE', 'MT', 'NL', 'US']}",{}
+174,TKL3QEIM,"Theodore, Terri",Author,0.0,F,0.75,False,{},"{'TERRI': ['GB', 'IE', 'US']}",{'TERRI': ['CA']}
+175,P6C3N77W,"Arendsen, Annemieke",Author,0.0,F,1.0,False,{},"{'ANNEMIEKE': ['BE', 'CA', 'NL', 'US']}",{}
+176,H8P3BGAS,Lisette Kalshoven,Author,0.0,Unexpected name format,,,,,
+177,T9LLRRCX,"Chapman, Audrey R.",Author,0.0,F,1.0,True,{},"{'AUDREY': ['BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'US']}",{}
+178,NWG8MXU7,"Gerstenblith, Patty",Author,0.0,F,1.0,False,{},"{'PATTY': ['CA', 'CH', 'GB', 'NL', 'US']}",{}
+179,6YXY4ZNI,"Leguina, Adrian",Author,0.0,M,0.9444444444444444,False,"{'ADRIAN': ['AL', 'AT', 'BE', 'BG', 'CH', 'DE', 'ES', 'GB', 'HU', 'IE', 'MD', 'MT', 'NL', 'PL', 'RO', 'SK', 'US']}",{},{'ADRIAN': ['CA']}
+180,6YXY4ZNI," Mihelj, Sabina",Author,1.0,F,1.0,False,{},"{'SABINA': ['AL', 'AT', 'AZ', 'BA', 'BE', 'CA', 'CH', 'ES', 'GB', 'HR', 'IN', 'IT', 'KS', 'KZ', 'LT', 'MD', 'ME', 'NL', 'PL', 'PT', 'RO', 'SE', 'SI', 'US']}",{}
+181,BJTPTNFQ,"Helfer, Laurence",Author,0.0,FM,0.4444444444444444,False,"{'LAURENCE': ['GB', 'IE', 'MT', 'US']}","{'LAURENCE': ['BE', 'CH', 'FR', 'LU']}",{'LAURENCE': ['CA']}
+182,74V66JU5,"Stinson, Alexander D.",Author,0.0,M,1.0,True,"{'ALEXANDER': [nan, 'AM', 'AT', 'AZ', 'BE', 'BY', 'CA', 'CH', 'DE', 'DK', 'EE', 'ES', 'GB', 'GE', 'GH', 'IE', 'IL', 'IS', 'KZ', 'MD', 'MT', 'NL', 'NO', 'PE', 'RU', 'SE', 'SK', 'UA', 'US']}",{},{}
+183,74V66JU5," Fauconnier, Sandra",Author,1.0,F,1.0,False,{},"{'SANDRA': ['AT', 'BA', 'BE', 'CA', 'CH', 'DE', 'DK', 'DM', 'EE', 'ES', 'FR', 'GB', 'HR', 'IE', 'IS', 'IT', 'LT', 'LU', 'LV', 'ME', 'MT', 'NL', 'NO', 'PT', 'RS', 'SE', 'SI', 'US']}",{}
+184,74V66JU5," Wyatt, Liam",Author,2.0,M,1.0,False,"{'LIAM': ['AU', 'BE', 'CA', 'CH', 'DK', 'GB', 'IE', 'MT', 'NZ', 'SE', 'US']}",{},{}
+185,PVULHDC2,"Werner, Sarah",Author,0.0,F,1.0,False,{},"{'SARAH': ['AE', 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'LI', 'LU', 'LY', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+186,2PRX3FHZ,"Wilson, Bonita",Author,0.0,F,1.0,False,{},"{'BONITA': ['CA', 'GB', 'NL', 'US']}",{}
+187,T6SNUDIX,"Sullivan, Robert",Author,0.0,M,0.9714285714285714,False,"{'ROBERT': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'BY', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'GE', 'HR', 'HU', 'ID', 'IE', 'IL', 'IS', 'LU', 'MK', 'MT', 'NL', 'NO', 'PL', 'RO', 'RU', 'SE', 'SI', 'SK', 'US']}",{},{'ROBERT': ['CA']}
+188,9R2J4RM8,Bathlander,Author,0.0,Unexpected name format,,,,,
+189,C8IPCR9J,Making African Connections,Author,0.0,Unexpected name format,,,,,
+190,4P7UP57I,"Young, Anne",Author,0.0,F,0.8888888888888888,False,{},"{'ANNE': [nan, 'AT', 'BE', 'CH', 'DE', 'DK', 'EE', 'FI', 'FR', 'GB', 'IE', 'LU', 'MT', 'NO', 'SE', 'US']}","{'ANNE': ['CA', 'NL']}"
+191,P94733F5,"Young, Anne",Author,0.0,F,0.8888888888888888,False,{},"{'ANNE': [nan, 'AT', 'BE', 'CH', 'DE', 'DK', 'EE', 'FI', 'FR', 'GB', 'IE', 'LU', 'MT', 'NO', 'SE', 'US']}","{'ANNE': ['CA', 'NL']}"
+192,ZHRTWH24,"Young, Anne",Author,0.0,F,0.8888888888888888,False,{},"{'ANNE': [nan, 'AT', 'BE', 'CH', 'DE', 'DK', 'EE', 'FI', 'FR', 'GB', 'IE', 'LU', 'MT', 'NO', 'SE', 'US']}","{'ANNE': ['CA', 'NL']}"
+193,8DQQF7U6,"Young, Anne",Author,0.0,F,0.8888888888888888,False,{},"{'ANNE': [nan, 'AT', 'BE', 'CH', 'DE', 'DK', 'EE', 'FI', 'FR', 'GB', 'IE', 'LU', 'MT', 'NO', 'SE', 'US']}","{'ANNE': ['CA', 'NL']}"
+194,BDZNP724,"Young, Anne",Author,0.0,F,0.8888888888888888,False,{},"{'ANNE': [nan, 'AT', 'BE', 'CH', 'DE', 'DK', 'EE', 'FI', 'FR', 'GB', 'IE', 'LU', 'MT', 'NO', 'SE', 'US']}","{'ANNE': ['CA', 'NL']}"
+195,FF2FK52I,"Young, Anne",Author,0.0,F,0.8888888888888888,False,{},"{'ANNE': [nan, 'AT', 'BE', 'CH', 'DE', 'DK', 'EE', 'FI', 'FR', 'GB', 'IE', 'LU', 'MT', 'NO', 'SE', 'US']}","{'ANNE': ['CA', 'NL']}"
+196,N6FTWLAV,"Bolliger, Stephanie",Author,0.0,F,1.0,False,{},"{'STEPHANIE': ['AT', 'BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'HN', 'IE', 'LU', 'MT', 'NL', 'SE', 'US']}",{}
+197,N6FTWLAV," Brüderlin, Brigitte",Author,1.0,F,1.0,False,{},"{'BRIGITTE': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'LU', 'MT', 'NL', 'NO', 'US']}",{}
+198,N6FTWLAV," Gasser, Michael",Author,2.0,M,0.9523809523809523,False,"{'MICHAEL': [nan, 'AM', 'AT', 'AU', 'BE', 'CH', 'CZ', 'DE', 'DK', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'SE', 'SK', 'US']}",{},{'MICHAEL': ['CA']}
+199,N6FTWLAV," Lyskawa, Julia",Author,3.0,F,1.0,False,{},"{'JULIA': ['AT', 'AZ', 'BE', 'BG', 'BR', 'BY', 'CA', 'CH', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'HU', 'IE', 'IL', 'IS', 'KZ', 'LU', 'MD', 'MT', 'NL', 'PL', 'PT', 'RU', 'SC', 'SE', 'SK', 'UA', 'US', 'UY']}",{}
+200,N6FTWLAV," Maier, Petra",Author,4.0,F,1.0,False,{},"{'PETRA': ['AT', 'BE', 'BG', 'CA', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FI', 'GB', 'HR', 'HU', 'IS', 'LU', 'NL', 'NO', 'RO', 'SE', 'SI', 'US']}",{}
+201,N6FTWLAV," Schmitt, Lothar",Author,5.0,M,1.0,False,"{'LOTHAR': ['AT', 'CA', 'CH', 'DE', 'US']}",{},{}
+202,W8DFGNM5,"Levine, Melissa",Author,0.0,F,0.9230769230769231,False,{},"{'MELISSA': ['AT', 'BE', 'CH', 'DE', 'FR', 'GB', 'IE', 'IT', 'MT', 'NL', 'SE', 'US']}",{'MELISSA': ['CA']}
+203,W8DFGNM5," Adler, Richard C.",Author,1.0,M,1.0,True,"{'RICHARD': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'FR', 'GB', 'HU', 'IE', 'LU', 'MT', 'NL', 'NO', 'PH', 'SE', 'SK', 'TT', 'US']}",{},{}
+204,W8DFGNM5," Bonfiglio, Justin",Author,2.0,M,0.9333333333333333,False,"{'JUSTIN': ['AT', 'BE', 'FR', 'GB', 'IE', 'JM', 'LU', 'MT', 'NL', 'PH', 'RO', 'SE', 'TT', 'US']}",{},{'JUSTIN': ['CA']}
+205,W8DFGNM5," Eden, Kristina",Author,3.0,F,0.967741935483871,False,{},"{'KRISTINA': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'BG', 'BY', 'CH', 'CZ', 'DE', 'DK', 'EE', 'FI', 'GB', 'HR', 'IS', 'KZ', 'LT', 'LV', 'MD', 'MK', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{'KRISTINA': ['CA']}
+206,W8DFGNM5," Hall, and Brian S.",Author,4.0,M,0.8888888888888888,True,"{'BRIAN': ['BE', 'DK', 'GB', 'IE', 'MT', 'NL', 'NO', 'US']}",{},{'BRIAN': ['CA']}
+207,NA4Q5W7Y,Copyright Office at the University of Alberta,Author,0.0,Unexpected name format,,,,,
+208,B6H8MQC2,Museums Association,Author,0.0,Unexpected name format,,,,,
+209,7L735SG8,"Posner, Miriam",Author,0.0,F,1.0,False,{},"{'MIRIAM': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'ES', 'GB', 'IE', 'IL', 'IR', 'IT', 'MT', 'MX', 'NL', 'NO', 'SE', 'SK', 'US']}",{}
+210,HN4FIJXY,"Tuck, Eve",Author,0.0,F,1.0,False,{},"{'EVE': ['CA', 'DE', 'EE', 'FR', 'GB', 'US']}",{}
+211,XM7UW7VY,"Senier, Siobhan",Author,0.0,F,1.0,False,{},"{'SIOBHAN': ['CA', 'GB', 'IE', 'US']}",{}
+212,45NCMXP2,"Bahram, Sina",Author,0.0,F,0.5,False,"{'SINA': ['IR', 'TR']}","{'SINA': ['CH', 'DE', 'RO', 'US']}","{'SINA': ['CA', 'GB']}"
+213,7V3LKJRI,"Murphy, Megan",Author,0.0,F,0.75,False,{},"{'MEGAN': ['GB', 'IE', 'US']}",{'MEGAN': ['CA']}
+214,LQMC98PP,"Richardson, Troy",Author,0.0,M,0.75,False,"{'TROY': ['GB', 'SE', 'US']}",{},{'TROY': ['CA']}
+215,7JUEZ5YN,"Ahmed, Sara",Author,0.0,F,0.9743589743589743,False,{},"{'SARA': [nan, 'AE', 'AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'CH', 'CO', 'DE', 'DK', 'DZ', 'ES', 'FI', 'FR', 'GB', 'HR', 'HU', 'IE', 'IL', 'IR', 'IS', 'IT', 'JP', 'LI', 'ME', 'MX', 'MY', 'NL', 'NO', 'PT', 'RO', 'RS', 'SE', 'SI', 'TR', 'US']}",{'SARA': ['CA']}
+216,QAGNAUYM,"Harris, Gareth",Author,0.0,M,1.0,False,"{'GARETH': ['CA', 'GB', 'IE', 'US']}",{},{}
+217,NKBJH8PR,"Okediji, Ruth",Author,0.0,F,1.0,False,{},"{'RUTH': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'DO', 'EE', 'ES', 'GB', 'IE', 'IL', 'IS', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+218,JGN8QNK5,"Rees, Marc",Author,0.0,M,1.0,False,"{'MARC': ['AD', 'AT', 'BE', 'CA', 'CH', 'DE', 'ES', 'FR', 'GB', 'IE', 'IL', 'LI', 'LU', 'NL', 'SE', 'US']}",{},{}
+219,SG2SPQ3N,"Francoise, Camille",Author,0.0,F,0.8571428571428571,False,{},"{'CAMILLE': ['BE', 'CH', 'FR', 'GB', 'LU', 'US']}",{'CAMILLE': ['CA']}
+220,GHK6V6CY,Wellcome Collection,Author,0.0,Unexpected name format,,,,,
+221,AE9DBI2W,"Proctor, Nancy",Author,0.0,F,1.0,False,{},"{'NANCY': ['BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+222,Y7MB6NKT,Centre For 21st Century Humanities,Author,0.0,Unexpected name format,,,,,
+223,GVDH3IT6,"Nyhan, Julianne",Author,0.0,F,0.8571428571428571,False,{},"{'JULIANNE': ['AT', 'CH', 'GB', 'IE', 'MT', 'US']}",{'JULIANNE': ['CA']}
+224,GVDH3IT6," Flinn, Andrew",Author,1.0,M,0.8333333333333334,False,"{'ANDREW': ['GB', 'IE', 'MT', 'UA', 'US']}",{},{'ANDREW': ['CA']}
+225,MBPFBMLJ,New Zealand Ministry for Culture and Heritage Te Manatu,Author,0.0,Unexpected name format,,,,,
+226,PMCCZTG5,"Wajcman, Judy",Author,0.0,F,1.0,False,{},"{'JUDY': ['CA', 'GB', 'IE', 'US']}",{}
+227,2M3GDNWE,"Robertson, Stephen",Author,0.0,M,1.0,False,"{'STEPHEN': ['BE', 'CA', 'GB', 'IE', 'IL', 'KE', 'MT', 'SZ', 'US']}",{},{}
+228,2M3GDNWE,"Gold, Gold, Matthew K",Editor,0.0,Unexpected name format,,,,,
+229,2M3GDNWE," Klein, Lauren F",Editor,1.0,F,0.6666666666666666,True,{},"{'LAUREN': ['GB', 'US']}",{'LAUREN': ['CA']}
+230,884DV8UK,"McPherson, Tara",Author,0.0,F,0.8888888888888888,False,{},"{'TARA': ['BE', 'GB', 'IE', 'IL', 'IN', 'NL', 'SE', 'US']}",{'TARA': ['CA']}
+231,884DV8UK,"Gold, Matthew K",Editor,0.0,M,1.0,True,"{'MATTHEW': ['CA', 'GB', 'IE', 'MT', 'US']}",{},{}
+232,WQG4ZXNK,"Gebre, Engida H",Author,0.0,Name(s) not found,,,,,
+233,WQG4ZXNK," Morales, Esteban",Author,1.0,M,1.0,False,"{'ESTEBAN': ['CA', 'ES', 'GB', 'US']}",{},{}
+234,CCVZR7XJ,Te Puni Kokiri,Author,0.0,Unexpected name format,,,,,
+235,WU64N8E2,Translation Commons,Author,0.0,Unexpected name format,,,,,
+236,S84G9XNA,"Vulser, Nicole",Author,0.0,F,1.0,False,{},"{'NICOLE': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'SE', 'US', 'VE']}",{}
+237,GFJA8EI6,"Cairns, Puawai",Author,0.0,Name(s) not found,,,,,
+238,BW9J28RU,"McGivern, Hannah",Author,0.0,F,1.0,False,{},"{'HANNAH': ['AT', 'CA', 'DE', 'DK', 'GB', 'IE', 'IL', 'MT', 'MY', 'NL', 'US']}",{}
+239,CE8L9XAW,"Fauconnier, Sandra",Author,0.0,F,1.0,False,{},"{'SANDRA': ['AT', 'BA', 'BE', 'CA', 'CH', 'DE', 'DK', 'DM', 'EE', 'ES', 'FR', 'GB', 'HR', 'IE', 'IS', 'IT', 'LT', 'LU', 'LV', 'ME', 'MT', 'NL', 'NO', 'PT', 'RS', 'SE', 'SI', 'US']}",{}
+240,Z9VYV3M3,Association of Critical Heritage Studies,Author,0.0,Unexpected name format,,,,,
+241,QJ2V8AME,"Elster Pantalony, Rina",Author,0.0,F,1.0,False,{},"{'RINA': ['BE', 'BY', 'CA', 'CH', 'EC', 'GB', 'IL', 'IN', 'IT', 'JP', 'KS', 'NL', 'US']}",{}
+242,7G2BFYJU,IFLA,Author,0.0,Unexpected name format,,,,,
+243,ZM7E97KU,"Khan, Mehtab",Author,0.0,M,0.6666666666666666,False,"{'MEHTAB': ['GB', 'US']}",{},{'MEHTAB': ['CA']}
+244,3VW67ERV,"Pringle, Jonathan",Author,0.0,M,1.0,False,"{'JONATHAN': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'SE', 'US']}",{},{}
+245,7WWIRY9X,"Carpenter, Brian",Author,0.0,M,0.8888888888888888,False,"{'BRIAN': ['BE', 'DK', 'GB', 'IE', 'MT', 'NL', 'NO', 'US']}",{},{'BRIAN': ['CA']}
+246,4YT2KDMN,"Wenman, Cosmo",Author,0.0,M,1.0,False,"{'COSMO': ['CA', 'GB', 'IT', 'US']}",{},{}
+247,LSCLCZFB,SCANN,Author,0.0,Unexpected name format,,,,,
+248,J8X89A5S,SCANN,Author,0.0,Unexpected name format,,,,,
+249,DCWB84FA,SCANN,Author,0.0,Unexpected name format,,,,,
+250,YLJFLNC6,"Glasemann, Karin",Author,0.0,F,1.0,False,{},"{'KARIN': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'GB', 'LU', 'NL', 'NO', 'SE', 'US']}",{}
+251,YLJFLNC6," Matas, Ariadna",Author,1.0,F,1.0,False,{},"{'ARIADNA': ['CA', 'ES', 'GB', 'RO', 'US']}",{}
+252,YLJFLNC6," Vézina, Brigitte",Author,2.0,F,1.0,False,{},"{'BRIGITTE': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'LU', 'MT', 'NL', 'NO', 'US']}",{}
+253,8TACL6M9,"Harpur, Paul",Author,0.0,M,1.0,False,"{'PAUL': ['AT', 'BE', 'CA', 'CH', 'CM', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'RO', 'SE', 'US']}",{},{}
+254,8TACL6M9," Suzor, Nicolas",Author,1.0,M,1.0,False,"{'NICOLAS': ['AT', 'BE', 'CA', 'CH', 'CO', 'DE', 'ES', 'FR', 'GB', 'IE', 'LU', 'MX', 'SE', 'US', 'UY']}",{},{}
+255,P36NVPDN,Wikimedia Deutschland,Author,0.0,Unexpected name format,,,,,
+256,2A64IVUU,"Davidson, Jared",Author,0.0,M,0.75,False,"{'JARED': ['GB', 'PH', 'US']}",{},{'JARED': ['CA']}
+257,WZCD268G,"Webster, Peter",Author,0.0,M,1.0,False,"{'PETER': [nan, 'AT', 'BE', 'BY', 'CA', 'CH', 'DE', 'DK', 'EG', 'GB', 'GL', 'HU', 'IE', 'IL', 'KE', 'LI', 'LU', 'MT', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{},{}
+258,JG3GLDJR,"Sentance, Nathan",Author,0.0,M,1.0,False,"{'NATHAN': ['BE', 'CA', 'CH', 'FR', 'GB', 'IL', 'IN', 'MC', 'NL', 'SE', 'US']}",{},{}
+259,8DYKJ6QE,"Sentance, Nathan",Author,0.0,M,1.0,False,"{'NATHAN': ['BE', 'CA', 'CH', 'FR', 'GB', 'IL', 'IN', 'MC', 'NL', 'SE', 'US']}",{},{}
+260,ETYFM2ID,"Masaka, Dennis",Author,0.0,M,1.0,False,"{'DENNIS': ['BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'MT', 'NL', 'NO', 'SE', 'US']}",{},{}
+261,WDRQEET2,"O’Donovan, Michaela",Author,0.0,F,1.0,False,{},"{'MICHAELA': ['AT', 'CA', 'CH', 'CZ', 'DE', 'DK', 'GB', 'RO', 'SE', 'SK', 'US']}",{}
+262,WDRQEET2," Richardson, Zoe",Author,1.0,F,1.0,False,{},"{'ZOE': [nan, 'AR', 'AU', 'BE', 'CA', 'CH', 'ES', 'FR', 'GB', 'HU', 'IE', 'IT', 'LU', 'MX', 'NL', 'RO', 'SE', 'US']}",{}
+263,VWTMAUEV,"Peset, Fernanda",Author,0.0,F,1.0,False,{},"{'FERNANDA': ['BR', 'CA', 'CH', 'ES', 'GB', 'IT', 'PE', 'PT', 'US']}",{}
+264,VWTMAUEV," Ferrer-Sapena, Antonia",Author,1.0,F,1.0,False,{},"{'ANTONIA': ['AT', 'BG', 'CA', 'CH', 'DE', 'ES', 'GB', 'GR', 'HU', 'IS', 'IT', 'MT', 'PT', 'RO', 'SK', 'UA', 'US']}",{}
+265,82IIZUPL,"Angelaki, Maria",Author,0.0,F,1.0,False,{},"{'MARIA': ['AD', 'AL', 'AM', 'AR', 'AT', 'AZ', 'BE', 'BG', 'BY', 'CA', 'CH', 'CO', 'CU', 'CZ', 'DE', 'DK', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GE', 'GR', 'HU', 'IE', 'IL', 'IS', 'IT', 'KZ', 'LU', 'MD', 'MT', 'MX', 'NL', 'NO', 'PE', 'PL', 'PT', 'PY', 'RO', 'RU', 'SE', 'SK', 'UA', 'US']}",{}
+266,KZI7LW2N,"Temblador, Alex",Author,0.0,M,0.7727272727272727,False,"{'ALEX': ['AD', 'AM', 'AT', 'AZ', 'BE', 'CH', 'DE', 'DK', 'ES', 'FI', 'FR', 'IS', 'LU', 'NL', 'NO', 'SK', 'US']}",{},"{'ALEX': ['CA', 'GB', 'IE', 'IL', 'MT']}"
+267,P6HFUCIB,"Centre, UNESCO World Heritage",Author,0.0,M,1.0,True,"{'WORLD': [nan, 'US']}",{},{}
+268,XD9YNPTX,"Wittmann, Rachel",Author,0.0,F,1.0,False,{},"{'RACHEL': ['AU', 'BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'US']}",{}
+269,XD9YNPTX," Neatrour, Anna",Author,1.0,F,1.0,False,{},"{'ANNA': ['AM', 'AT', 'AZ', 'BE', 'BG', 'BY', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FI', 'FR', 'GB', 'GE', 'GR', 'HU', 'IE', 'IL', 'IS', 'IT', 'JP', 'KZ', 'LI', 'LU', 'LV', 'MD', 'MT', 'NA', 'NL', 'NO', 'PL', 'RO', 'RU', 'SE', 'SK', 'UA', 'US']}",{}
+270,XD9YNPTX," Cummings, Rebekah",Author,2.0,F,1.0,False,{},"{'REBEKAH': ['CA', 'GB', 'IE', 'IL', 'US']}",{}
+271,XD9YNPTX," Myntti, Jeremy",Author,3.0,M,0.8888888888888888,False,"{'JEREMY': ['BE', 'CH', 'FR', 'GB', 'IE', 'MT', 'SE', 'US']}",{},{'JEREMY': ['CA']}
+272,UYMIIZYJ,Smithsonian Institution,Author,0.0,Unexpected name format,,,,,
+273,A2HHB2AA,"Shiri, Ali",Author,0.0,M,0.8695652173913043,False,"{'ALI': ['AE', 'AL', 'AM', 'AZ', 'DZ', 'EG', 'FI', 'GB', 'IL', 'IQ', 'IR', 'KS', 'KZ', 'LY', 'ME', 'MK', 'PK', 'QA', 'TR', 'US']}","{'ALI': ['IE', 'NL']}",{'ALI': ['CA']}
+274,A2HHB2AA," Borys, Christina",Author,1.0,F,0.9333333333333333,False,{},"{'CHRISTINA': [nan, 'AT', 'BE', 'CH', 'DE', 'DK', 'FR', 'GB', 'GR', 'IE', 'NL', 'NO', 'SE', 'US']}",{'CHRISTINA': ['CA']}
+275,A2HHB2AA," Huang, Carolin",Author,2.0,F,1.0,False,{},"{'CAROLIN': ['AT', 'CA', 'CH', 'DE', 'SE', 'US']}",{}
+276,8J6987BQ,Anonymous,Author,0.0,Unexpected name format,,,,,
+277,CF55HEAF,"Padilla, Thomas",Author,0.0,M,1.0,False,"{'THOMAS': ['AT', 'AU', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'GR', 'IE', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{},{}
+278,V4GB79KI,"Hahn, Helene",Author,0.0,F,1.0,False,{},"{'HELENE': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FI', 'FR', 'GB', 'LU', 'NL', 'NO', 'SE', 'US']}",{}
+279,QGFNIB7D,"Read, Alice",Author,0.0,F,1.0,False,{},"{'ALICE': ['AM', 'AT', 'BE', 'BR', 'CA', 'CH', 'CZ', 'DE', 'DK', 'FI', 'FR', 'GB', 'IE', 'IT', 'LU', 'NL', 'NO', 'PT', 'SE', 'US']}",{}
+280,KM8N4ACK,"Kleege, Georgina",Author,0.0,F,1.0,False,{},"{'GEORGINA': ['BE', 'BG', 'CA', 'CH', 'ES', 'GB', 'HU', 'IE', 'PT', 'RO', 'SK', 'US']}",{}
+281,BCG27954,"Kleege, Georgina",Author,0.0,F,1.0,False,{},"{'GEORGINA': ['BE', 'BG', 'CA', 'CH', 'ES', 'GB', 'HU', 'IE', 'PT', 'RO', 'SK', 'US']}",{}
+282,2VDF3N6F,"Butler, Brandon",Author,0.0,M,0.75,False,"{'BRANDON': ['GB', 'IE', 'US']}",{},{'BRANDON': ['CA']}
+283,2VDF3N6F," Adler, Prue",Author,1.0,?F,0.5,False,{},{'PRUE': ['CA']},{'PRUE': ['US']}
+284,2VDF3N6F," Cox, Krista",Author,2.0,F,0.9333333333333333,False,{},"{'KRISTA': ['AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'EE', 'GB', 'LV', 'NL', 'RS', 'SE', 'SK', 'US']}",{'KRISTA': ['CA']}
+285,4QCBV5UH,"Lixinski, Lucas",Author,0.0,M,1.0,False,"{'LUCAS': ['AT', 'AU', 'BE', 'BR', 'CA', 'CH', 'DE', 'DK', 'ES', 'FR', 'GB', 'MC', 'MT', 'NL', 'NO', 'NZ', 'PT', 'SE', 'US']}",{},{}
+286,4DEKRYMH,"Alshaibi, Wisam",Author,0.0,M,1.0,False,"{'WISAM': ['CA', 'GB', 'IR', 'US']}",{},{}
+287,GEB5RT9C,"Risam, Roopika",Author,0.0,Name(s) not found,,,,,
+288,4EBLDL84,"Tanner, Simon",Author,0.0,M,0.9642857142857143,False,"{'SIMON': ['AL', 'AM', 'AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'GE', 'IE', 'IL', 'IS', 'LI', 'LU', 'ME', 'MK', 'MT', 'NL', 'NO', 'RO', 'RS', 'SE', 'SI', 'US']}",{},{'SIMON': ['CA']}
+289,NJBPAHKQ,"Cronin, Charles",Author,0.0,M,0.9230769230769231,False,"{'CHARLES': ['BE', 'CH', 'DK', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'SE', 'US', 'ZW']}",{},{'CHARLES': ['CA']}
+290,H7P3PTH3,"Brown, Melissa A.",Author,0.0,F,0.9230769230769231,True,{},"{'MELISSA': ['AT', 'BE', 'CH', 'DE', 'FR', 'GB', 'IE', 'IT', 'MT', 'NL', 'SE', 'US']}",{'MELISSA': ['CA']}
+291,H7P3PTH3," Crews, Kenneth D.",Author,1.0,M,1.0,True,"{'KENNETH': ['BE', 'CA', 'DK', 'GB', 'IE', 'MT', 'NO', 'SE', 'US']}",{},{}
+292,FM8FXJ5L,"Brown, Melissa A.",Author,0.0,F,0.9230769230769231,True,{},"{'MELISSA': ['AT', 'BE', 'CH', 'DE', 'FR', 'GB', 'IE', 'IT', 'MT', 'NL', 'SE', 'US']}",{'MELISSA': ['CA']}
+293,FM8FXJ5L," Crews, Kenneth D.",Author,1.0,M,1.0,True,"{'KENNETH': ['BE', 'CA', 'DK', 'GB', 'IE', 'MT', 'NO', 'SE', 'US']}",{},{}
+294,L5JXWRP9,"Pavis, Mathilde",Author,0.0,F,1.0,False,{},"{'MATHILDE': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'LU', 'NL', 'NO', 'SE', 'US']}",{}
+295,L5JXWRP9," Wallace, Andrea",Author,1.0,F,0.9090909090909091,False,{'ANDREA': ['IT']},"{'ANDREA': ['AL', 'AT', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HU', 'IE', 'IS', 'LU', 'ME', 'NL', 'SK', 'US']}",{'ANDREA': ['CA']}
+296,PCTEFHUD,"Pavis, Mathilde",Author,0.0,F,1.0,False,{},"{'MATHILDE': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'LU', 'NL', 'NO', 'SE', 'US']}",{}
+297,PCTEFHUD," Wallace, Andrea",Author,1.0,F,0.9090909090909091,False,{'ANDREA': ['IT']},"{'ANDREA': ['AL', 'AT', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HU', 'IE', 'IS', 'LU', 'ME', 'NL', 'SK', 'US']}",{'ANDREA': ['CA']}
+298,JVVRA9MQ,"Rodley, Ed",Author,0.0,M,1.0,False,"{'ED': ['CA', 'GB', 'NL', 'US']}",{},{}
+299,JVVRA9MQ,"Lewi, Hannah",Editor,0.0,F,1.0,False,{},"{'HANNAH': ['AT', 'CA', 'DE', 'DK', 'GB', 'IE', 'IL', 'MT', 'MY', 'NL', 'US']}",{}
+300,JVVRA9MQ," Smith, Wally",Editor,1.0,M,0.6,False,"{'WALLY': ['CA', 'MT', 'US']}",{'WALLY': ['NO']},{'WALLY': ['NL']}
+301,JVVRA9MQ," Cooke, Steven",Editor,2.0,M,1.0,False,"{'STEVEN': ['BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'SE', 'US']}",{},{}
+302,JVVRA9MQ," vom Lehn, Dirk",Editor,3.0,M,1.0,False,"{'DIRK': ['AT', 'BE', 'CA', 'CH', 'DE', 'GB', 'NL', 'US']}",{},{}
+303,ZNUVWRLI,"Reid, Blake E.",Author,0.0,M,0.6666666666666666,True,"{'BLAKE': ['GB', 'US']}",{},{'BLAKE': ['CA']}
+304,AI6ZXPZM,"Taylor, Joel",Author,0.0,M,0.9444444444444444,False,"{'JOEL': ['BE', 'CH', 'CI', 'DE', 'DK', 'EE', 'ES', 'FI', 'FR', 'GB', 'IL', 'IS', 'LU', 'NL', 'NO', 'SE', 'US']}",{},{'JOEL': ['CA']}
+305,AI6ZXPZM," Gibson, Laura Kate",Author,1.0,F,1.0,False,{},{'LAURA KATE': ['CA']},{}
+306,F2VWXCU5,"Bowrey, Kathy",Author,0.0,F,1.0,False,{},"{'KATHY': ['BE', 'CA', 'CH', 'GB', 'IE', 'US']}",{}
+307,F2VWXCU5," Anderson, Jane",Author,1.0,F,0.9375,False,{'JANE': ['MK']},"{'JANE': ['AT', 'BE', 'CA', 'CH', 'DK', 'EE', 'GB', 'IE', 'LT', 'MT', 'NL', 'NO', 'PH', 'SE', 'US']}",{}
+308,K699FMQQ,"Pessach, Guy",Author,0.0,M,1.0,False,"{'GUY': ['BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'IL', 'JP', 'LU', 'NL', 'US']}",{},{}
+309,SWBJAB63,"Winesmith, Keir",Author,0.0,M,0.6666666666666666,False,"{'KEIR': ['GB', 'US']}",{},{'KEIR': ['CA']}
+310,SWBJAB63," Anderson, Suse",Author,1.0,F,1.0,False,{},"{'SUSE': ['AT', 'DE']}",{}
+311,W9RBH4YI,"Anderson, Suse",Author,0.0,F,1.0,False,{},"{'SUSE': ['AT', 'DE']}",{}
+312,W9RBH4YI," Rodley, Ed",Author,1.0,M,1.0,False,"{'ED': ['CA', 'GB', 'NL', 'US']}",{},{}
+313,W9RBH4YI,"Kassim, Sumaya",Guest,0.0,F,1.0,False,{},"{'SUMAYA': ['CA', 'GB', 'IR', 'SE', 'US']}",{}
+314,W9RBH4YI," Sentance, Nathan",Guest,1.0,M,1.0,False,"{'NATHAN': ['BE', 'CA', 'CH', 'FR', 'GB', 'IL', 'IN', 'MC', 'NL', 'SE', 'US']}",{},{}
+315,MFR7WFDP,"Vartanian, Hrag",Author,0.0,M,1.0,False,{'HRAG': ['US']},{},{}
+316,MFR7WFDP,"Allahyari, Morehshin",Guest,0.0,Name(s) not found,,,,,
+317,ES5SQVDR,"Sarr, Felwine",Author,0.0,Name(s) not found,,,,,
+318,ES5SQVDR," Savoy, Bénédicte",Author,1.0,F,1.0,False,{},"{'BENEDICTE': ['BE', 'CA', 'CH', 'DK', 'FR', 'GB', 'LU', 'NO', 'US']}",{}
+319,AC9FX29Z,"Sangwand, T-Kay",Author,0.0,M,0.42857142857142855,True,"{'KAY': ['DE', 'DK', 'NL']}","{'KAY': ['GB', 'US']}","{'KAY': ['CA', 'CH']}"
+320,ET6XM6NV,"Bowrey, Kathy",Author,0.0,F,1.0,False,{},"{'KATHY': ['BE', 'CA', 'CH', 'GB', 'IE', 'US']}",{}
+321,ET6XM6NV," Graham, Nicole G.",Author,1.0,F,1.0,True,{},"{'NICOLE': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'SE', 'US', 'VE']}",{}
+322,G63RVFAD,"Bowrey, Kathy",Author,0.0,F,1.0,False,{},"{'KATHY': ['BE', 'CA', 'CH', 'GB', 'IE', 'US']}",{}
+323,PEFK62Y2,"DeGeurin, Mack",Author,0.0,M,1.0,False,"{'MACK': ['CA', 'GB', 'NL', 'US']}",{},{}
+324,PEFK62Y2," Koebler, Jason",Author,1.0,M,1.0,False,"{'JASON': ['BE', 'CA', 'GB', 'IE', 'IL', 'MT', 'SE', 'US']}",{},{}
+325,8BDKEQ73,Truth and Reconcilliation Commission of Canada,Author,0.0,Unexpected name format,,,,,
+326,YGHRW68B,"Allison-Cassin, Stacy",Author,0.0,F,0.6666666666666666,False,{},"{'STACY': ['GB', 'US']}",{'STACY': ['CA']}
+327,NG7V4AXD,"Sengupta, Anasuya",Author,0.0,Name(s) not found,,,,,
+328,KTCVEXQU,"Havemann, Leo",Author,0.0,M,1.0,False,"{'LEO': ['AT', 'BA', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FI', 'FR', 'GB', 'HR', 'IE', 'IL', 'IS', 'IT', 'LU', 'LV', 'NL', 'NO', 'SE', 'SI', 'US']}",{},{}
+329,KTCVEXQU," Atenas, Javiera",Author,1.0,F,1.0,False,{},"{'JAVIERA': ['CA', 'ES', 'US']}",{}
+330,KTCVEXQU," Neumann, Jan",Author,2.0,M,0.8095238095238095,False,"{'JAN': ['AD', 'AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'IL', 'NL', 'NO', 'PL', 'RO', 'SE', 'SI', 'SK']}","{'JAN': ['IE', 'US']}","{'JAN': ['CA', 'GB']}"
+331,WXVCYAHX,"Denoyelle, Martine",Author,0.0,F,0.8888888888888888,False,{},"{'MARTINE': ['BE', 'CH', 'DE', 'FR', 'GB', 'LU', 'NL', 'US']}",{'MARTINE': ['CA']}
+332,WXVCYAHX," Durand, Katie",Author,1.0,F,1.0,False,{},"{'KATIE': [nan, 'CA', 'GB', 'IE', 'US']}",{}
+333,WXVCYAHX," Daniel, Johanna",Author,2.0,F,1.0,False,{},"{'JOHANNA': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'FI', 'FR', 'GB', 'IE', 'IS', 'NL', 'NO', 'SE', 'US']}",{}
+334,WXVCYAHX," Douikaridou-Ramamantani, Elli",Author,3.0,F,0.9090909090909091,False,{},"{'ELLI': ['AT', 'CH', 'DE', 'DK', 'EE', 'FI', 'GB', 'GR', 'NL', 'US']}",{'ELLI': ['CA']}
+335,X94SN2L2,"Tanner, Simon",Author,0.0,M,0.9642857142857143,False,"{'SIMON': ['AL', 'AM', 'AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'GE', 'IE', 'IL', 'IS', 'LI', 'LU', 'ME', 'MK', 'MT', 'NL', 'NO', 'RO', 'RS', 'SE', 'SI', 'US']}",{},{'SIMON': ['CA']}
+336,X94SN2L2," Deegan, Marilyn",Author,1.0,F,1.0,False,{},"{'MARILYN': ['BE', 'CA', 'FR', 'GB', 'IE', 'US']}",{}
+337,Q7PEFNZU,"Tanner, Simon",Author,0.0,M,0.9642857142857143,False,"{'SIMON': ['AL', 'AM', 'AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'GE', 'IE', 'IL', 'IS', 'LI', 'LU', 'ME', 'MK', 'MT', 'NL', 'NO', 'RO', 'RS', 'SE', 'SI', 'US']}",{},{'SIMON': ['CA']}
+338,A4LSRVGV,"Madison, Katherine S.",Author,0.0,F,1.0,True,{},"{'KATHERINE': ['CA', 'CH', 'GB', 'IE', 'US']}",{}
+339,2SQBLH53,"Vlachou, Maria",Author,0.0,F,1.0,False,{},"{'MARIA': ['AD', 'AL', 'AM', 'AR', 'AT', 'AZ', 'BE', 'BG', 'BY', 'CA', 'CH', 'CO', 'CU', 'CZ', 'DE', 'DK', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GE', 'GR', 'HU', 'IE', 'IL', 'IS', 'IT', 'KZ', 'LU', 'MD', 'MT', 'MX', 'NL', 'NO', 'PE', 'PL', 'PT', 'PY', 'RO', 'RU', 'SE', 'SK', 'UA', 'US']}",{}
+340,VHYD2XG4,"Bielstein, Susan M.",Author,0.0,F,1.0,True,{},"{'SUSAN': [nan, 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'IL', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+341,MW5IU4ZT,"Roberts, Antonio",Author,0.0,M,1.0,False,"{'ANTONIO': ['AO', 'BA', 'BE', 'CA', 'CH', 'ES', 'FR', 'GB', 'GQ', 'HR', 'IT', 'MT', 'PT', 'PY', 'RO', 'US']}",{},{}
+342,JYXD2NBI,"Ekiz, Oğulcan",Author,0.0,M,1.0,False,"{'OGULCAN': ['GB', 'TR']}",{},{}
+343,CFPUPN2B,"Frosio, Giancarlo",Author,0.0,M,1.0,False,"{'GIANCARLO': ['CA', 'CH', 'GB', 'IT', 'US']}",{},{}
+344,CFPUPN2B,"Dulong de Rosnay, Melanie",Editor,0.0,F,1.0,False,{},"{'MELANIE': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'FR', 'GB', 'IE', 'LU', 'NL', 'SE', 'US']}",{}
+345,CFPUPN2B," De Martin, Juan Carlos",Editor,1.0,M,1.0,False,"{'JUAN CARLOS': ['CA', 'US']}",{},{}
+346,ABHDW5JF,"Greenleaf, Graham",Author,0.0,M,1.0,False,"{'GRAHAM': ['CA', 'GB', 'IE', 'MT', 'US']}",{},{}
+347,ABHDW5JF," Lindsay, David",Author,1.0,M,0.972972972972973,False,"{'DAVID': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'GE', 'HR', 'HU', 'IE', 'IL', 'IS', 'IT', 'KZ', 'LI', 'LU', 'MD', 'MT', 'NL', 'NO', 'PE', 'PT', 'PY', 'RO', 'SE', 'SI', 'UA', 'US', 'VE']}",{},{'DAVID': ['CA']}
+348,ZL4HIQF3,"Wallace, Andrea",Author,0.0,F,0.9090909090909091,False,{'ANDREA': ['IT']},"{'ANDREA': ['AL', 'AT', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HU', 'IE', 'IS', 'LU', 'ME', 'NL', 'SK', 'US']}",{'ANDREA': ['CA']}
+349,ZL4HIQF3,"Op den Kamp, Claudy",Editor,0.0,?,0.8333333333333334,False,{'CLAUDY': ['US']},{},"{'CLAUDY': ['BE', 'CA', 'CH', 'FR', 'LU']}"
+350,ZL4HIQF3," Hunter, Dan",Editor,1.0,M,0.8823529411764706,False,"{'DAN': ['BE', 'CH', 'DK', 'FI', 'GB', 'IE', 'IL', 'LU', 'MD', 'NL', 'NO', 'RO', 'SE', 'US', 'VN']}",{'DAN': ['CN']},{'DAN': ['CA']}
+351,WSTPMKNQ,"McCutcheon, Jani",Author,0.0,M,0.8,False,"{'JANI': ['AL', 'BG', 'FI', 'GB', 'HR', 'KS', 'MK', 'SI']}",{'JANI': ['US']},{'JANI': ['CA']}
+352,NEHEFDA7,"Crews, Kenneth D.",Author,0.0,M,1.0,True,"{'KENNETH': ['BE', 'CA', 'DK', 'GB', 'IE', 'MT', 'NO', 'SE', 'US']}",{},{}
+353,NEHEFDA7," Brown, Melissa A.",Author,1.0,F,0.9230769230769231,True,{},"{'MELISSA': ['AT', 'BE', 'CH', 'DE', 'FR', 'GB', 'IE', 'IT', 'MT', 'NL', 'SE', 'US']}",{'MELISSA': ['CA']}
+354,NEHEFDA7,"Kur, Annette",Editor,0.0,F,1.0,False,{},"{'ANNETTE': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'GD', 'IE', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+355,NEHEFDA7," Mizaras, Vytautas",Editor,1.0,M,1.0,False,"{'VYTAUTAS': ['GB', 'LT', 'US']}",{},{}
+356,EGCR4LXU,"Crews, Kenneth D.",Author,0.0,M,1.0,True,"{'KENNETH': ['BE', 'CA', 'DK', 'GB', 'IE', 'MT', 'NO', 'SE', 'US']}",{},{}
+357,JHXUDX4Y,"Cameron, Colin T.",Author,0.0,M,1.0,True,"{'COLIN': ['CA', 'GB', 'IE', 'MT', 'US']}",{},{}
+358,XYF5CAUA,"Zorich, Diane",Author,0.0,F,1.0,False,{},"{'DIANE': ['AT', 'BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'IE', 'LU', 'NL', 'US']}",{}
+359,XYF5CAUA," Waibel, Günter",Author,1.0,M,1.0,False,"{'GUNTER': ['AT', 'CA', 'CH', 'DE', 'US']}",{},{}
+360,XYF5CAUA," Erway, Ricky",Author,2.0,M,0.75,False,"{'RICKY': ['DK', 'GB', 'IE', 'IN', 'SE', 'US']}",{'RICKY': ['NL']},{'RICKY': ['CA']}
+361,2EBLLDUU,"Neely, Liz",Author,0.0,F,1.0,False,{},"{'LIZ': ['CA', 'GB', 'IE', 'PY', 'US']}",{}
+362,2EBLLDUU,"Wallace, Andrea",Editor,0.0,F,0.9090909090909091,False,{'ANDREA': ['IT']},"{'ANDREA': ['AL', 'AT', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HU', 'IE', 'IS', 'LU', 'ME', 'NL', 'SK', 'US']}",{'ANDREA': ['CA']}
+363,2EBLLDUU," Deazley, Ronan",Editor,1.0,M,0.8,False,"{'RONAN': ['FR', 'GB', 'IE', 'US']}",{},{'RONAN': ['CA']}
+364,7ZH97VWS,"Pekel, Joris",Author,0.0,M,1.0,False,"{'JORIS': ['BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'NL', 'US']}",{},{}
+365,6T6FWZUJ,"Pekel, Joris",Author,0.0,M,1.0,False,"{'JORIS': ['BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'NL', 'US']}",{},{}
+366,K9MPPAVZ,"Kapsalis, Effie",Author,0.0,F,1.0,False,{},"{'EFFIE': ['CA', 'GB', 'US']}",{}
+367,7UGN75LE,"Heald, Paul J.",Author,0.0,M,1.0,True,"{'PAUL': ['AT', 'BE', 'CA', 'CH', 'CM', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'RO', 'SE', 'US']}",{},{}
+368,EC4SC62T,"McCarthy, Douglas",Author,0.0,M,1.0,False,"{'DOUGLAS': ['CA', 'GB', 'IE', 'MT', 'US']}",{},{}
+369,EC4SC62T," Wallace, Andrea",Author,1.0,F,0.9090909090909091,False,{'ANDREA': ['IT']},"{'ANDREA': ['AL', 'AT', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HU', 'IE', 'IS', 'LU', 'ME', 'NL', 'SK', 'US']}",{'ANDREA': ['CA']}
+370,SPWWNR7F,"Okediji, Ruth L.",Author,0.0,F,1.0,True,{},"{'RUTH': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'DO', 'EE', 'ES', 'GB', 'IE', 'IL', 'IS', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+371,HN4UWL53,"Blijden, Judith",Author,0.0,F,1.0,False,{},"{'JUDITH': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'ES', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'SE', 'US']}",{}
+372,2RVH92GW,"Wallace, Andrea",Author,0.0,F,0.9090909090909091,False,{'ANDREA': ['IT']},"{'ANDREA': ['AL', 'AT', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HU', 'IE', 'IS', 'LU', 'ME', 'NL', 'SK', 'US']}",{'ANDREA': ['CA']}
+373,2RVH92GW," Deazley, Ronan",Author,1.0,M,0.8,False,"{'RONAN': ['FR', 'GB', 'IE', 'US']}",{},{'RONAN': ['CA']}
+374,I2LXQEJC,"Valeonti, Foteini",Author,0.0,F,1.0,False,{},{'FOTEINI': ['GR']},{}
+375,I2LXQEJC," Terras, Melissa",Author,1.0,F,0.9230769230769231,False,{},"{'MELISSA': ['AT', 'BE', 'CH', 'DE', 'FR', 'GB', 'IE', 'IT', 'MT', 'NL', 'SE', 'US']}",{'MELISSA': ['CA']}
+376,I2LXQEJC," Hudson-Smith, Andrew",Author,2.0,M,0.8333333333333334,False,"{'ANDREW': ['GB', 'IE', 'MT', 'UA', 'US']}",{},{'ANDREW': ['CA']}
+377,PAWZT2FL,"Padilla, Thomas",Author,0.0,M,1.0,False,"{'THOMAS': ['AT', 'AU', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'GR', 'IE', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{},{}
+378,PAWZT2FL," Allen, Laurie",Author,1.0,F,0.875,False,{},"{'LAURIE': ['BE', 'CH', 'FR', 'GB', 'IE', 'NL', 'US']}",{'LAURIE': ['CA']}
+379,PAWZT2FL," Frost, Hannah",Author,2.0,F,1.0,False,{},"{'HANNAH': ['AT', 'CA', 'DE', 'DK', 'GB', 'IE', 'IL', 'MT', 'MY', 'NL', 'US']}",{}
+380,PAWZT2FL," Potvin, Sarah",Author,3.0,F,1.0,False,{},"{'SARAH': ['AE', 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'LI', 'LU', 'LY', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+381,PAWZT2FL," Russey Roke, Elizabeth",Author,4.0,F,0.9,False,{},"{'ELIZABETH': ['AM', 'BE', 'GB', 'IE', 'IL', 'MT', 'NL', 'PY', 'US']}",{'ELIZABETH': ['CA']}
+382,PAWZT2FL," Varner, Stewart",Author,5.0,M,1.0,False,"{'STEWART': ['CA', 'GB', 'US']}",{},{}
+383,VC7U86T3,"Padilla, Thomas",Author,0.0,M,1.0,False,"{'THOMAS': ['AT', 'AU', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'GR', 'IE', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{},{}
+384,VC7U86T3," Allen, Laurie",Author,1.0,F,0.875,False,{},"{'LAURIE': ['BE', 'CH', 'FR', 'GB', 'IE', 'NL', 'US']}",{'LAURIE': ['CA']}
+385,VC7U86T3," Frost, Hannah",Author,2.0,F,1.0,False,{},"{'HANNAH': ['AT', 'CA', 'DE', 'DK', 'GB', 'IE', 'IL', 'MT', 'MY', 'NL', 'US']}",{}
+386,VC7U86T3," Potvin, Sarah",Author,3.0,F,1.0,False,{},"{'SARAH': ['AE', 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'LI', 'LU', 'LY', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+387,VC7U86T3," Russey Roke, Elizabeth",Author,4.0,F,0.9,False,{},"{'ELIZABETH': ['AM', 'BE', 'GB', 'IE', 'IL', 'MT', 'NL', 'PY', 'US']}",{'ELIZABETH': ['CA']}
+388,VC7U86T3," Varner, Stewart",Author,5.0,M,1.0,False,"{'STEWART': ['CA', 'GB', 'US']}",{},{}
+389,4EGRUDEL,"Isaac, Antoine",Author,0.0,M,1.0,False,"{'ANTOINE': [nan, 'BE', 'CA', 'CH', 'FR', 'GB', 'LU', 'MT', 'NL', 'US']}",{},{}
+390,4EGRUDEL," Freire, Nuno",Author,1.0,M,1.0,False,"{'NUNO': ['CA', 'CH', 'ES', 'GB', 'PT', 'US']}",{},{}
+391,AM4YEZCT,"Nelson, Allana",Author,0.0,F,1.0,False,{},"{'ALLANA': ['CA', 'GB', 'US']}",{}
+392,2TIF88LY,"Abungu, George Okello",Author,0.0,M,0.8888888888888888,True,"{'GEORGE': ['AM', 'AU', 'BE', 'CH', 'EG', 'GB', 'GE', 'IE', 'IL', 'IN', 'MD', 'MT', 'NL', 'RO', 'US'], 'OKELLO': ['CA']}",{},"{'GEORGE': ['CA', 'FR']}"
+393,KPIGUVC8,cbowiemorrison,Author,0.0,Unexpected name format,,,,,
+394,7ULL8DEL,"Brown, Abbe EL",Author,0.0,F,0.5,True,"{'EL': ['GB', 'US']}","{'ABBE': ['CA', 'GB', 'US'], 'EL': ['NL']}","{'ABBE': ['DE'], 'EL': ['CA']}"
+395,7ULL8DEL,"Dreyfuss, Rochelle",Editor,0.0,F,0.75,False,{},"{'ROCHELLE': ['GB', 'IL', 'US']}",{'ROCHELLE': ['CA']}
+396,7ULL8DEL," Pila, Justine",Editor,1.0,F,0.875,False,{},"{'JUSTINE': ['AT', 'BE', 'CH', 'FR', 'GB', 'LU', 'US']}",{'JUSTINE': ['CA']}
+397,3UXRYEXZ,"Brown, Abbe EL",Author,0.0,F,0.5,True,"{'EL': ['GB', 'US']}","{'ABBE': ['CA', 'GB', 'US'], 'EL': ['NL']}","{'ABBE': ['DE'], 'EL': ['CA']}"
+398,NDXUHKT5,"Sarnoff, Joshua",Author,0.0,M,0.8571428571428571,False,"{'JOSHUA': ['AU', 'GB', 'IL', 'JM', 'SE', 'US']}",{},{'JOSHUA': ['CA']}
+399,EAKTG5C2,Kathi,Author,0.0,Unexpected name format,,,,,
+400,MPUHZSUX,"Sunder, Madhavi",Author,0.0,F,1.0,False,{},"{'MADHAVI': ['CA', 'GB', 'IN', 'US']}",{}
+401,49NT9AAL,"Baxter, Jane Eva",Author,0.0,F,0.9811320754716981,True,{'JANE': ['MK']},"{'EVA': ['AL', 'AM', 'AO', 'AT', 'BE', 'BG', 'BY', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FI', 'FR', 'GB', 'HR', 'HU', 'IE', 'IL', 'IS', 'IT', 'KZ', 'LU', 'LV', 'MD', 'MT', 'NL', 'NO', 'PT', 'RO', 'RU', 'SE', 'SI', 'SK', 'US'], 'JANE': ['AT', 'BE', 'CA', 'CH', 'DK', 'EE', 'GB', 'IE', 'LT', 'MT', 'NL', 'NO', 'PH', 'SE', 'US']}",{}
+402,LUPV9KXP,"Bently, Lionel",Author,0.0,M,1.0,False,"{'LIONEL': ['BE', 'CA', 'CH', 'FR', 'GB', 'LU', 'SE', 'US']}",{},{}
+403,LUPV9KXP," Sherman, Brad",Author,1.0,M,1.0,False,"{'BRAD': ['CA', 'GB', 'US']}",{},{}
+404,LUPV9KXP," Gangjee, Dev",Author,2.0,M,1.0,False,"{'DEV': ['CA', 'GB', 'US']}",{},{}
+405,LUPV9KXP," Johnson, Phillip",Author,3.0,M,1.0,False,"{'PHILLIP': ['AT', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'US']}",{},{}
+406,WYNU24NM,"Brown, Lydia X. Z.",Author,0.0,F,1.0,True,{},"{'LYDIA': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'GR', 'IS', 'LU', 'MT', 'NL', 'NO', 'SE', 'SK', 'US']}",{}
+407,VZTG377Y,"Hetherington, Kevin",Author,0.0,M,0.9375,False,"{'KEVIN': ['AT', 'AW', 'BE', 'CH', 'DE', 'FI', 'FR', 'GB', 'IE', 'IN', 'LU', 'MT', 'PH', 'SE', 'US']}",{},{'KEVIN': ['CA']}
+408,Y4KY59UY,"Bowrey, Kathy",Author,0.0,F,1.0,False,{},"{'KATHY': ['BE', 'CA', 'CH', 'GB', 'IE', 'US']}",{}
+409,AZ2G72QA,"Bowrey, Kathy",Author,0.0,F,1.0,False,{},"{'KATHY': ['BE', 'CA', 'CH', 'GB', 'IE', 'US']}",{}
+410,3IMWK4GQ,"Drahos, Peter",Author,0.0,M,1.0,False,"{'PETER': [nan, 'AT', 'BE', 'BY', 'CA', 'CH', 'DE', 'DK', 'EG', 'GB', 'GL', 'HU', 'IE', 'IL', 'KE', 'LI', 'LU', 'MT', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{},{}
+411,3IMWK4GQ," Braithwaite, John",Author,1.0,M,1.0,False,"{'JOHN': [nan, 'AM', 'AZ', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'IN', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{},{}
+412,I6KQQ675,"Drahos, Peter",Author,0.0,M,1.0,False,"{'PETER': [nan, 'AT', 'BE', 'BY', 'CA', 'CH', 'DE', 'DK', 'EG', 'GB', 'GL', 'HU', 'IE', 'IL', 'KE', 'LI', 'LU', 'MT', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{},{}
+413,I6KQQ675," Braithwaite, John",Author,1.0,M,1.0,False,"{'JOHN': [nan, 'AM', 'AZ', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'IN', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{},{}
+414,DNJYSBTJ,"May, Christopher",Author,0.0,M,0.9166666666666666,False,"{'CHRISTOPHER': [nan, 'AT', 'CH', 'DE', 'GB', 'IE', 'MT', 'NO', 'SE', 'UG', 'US']}",{},{'CHRISTOPHER': ['CA']}
+415,DNJYSBTJ," Sell, Susan K.",Author,1.0,F,1.0,True,{},"{'SUSAN': [nan, 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'IL', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+416,AP48TAZF,"Gibson, James",Author,0.0,M,1.0,False,"{'JAMES': ['AU', 'BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'IN', 'LU', 'MT', 'NZ', 'SE', 'US']}",{},{}
+417,HSCRENMJ,"Coombe, Rosemary J.",Author,0.0,F,1.0,True,{},"{'ROSEMARY': ['CA', 'GB', 'IE', 'US']}",{}
+418,WHJ5DIN6,"Cohen, Julie E.",Author,0.0,F,1.0,True,{},"{'JULIE': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DK', 'FR', 'GB', 'GE', 'GL', 'IE', 'LU', 'MT', 'NO', 'SE', 'US']}",{}
+419,WHJ5DIN6,"Guibault, Lucie",Editor,0.0,F,1.0,False,{},"{'LUCIE': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'FR', 'GB', 'IE', 'LU', 'NL', 'US']}",{}
+420,WHJ5DIN6," Hugenholtz, Bernt",Editor,1.0,M,1.0,False,"{'BERNT': ['DE', 'DK', 'NO', 'SE', 'US']}",{},{}
+421,2UW5UE5K,"Chon, Margaret",Author,0.0,F,1.0,False,{},"{'MARGARET': ['AM', 'BE', 'CA', 'CH', 'GB', 'IE', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+422,MI2ZKHWY,"Sunder, Madhavi",Author,0.0,F,1.0,False,{},"{'MADHAVI': ['CA', 'GB', 'IN', 'US']}",{}
+423,TRR7GCX8,"Chander, Anupam",Author,0.0,M,1.0,False,"{'ANUPAM': ['CA', 'IN', 'US']}",{},{}
+424,N7PPD263,Europeana,Author,0.0,Unexpected name format,,,,,
+425,MJP98J4B,UK Copyright Literacy,Author,0.0,Unexpected name format,,,,,
+426,MF8HK9VT,LIBER,Author,0.0,Unexpected name format,,,,,
+427,KETTZEN9,Europeana,Author,0.0,Unexpected name format,,,,,
+428,3BSDJHZK,"EBLIDA, IFLA, LIBER, Sparc Europe,",Author,0.0,Unexpected name format,,,,,
+429,CS85BM2U,EIFL,Author,0.0,Unexpected name format,,,,,
+430,UID3N7UC,Communia,Author,0.0,Unexpected name format,,,,,
+431,9AB5F4FE,Kennisland,Author,0.0,Unexpected name format,,,,,
+432,H2Q5IW32,UK Government,Author,0.0,Unexpected name format,,,,,
+433,H3B9SWI4,"CIPPM, Create, IVIR, ASK",Author,0.0,Unexpected name format,,,,,
+434,5E5KUQ99,Collections Trust,Author,0.0,Unexpected name format,,,,,
+435,QXVF8MIC,Roxanne Peters (Europeana Foundation) & Lisette Kalshoven (Kennisland),Author,0.0,Unexpected name format,,,,,
+436,AVCENWIQ,"Kennisland, Bibliotheque Nationale du Luxembourg, IViR",Author,0.0,Unexpected name format,,,,,
+437,7SLCM6FS,"Jennifer Woodcock-Medicine Horse, PhD",Author,0.0,Name(s) not found,,,,,
+438,F38ZN853,"Fiormonte, Domenico",Author,0.0,M,1.0,False,"{'DOMENICO': ['CA', 'CH', 'GB', 'IT', 'MT', 'US']}",{},{}
+439,4QUN5K8W,"Sanderhoff, Merete",Author,0.0,F,1.0,False,{},"{'MERETE': ['DK', 'NO', 'US']}",{}
+440,4QUN5K8W,"Sanderhoff, Merete",Editor,0.0,F,1.0,False,{},"{'MERETE': ['DK', 'NO', 'US']}",{}
+441,82ECESKH,"von Haller Grønbæk, Martin",Author,0.0,M,1.0,False,"{'MARTIN': [nan, 'AL', 'AM', 'AT', 'BE', 'BG', 'CA', 'CH', 'CL', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'HR', 'IE', 'IS', 'LU', 'MK', 'MT', 'NL', 'NO', 'PE', 'PL', 'RO', 'SE', 'SI', 'SK', 'US', 'UY']}",{},{}
+442,82ECESKH," Sanderhoff, Merete",Author,1.0,F,1.0,False,{},"{'MERETE': ['DK', 'NO', 'US']}",{}
+443,PG9G4J3E,"Hamma, Kenneth",Author,0.0,M,1.0,False,"{'KENNETH': ['BE', 'CA', 'DK', 'GB', 'IE', 'MT', 'NO', 'SE', 'US']}",{},{}
+444,NWQP8ND8,"Mason, Ingrid",Author,0.0,F,1.0,False,{},"{'INGRID': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'FR', 'GB', 'HR', 'LU', 'MT', 'NL', 'NO', 'NZ', 'SE', 'SK', 'US']}",{}
+445,NWQP8ND8,"Cameron, Fiona",Editor,0.0,F,1.0,False,{},"{'FIONA': ['BE', 'CA', 'CH', 'GB', 'IE', 'MT', 'NL', 'UG', 'US']}",{}
+446,NWQP8ND8," Kenderdine, Sarah",Editor,1.0,F,1.0,False,{},"{'SARAH': ['AE', 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'LI', 'LU', 'LY', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+447,6TUDX8YR,"Cameron, Fiona",Author,0.0,F,1.0,False,{},"{'FIONA': ['BE', 'CA', 'CH', 'GB', 'IE', 'MT', 'NL', 'UG', 'US']}",{}
+448,6TUDX8YR," Robinson, Helena",Author,1.0,F,1.0,False,{},"{'HELENA': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FI', 'FR', 'GB', 'HR', 'IE', 'IL', 'IS', 'LV', 'MT', 'NL', 'NO', 'PL', 'PT', 'SE', 'SI', 'SK', 'US']}",{}
+449,6TUDX8YR,"Cameron, Fiona",Editor,0.0,F,1.0,False,{},"{'FIONA': ['BE', 'CA', 'CH', 'GB', 'IE', 'MT', 'NL', 'UG', 'US']}",{}
+450,6TUDX8YR," Kenderdine, Sarah",Editor,1.0,F,1.0,False,{},"{'SARAH': ['AE', 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'LI', 'LU', 'LY', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+451,ZRARJW7L,"Cameron, Fiona",Author,0.0,F,1.0,False,{},"{'FIONA': ['BE', 'CA', 'CH', 'GB', 'IE', 'MT', 'NL', 'UG', 'US']}",{}
+452,ZRARJW7L," Kenderdine, Sarah",Author,1.0,F,1.0,False,{},"{'SARAH': ['AE', 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'LI', 'LU', 'LY', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+453,U8IYYKG9,"Cameron, Fiona",Author,0.0,F,1.0,False,{},"{'FIONA': ['BE', 'CA', 'CH', 'GB', 'IE', 'MT', 'NL', 'UG', 'US']}",{}
+454,U8IYYKG9," Kenderdine, Sarah",Author,1.0,F,1.0,False,{},"{'SARAH': ['AE', 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'LI', 'LU', 'LY', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+455,U8IYYKG9," Thorburn, David",Author,2.0,M,0.972972972972973,False,"{'DAVID': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'GE', 'HR', 'HU', 'IE', 'IL', 'IS', 'IT', 'KZ', 'LI', 'LU', 'MD', 'MT', 'NL', 'NO', 'PE', 'PT', 'PY', 'RO', 'SE', 'SI', 'UA', 'US', 'VE']}",{},{'DAVID': ['CA']}
+456,U8IYYKG9," Barrett, Edward",Author,3.0,M,1.0,False,"{'EDWARD': [nan, 'AM', 'BE', 'BY', 'CA', 'CH', 'GB', 'IE', 'KE', 'MT', 'NL', 'PL', 'RO', 'US']}",{},{}
+457,U8IYYKG9," Jenkins, Henry",Author,4.0,M,1.0,False,"{'HENRY': [nan, 'AM', 'AU', 'BE', 'CA', 'CH', 'DE', 'DK', 'FI', 'GB', 'IE', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{},{}
+458,VBNE7M2E,"Isaacman, Allen",Author,0.0,M,0.8,False,"{'ALLEN': ['AM', 'GB', 'IE', 'US']}",{},{'ALLEN': ['CA']}
+459,VBNE7M2E," Lalu, Premesh",Author,1.0,Name(s) not found,,,,,
+460,VBNE7M2E," Nygren, Thomas",Author,2.0,M,1.0,False,"{'THOMAS': ['AT', 'AU', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'GR', 'IE', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{},{}
+461,ZYZRFLC3,"Koh, Adeline",Author,0.0,F,1.0,False,{},"{'ADELINE': ['BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'LU', 'NO', 'US']}",{}
+462,ZYZRFLC3," Risam, Roopika",Author,1.0,Name(s) not found,,,,,
+463,M6H7N837,"Middleton, Kim",Author,0.0,F,0.6153846153846154,False,"{'KIM': ['AM', 'DK', 'NO']}","{'KIM': ['BE', 'CH', 'GB', 'IE', 'LU', 'NL', 'US', 'VN']}","{'KIM': ['CA', 'SE']}"
+464,UMBS8TPN,"Harle, Josh",Author,0.0,M,1.0,False,"{'JOSH': ['CA', 'GB', 'US']}",{},{}
+465,UMBS8TPN,"Harle, Josh",Editor,0.0,M,1.0,False,"{'JOSH': ['CA', 'GB', 'US']}",{},{}
+466,UMBS8TPN," Abdila, Angie",Editor,1.0,F,1.0,False,{},"{'ANGIE': ['CA', 'CH', 'GB', 'IE', 'US']}",{}
+467,UMBS8TPN," Newman, Andrew",Editor,2.0,M,0.8333333333333334,False,"{'ANDREW': ['GB', 'IE', 'MT', 'UA', 'US']}",{},{'ANDREW': ['CA']}
+468,JKVVFE2G,"Nasser, Ramsey",Author,0.0,M,1.0,False,"{'RAMSEY': ['CA', 'GB', 'US']}",{},{}
+469,JKVVFE2G,"Harle, Josh",Editor,0.0,M,1.0,False,"{'JOSH': ['CA', 'GB', 'US']}",{},{}
+470,JKVVFE2G," Abdila, Angie",Editor,1.0,F,1.0,False,{},"{'ANGIE': ['CA', 'CH', 'GB', 'IE', 'US']}",{}
+471,JKVVFE2G," Newman, Andrew",Editor,2.0,M,0.8333333333333334,False,"{'ANDREW': ['GB', 'IE', 'MT', 'UA', 'US']}",{},{'ANDREW': ['CA']}
+472,MMRYEWZ5,"Smith, Koven",Author,0.0,M,1.0,False,"{'KOVEN': ['CA', 'US']}",{},{}
+473,L8XP8WTV,"Kornai, András",Author,0.0,M,1.0,False,"{'ANDRAS': ['CA', 'GB', 'HU', 'RO', 'US']}",{},{}
+474,8UT4KIPR,"Lackoi, Krisztina",Author,0.0,F,1.0,False,{},"{'KRISZTINA': ['CA', 'HU', 'US']}",{}
+475,8UT4KIPR," Patsou, Maria",Author,1.0,F,1.0,False,{},"{'MARIA': ['AD', 'AL', 'AM', 'AR', 'AT', 'AZ', 'BE', 'BG', 'BY', 'CA', 'CH', 'CO', 'CU', 'CZ', 'DE', 'DK', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GE', 'GR', 'HU', 'IE', 'IL', 'IS', 'IT', 'KZ', 'LU', 'MD', 'MT', 'MX', 'NL', 'NO', 'PE', 'PL', 'PT', 'PY', 'RO', 'RU', 'SE', 'SK', 'UA', 'US']}",{}
+476,8UT4KIPR," Chatterjee, Helen",Author,2.0,F,1.0,False,{},"{'HELEN': ['BE', 'CA', 'CH', 'DK', 'EE', 'GB', 'GH', 'IE', 'IS', 'KZ', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+477,UT8RKGAI,"Thorp, Jer",Author,0.0,?,1.0,False,{},{},{'JER': ['US']}
+478,4TUIACGC,"Levendowski, Amanda",Author,0.0,F,0.9444444444444444,False,{},"{'AMANDA': ['AL', 'BE', 'CH', 'CL', 'DE', 'DK', 'ES', 'FI', 'GB', 'IE', 'IT', 'MT', 'NL', 'NO', 'NZ', 'SE', 'US']}",{'AMANDA': ['CA']}
+479,97U7M2WY,"Chander, Anupam",Author,0.0,M,1.0,False,"{'ANUPAM': ['CA', 'IN', 'US']}",{},{}
+480,97U7M2WY," Sunder, Madhavi",Author,1.0,F,1.0,False,{},"{'MADHAVI': ['CA', 'GB', 'IN', 'US']}",{}
+481,UGUGJ46Y,"Burke, Shane",Author,0.0,M,0.75,False,"{'SHANE': ['GB', 'IE', 'US']}",{},{'SHANE': ['CA']}
+482,ND9M4N6J,"Topaz, Chad M.",Author,0.0,M,1.0,True,"{'CHAD': ['CA', 'GB', 'US']}",{},{}
+483,ND9M4N6J," Klingenberg, Bernhard",Author,1.0,M,1.0,False,"{'BERNHARD': ['AT', 'CA', 'CH', 'DE', 'DK', 'US']}",{},{}
+484,ND9M4N6J," Turek, Daniel",Author,2.0,M,0.9736842105263158,False,"{'DANIEL': ['AD', 'AL', 'AM', 'AT', 'AU', 'AW', 'AZ', 'BE', 'BG', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HT', 'HU', 'IE', 'IL', 'IS', 'JM', 'LU', 'MD', 'MK', 'MT', 'NL', 'NO', 'PE', 'PL', 'PT', 'PY', 'RO', 'SE', 'SK', 'US']}",{},{'DANIEL': ['CA']}
+485,ND9M4N6J," Heggeseth, Brianna",Author,3.0,F,1.0,False,{},"{'BRIANNA': ['CA', 'GB', 'IE', 'JM', 'US']}",{}
+486,ND9M4N6J," Harris, Pamela E.",Author,4.0,F,1.0,True,{},"{'PAMELA': ['CA', 'DE', 'GB', 'IE', 'IT', 'MT', 'SE', 'US']}",{}
+487,ND9M4N6J," Blackwood, Julie C.",Author,5.0,F,1.0,True,{},"{'JULIE': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DK', 'FR', 'GB', 'GE', 'GL', 'IE', 'LU', 'MT', 'NO', 'SE', 'US']}",{}
+488,ND9M4N6J," Chavoya, C. Ondine",Author,6.0,F,1.0,True,{},"{'ONDINE': ['IE', 'US']}",{}
+489,ND9M4N6J," Nelson, Steven",Author,7.0,M,1.0,False,"{'STEVEN': ['BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'SE', 'US']}",{},{}
+490,ND9M4N6J," Murphy, Kevin M.",Author,8.0,M,0.9375,True,"{'KEVIN': ['AT', 'AW', 'BE', 'CH', 'DE', 'FI', 'FR', 'GB', 'IE', 'IN', 'LU', 'MT', 'PH', 'SE', 'US']}",{},{'KEVIN': ['CA']}
+491,CV964R33,"Vira, Udit",Author,0.0,M,1.0,False,"{'UDIT': ['CA', 'GB', 'US']}",{},{}
+492,URYY42WR,"Rideout, Victoria",Author,0.0,F,1.0,False,{},"{'VICTORIA': ['AM', 'AT', 'AZ', 'BE', 'BG', 'BY', 'CA', 'CH', 'DK', 'ES', 'FR', 'GB', 'IE', 'KZ', 'MD', 'MT', 'RO', 'RU', 'SE', 'UA', 'US', 'VE']}",{}
+493,URYY42WR," Katz, Vikki S",Author,1.0,F,1.0,True,{},"{'VIKKI': ['CA', 'GB', 'NO', 'US']}",{}
+494,TMUEVFZG,"Verwayen, Harry",Author,0.0,M,1.0,False,"{'HARRY': ['AT', 'AU', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'FI', 'GB', 'IE', 'IL', 'IN', 'MT', 'NI', 'NL', 'NO', 'SE', 'US']}",{},{}
+495,TMUEVFZG," Arnoldus, Martijn",Author,1.0,M,1.0,False,"{'MARTIJN': ['BE', 'GB', 'NL', 'US']}",{},{}
+496,TMUEVFZG," Kaufman, Peter B.",Author,2.0,M,1.0,True,"{'PETER': [nan, 'AT', 'BE', 'BY', 'CA', 'CH', 'DE', 'DK', 'EG', 'GB', 'GL', 'HU', 'IE', 'IL', 'KE', 'LI', 'LU', 'MT', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{},{}
+497,N3UCTIRX,"Schultz, Teresa Auch",Author,0.0,F,1.0,True,{},"{'TERESA': ['AT', 'BE', 'CA', 'CH', 'ES', 'GB', 'IE', 'IT', 'PL', 'PT', 'SE', 'US']}",{}
+498,N3UCTIRX," Miller, Dana",Author,1.0,F,0.9473684210526315,False,{},"{'DANA': ['BE', 'BG', 'CZ', 'DE', 'GB', 'IL', 'IR', 'IT', 'KZ', 'LT', 'LV', 'MD', 'NL', 'RO', 'RS', 'SI', 'SK', 'US']}",{'DANA': ['CA']}
+499,A37ZVGAU,"Mazzone, Jason",Author,0.0,M,1.0,False,"{'JASON': ['BE', 'CA', 'GB', 'IE', 'IL', 'MT', 'SE', 'US']}",{},{}
+500,SGB3KMIY,"McCarthy, Douglas",Author,0.0,M,1.0,False,"{'DOUGLAS': ['CA', 'GB', 'IE', 'MT', 'US']}",{},{}
+501,8VKIJF3I,"Oomen, Johan",Author,0.0,M,0.9090909090909091,False,"{'JOHAN': ['BE', 'CH', 'DE', 'DK', 'FI', 'GB', 'NL', 'NO', 'SE', 'US']}",{},{'JOHAN': ['CA']}
+502,8VKIJF3I," Baltussen, Lotte Belice",Author,1.0,F,1.0,True,{},"{'LOTTE': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'NL', 'NO', 'SE', 'US']}",{}
+503,8VKIJF3I," van Erp, Marieke",Author,2.0,F,1.0,False,{},"{'MARIEKE': ['BE', 'CA', 'DE', 'GB', 'NL', 'US']}",{}
+504,XTBJ4MS8,"Gorgels, Peter",Author,0.0,M,1.0,False,"{'PETER': [nan, 'AT', 'BE', 'BY', 'CA', 'CH', 'DE', 'DK', 'EG', 'GB', 'GL', 'HU', 'IE', 'IL', 'KE', 'LI', 'LU', 'MT', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{},{}
+505,F6AGDDTQ,"Ciecko, Brendan",Author,0.0,M,1.0,False,"{'BRENDAN': ['CA', 'GB', 'IE', 'US']}",{},{}
+506,UGK9CEP8,"Villaespesa, Elena",Author,0.0,F,1.0,False,{},"{'ELENA': [nan, 'AL', 'AM', 'AZ', 'BE', 'BG', 'BY', 'CA', 'CH', 'CZ', 'EE', 'ES', 'GB', 'GE', 'GR', 'IL', 'IT', 'KZ', 'LT', 'LV', 'MD', 'MK', 'MT', 'RO', 'RU', 'SK', 'UA', 'US', 'ZA']}",{}
+507,UGK9CEP8," Navarrete, Trilce",Author,1.0,Name(s) not found,,,,,
+508,Y6UD5T93,"Bray, Paula",Author,0.0,F,0.95,False,{},"{'PAULA': ['AT', 'BE', 'CH', 'DE', 'DK', 'EE', 'ES', 'FI', 'FR', 'GB', 'HR', 'IE', 'LV', 'MT', 'NL', 'PT', 'RO', 'SE', 'US']}",{'PAULA': ['CA']}
+509,TPUSL3JL,"Bahram, Sina",Author,0.0,F,0.5,False,"{'SINA': ['IR', 'TR']}","{'SINA': ['CH', 'DE', 'RO', 'US']}","{'SINA': ['CA', 'GB']}"
+510,TPUSL3JL," Lavatelli, Anna Chiaretta",Author,1.0,F,1.0,True,{},"{'ANNA': ['AM', 'AT', 'AZ', 'BE', 'BG', 'BY', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FI', 'FR', 'GB', 'GE', 'GR', 'HU', 'IE', 'IL', 'IS', 'IT', 'JP', 'KZ', 'LI', 'LU', 'LV', 'MD', 'MT', 'NA', 'NL', 'NO', 'PL', 'RO', 'RU', 'SE', 'SK', 'UA', 'US']}",{}
+511,CKFUVIJ2,"Price, Kati",Author,0.0,F,1.0,False,{},"{'KATI': ['AT', 'CA', 'CH', 'DE', 'EE', 'FI', 'GB', 'HU', 'US']}",{}
+512,CKFUVIJ2," James, Dafydd",Author,1.0,M,1.0,False,"{'DAFYDD': ['CA', 'GB']}",{},{}
+513,ZV2AJXY2,"Christen, Kimberly",Author,0.0,F,1.0,False,{},"{'KIMBERLY': ['BE', 'CA', 'GB', 'SE', 'US']}",{}
+514,ZV2AJXY2," Merril, Alex",Author,1.0,M,0.7727272727272727,False,"{'ALEX': ['AD', 'AM', 'AT', 'AZ', 'BE', 'CH', 'DE', 'DK', 'ES', 'FI', 'FR', 'IS', 'LU', 'NL', 'NO', 'SK', 'US']}",{},"{'ALEX': ['CA', 'GB', 'IE', 'IL', 'MT']}"
+515,ZV2AJXY2," Wynne, Michael",Author,2.0,M,0.9523809523809523,False,"{'MICHAEL': [nan, 'AM', 'AT', 'AU', 'BE', 'CH', 'CZ', 'DE', 'DK', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'SE', 'SK', 'US']}",{},{'MICHAEL': ['CA']}
+516,6ULJY29B,"Anderson, Suse",Author,0.0,F,1.0,False,{},"{'SUSE': ['AT', 'DE']}",{}
+517,6ULJY29B,"Winesmith, Keir",Editor,0.0,M,0.6666666666666666,False,"{'KEIR': ['GB', 'US']}",{},{'KEIR': ['CA']}
+518,6ULJY29B," Anderson, Suse",Editor,1.0,F,1.0,False,{},"{'SUSE': ['AT', 'DE']}",{}
+519,9FAXFCG9,"Grinell, Klas",Author,0.0,M,1.0,False,"{'KLAS': ['CA', 'NO', 'SE']}",{},{}
+520,9FAXFCG9,"Fromm, Annette B.",Editor,0.0,F,1.0,True,{},"{'ANNETTE': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'GD', 'IE', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+521,9FAXFCG9," Rekdal, Per B.",Editor,1.0,M,1.0,True,"{'PER': ['CA', 'DK', 'NL', 'NO', 'SE', 'US']}",{},{}
+522,9FAXFCG9," Golding, Viv.",Editor,2.0,Name(s) not found,,,,,
+523,ZSATIW26,"Macmillan, Fiona",Author,0.0,F,1.0,False,{},"{'FIONA': ['BE', 'CA', 'CH', 'GB', 'IE', 'MT', 'NL', 'UG', 'US']}",{}
+524,4YW5V2ZV,"Langmead, Alison",Author,0.0,F,0.8571428571428571,False,{},"{'ALISON': ['BE', 'FR', 'GB', 'IE', 'MT', 'US']}",{'ALISON': ['CA']}
+525,W7WBMZSL,"Valeonti, Foteini",Author,0.0,F,1.0,False,{},{'FOTEINI': ['GR']},{}
+526,W7WBMZSL," Hudson-Smith, Andrew",Author,1.0,M,0.8333333333333334,False,"{'ANDREW': ['GB', 'IE', 'MT', 'UA', 'US']}",{},{'ANDREW': ['CA']}
+527,W7WBMZSL," Terras, Melissa",Author,2.0,F,0.9230769230769231,False,{},"{'MELISSA': ['AT', 'BE', 'CH', 'DE', 'FR', 'GB', 'IE', 'IT', 'MT', 'NL', 'SE', 'US']}",{'MELISSA': ['CA']}
+528,W7WBMZSL," Zarkali, Chrysanthi",Author,3.0,F,1.0,False,{},{'CHRYSANTHI': ['GR']},{}
+529,PQYUHIYF,"Srinivasan, Ramesh",Author,0.0,M,1.0,False,"{'RAMESH': ['CA', 'GB', 'IN', 'US']}",{},{}
+530,PQYUHIYF," Enote, Jim",Author,1.0,M,1.0,False,"{'JIM': ['BE', 'CA', 'DK', 'GB', 'IE', 'LU', 'NL', 'NO', 'SE', 'US']}",{},{}
+531,PQYUHIYF," Bevcar, katherine M.",Author,2.0,F,1.0,True,{},"{'KATHERINE': ['CA', 'CH', 'GB', 'IE', 'US']}",{}
+532,PQYUHIYF," Boast, Robin",Author,3.0,M,0.6923076923076923,False,"{'ROBIN': ['BE', 'CH', 'DK', 'EE', 'FR', 'GB', 'NL', 'NO', 'SE']}",{'ROBIN': ['US']},"{'ROBIN': ['CA', 'IE', 'IN']}"
+533,R7VP5SSC,"Srinivasan, Ramesh",Author,0.0,M,1.0,False,"{'RAMESH': ['CA', 'GB', 'IN', 'US']}",{},{}
+534,RIDGFL9P,"Mar 9, InfoJustice Eds |",Author,0.0,Name(s) not found,,,,,
+535,RIDGFL9P," Fora, 2020 | Regional",Author,1.0,M,1.0,True,{'REGIONAL': ['US']},{},{}
+536,DSPYD7SE,"Henshaw, Christy",Author,0.0,F,0.6,False,{'CHRISTY': ['IE']},"{'CHRISTY': ['CA', 'NL', 'US']}",{'CHRISTY': ['GB']}
+537,GBL6IHSM,sthompson,Author,0.0,Unexpected name format,,,,,
+538,VMRHB96Y,"Centre, UNESCO World Heritage",Author,0.0,M,1.0,True,"{'WORLD': [nan, 'US']}",{},{}
+539,23BUD9B5,"Centre, UNESCO World Heritage",Author,0.0,M,1.0,True,"{'WORLD': [nan, 'US']}",{},{}
+540,EUDYC5HS,"Moore, Matthew",Author,0.0,M,1.0,False,"{'MATTHEW': ['CA', 'GB', 'IE', 'MT', 'US']}",{},{}
+541,K3L5RNXB,sthompson,Author,0.0,Unexpected name format,,,,,
+542,2LH6I6RV,"Velden, Maja van der",Author,0.0,F,0.8461538461538461,True,"{'VAN': ['US', 'VN']}","{'DER': ['US'], 'MAJA': ['AT', 'BA', 'BG', 'BY', 'CA', 'CH', 'DE', 'DK', 'GB', 'GE', 'HR', 'ME', 'MK', 'NO', 'PL', 'RS', 'RU', 'SE', 'SI', 'UA', 'US']}","{'VAN': ['CA', 'GB']}"
+543,BNSYGTEX,https://plus.google.com/+UNESCO,Author,0.0,Unexpected name format,,,,,
+544,ISYSKUS2,Connecticut Digital Archive,Author,0.0,Unexpected name format,,,,,
+545,XJQ9SM84,World Intellectual Property Organization,Author,0.0,Unexpected name format,,,,,
+546,KZ22SJZI,Creative Commons,Author,0.0,Unexpected name format,,,,,
+547,7DLGQ8IE,Creative Commons,Author,0.0,Unexpected name format,,,,,
+548,T8DJP39J,"Sutherland, Tonia",Author,0.0,F,1.0,False,{},"{'TONIA': ['CA', 'GB', 'IT', 'US']}",{}
+549,L8GK5MZZ,Creative Commons,Author,0.0,Unexpected name format,,,,,
+550,B4FQWV2A,"Ashar, Amar",Author,0.0,M,0.9,False,"{'AMAR': ['BA', 'GB', 'IL', 'IN', 'IR', 'KS', 'LI', 'SD', 'US']}",{},{'AMAR': ['CA']}
+551,B4FQWV2A," Cortesi, Sandra",Author,1.0,F,1.0,False,{},"{'SANDRA': ['AT', 'BA', 'BE', 'CA', 'CH', 'DE', 'DK', 'DM', 'EE', 'ES', 'FR', 'GB', 'HR', 'IE', 'IS', 'IT', 'LT', 'LU', 'LV', 'ME', 'MT', 'NL', 'NO', 'PT', 'RS', 'SE', 'SI', 'US']}",{}
+552,2S2VNZ45,Australian Network on Disability,Author,0.0,Unexpected name format,,,,,
+553,ZYS2LGSL,"Hirtle, Peter",Author,0.0,M,1.0,False,"{'PETER': [nan, 'AT', 'BE', 'BY', 'CA', 'CH', 'DE', 'DK', 'EG', 'GB', 'GL', 'HU', 'IE', 'IL', 'KE', 'LI', 'LU', 'MT', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{},{}
+554,35NH7QLW,"Levine, Melissa",Author,0.0,F,0.9230769230769231,False,{},"{'MELISSA': ['AT', 'BE', 'CH', 'DE', 'FR', 'GB', 'IE', 'IT', 'MT', 'NL', 'SE', 'US']}",{'MELISSA': ['CA']}
+555,35NH7QLW," Adler, Richard C.",Author,1.0,M,1.0,True,"{'RICHARD': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'FR', 'GB', 'HU', 'IE', 'LU', 'MT', 'NL', 'NO', 'PH', 'SE', 'SK', 'TT', 'US']}",{},{}
+556,35NH7QLW," Bonfiglio, Justin",Author,2.0,M,0.9333333333333333,False,"{'JUSTIN': ['AT', 'BE', 'FR', 'GB', 'IE', 'JM', 'LU', 'MT', 'NL', 'PH', 'RO', 'SE', 'TT', 'US']}",{},{'JUSTIN': ['CA']}
+557,35NH7QLW," Eden, Kristina",Author,3.0,F,0.967741935483871,False,{},"{'KRISTINA': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'BG', 'BY', 'CH', 'CZ', 'DE', 'DK', 'EE', 'FI', 'GB', 'HR', 'IS', 'KZ', 'LT', 'LV', 'MD', 'MK', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{'KRISTINA': ['CA']}
+558,35NH7QLW," Hall, Brian S.",Author,4.0,M,0.8888888888888888,True,"{'BRIAN': ['BE', 'DK', 'GB', 'IE', 'MT', 'NL', 'NO', 'US']}",{},{'BRIAN': ['CA']}
+559,7EWXTL8I,Museo del Cine Pablo D. Hickén,Author,0.0,Unexpected name format,,,,,
+560,EGDA4FN4,"Richardson, Zoe",Author,0.0,F,1.0,False,{},"{'ZOE': [nan, 'AR', 'AU', 'BE', 'CA', 'CH', 'ES', 'FR', 'GB', 'HU', 'IE', 'IT', 'LU', 'MX', 'NL', 'RO', 'SE', 'US']}",{}
+561,JAT2UYJ2,"Abbate, Janet",Author,0.0,F,1.0,False,{},"{'JANET': ['AT', 'BE', 'CA', 'CH', 'DE', 'GB', 'IE', 'MT', 'NL', 'US']}",{}
+562,ZMI5JX2N,"Vincent, James",Author,0.0,M,1.0,False,"{'JAMES': ['AU', 'BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'IN', 'LU', 'MT', 'NZ', 'SE', 'US']}",{},{}
+563,WIQSI5JT,"Search, Patricia",Author,0.0,F,1.0,False,{},"{'PATRICIA': ['AT', 'AU', 'BE', 'CA', 'CH', 'DE', 'ES', 'FR', 'GB', 'HU', 'IE', 'LU', 'MT', 'NL', 'PT', 'PY', 'SE', 'SI', 'SK', 'US']}",{}
+564,2XYFJMGM,"Schneider, Tim",Author,0.0,M,1.0,False,"{'TIM': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'NL', 'NO', 'SE', 'SI', 'US']}",{},{}
+565,F5R7UZAU,"Fenstermaker, William",Author,0.0,M,1.0,False,"{'WILLIAM': ['AU', 'BE', 'CA', 'CH', 'DK', 'FI', 'FR', 'GB', 'IE', 'IT', 'LU', 'MT', 'NL', 'NO', 'NZ', 'SE', 'US']}",{},{}
+566,HZNZFH5U,"Powels, Julia",Author,0.0,F,1.0,False,{},"{'JULIA': ['AT', 'AZ', 'BE', 'BG', 'BR', 'BY', 'CA', 'CH', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'HU', 'IE', 'IL', 'IS', 'KZ', 'LU', 'MD', 'MT', 'NL', 'PL', 'PT', 'RU', 'SC', 'SE', 'SK', 'UA', 'US', 'UY']}",{}
+567,ZXNL99WM,"Kean, Sam",Author,0.0,M,0.7,False,"{'SAM': ['BE', 'GB', 'IE', 'MT', 'NL', 'SE', 'US']}",{},"{'SAM': ['CA', 'KR', 'VN']}"
+568,WMW9ZTJ5,Liam Wyatt,Author,0.0,Unexpected name format,,,,,
+569,6N6YKZHP,"Eschenfelder, Kristin R.",Author,0.0,F,0.9166666666666666,True,{},"{'KRISTIN': ['AT', 'BE', 'CH', 'DE', 'DK', 'EE', 'GB', 'IS', 'NO', 'SE', 'US']}",{'KRISTIN': ['CA']}
+570,6N6YKZHP," Caswell, Michelle",Author,1.0,F,0.9230769230769231,False,{},"{'MICHELLE': ['AT', 'BE', 'CH', 'DK', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'SE', 'US']}",{'MICHELLE': ['CA']}
+571,M2A68QET,"Deazley, Ronan",Author,0.0,M,0.8,False,"{'RONAN': ['FR', 'GB', 'IE', 'US']}",{},{'RONAN': ['CA']}
+572,92RUNGTP,"Smith, K. Kirby",Author,0.0,?,0.6666666666666666,True,{'KIRBY': ['US']},{},"{'KIRBY': ['CA', 'GB']}"
+573,8WGRMIBC,Swedesh National Heritage Board,Author,0.0,Unexpected name format,,,,,
+574,WKMBT2NI,"Reed, Jon",Author,0.0,M,1.0,False,"{'JON': [nan, 'AM', 'CA', 'CH', 'DK', 'ES', 'GB', 'IS', 'NL', 'NO', 'SE', 'US']}",{},{}
+575,WKMBT2NI," Sibley, Jessica",Author,1.0,F,0.9375,False,{},"{'JESSICA': ['AT', 'BE', 'CH', 'DE', 'ES', 'FR', 'GB', 'HT', 'IE', 'IT', 'LU', 'NL', 'SE', 'SZ', 'US']}",{'JESSICA': ['CA']}
+576,D8AY538E,"Benjamin, Ruha",Author,0.0,Name(s) not found,,,,,
+577,ALFAIRJR,"Hicks, Mar",Author,0.0,?,0.5,False,{'MAR': ['IS']},"{'MAR': ['ES', 'GB']}","{'MAR': ['CA', 'NL', 'US']}"
+578,EMFPUX4H,"Lyon, David",Author,0.0,M,0.972972972972973,False,"{'DAVID': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'GE', 'HR', 'HU', 'IE', 'IL', 'IS', 'IT', 'KZ', 'LI', 'LU', 'MD', 'MT', 'NL', 'NO', 'PE', 'PT', 'PY', 'RO', 'SE', 'SI', 'UA', 'US', 'VE']}",{},{'DAVID': ['CA']}
+579,RNEUJDHI,"Hindmarch, John",Author,0.0,M,1.0,False,"{'JOHN': [nan, 'AM', 'AZ', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'IN', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{},{}
+580,RNEUJDHI," Terras, Melissa",Author,1.0,F,0.9230769230769231,False,{},"{'MELISSA': ['AT', 'BE', 'CH', 'DE', 'FR', 'GB', 'IE', 'IT', 'MT', 'NL', 'SE', 'US']}",{'MELISSA': ['CA']}
+581,RNEUJDHI," Robson, Stuart",Author,2.0,M,1.0,False,"{'STUART': ['CA', 'GB', 'IE', 'US']}",{},{}
+582,RNEUJDHI,"Lewi, Hannah",Editor,0.0,F,1.0,False,{},"{'HANNAH': ['AT', 'CA', 'DE', 'DK', 'GB', 'IE', 'IL', 'MT', 'MY', 'NL', 'US']}",{}
+583,RNEUJDHI," Smith, Wally",Editor,1.0,M,0.6,False,"{'WALLY': ['CA', 'MT', 'US']}",{'WALLY': ['NO']},{'WALLY': ['NL']}
+584,RNEUJDHI," vom Lehn, Dirk",Editor,2.0,M,1.0,False,"{'DIRK': ['AT', 'BE', 'CA', 'CH', 'DE', 'GB', 'NL', 'US']}",{},{}
+585,RNEUJDHI," Cooke, Steven",Editor,3.0,M,1.0,False,"{'STEVEN': ['BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'SE', 'US']}",{},{}
+586,W7VK2CNC,"Buccafusco, Christopher",Author,0.0,M,0.9166666666666666,False,"{'CHRISTOPHER': [nan, 'AT', 'CH', 'DE', 'GB', 'IE', 'MT', 'NO', 'SE', 'UG', 'US']}",{},{'CHRISTOPHER': ['CA']}
+587,W5LLBB6W,"Ward, Esme",Author,0.0,F,1.0,False,{},"{'ESME': ['CA', 'GB', 'TR', 'US']}",{}
+588,BGZKYWT6,Brighton Museum & Art Gallery,Author,0.0,Unexpected name format,,,,,
+589,Z7LRF3VY,"Hall, Stuart",Author,0.0,M,1.0,False,"{'STUART': ['CA', 'GB', 'IE', 'US']}",{},{}
+590,IYRG35VV,"Mhlambi, Sabelo",Author,0.0,Name(s) not found,,,,,
+591,IYRG35VV," Ortiz Freuler, Juan",Author,1.0,M,0.8888888888888888,False,"{'JUAN': ['AR', 'BE', 'CH', 'CO', 'EC', 'ES', 'FR', 'GB', 'GQ', 'MT', 'MX', 'PE', 'PT', 'PY', 'US', 'UY']}",{'JUAN': ['CN']},{'JUAN': ['CA']}
+592,IYRG35VV," Ricaurte, Paola",Author,2.0,F,0.8333333333333334,False,{},"{'PAOLA': ['CH', 'ES', 'GB', 'IT', 'US']}",{'PAOLA': ['CA']}
+593,KJ62NSYB,"Janke, Terri",Author,0.0,F,0.75,False,{},"{'TERRI': ['GB', 'IE', 'US']}",{'TERRI': ['CA']}
+594,KJ62NSYB," Broughton, Adam",Author,1.0,M,1.0,False,"{'ADAM': ['AT', 'AU', 'BA', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EG', 'ES', 'FR', 'GB', 'GR', 'HU', 'IE', 'IL', 'IS', 'MY', 'PL', 'RO', 'SE', 'SK', 'US']}",{},{}
+595,8S76VNPB,"Andersen, Nikki",Author,0.0,F,0.8571428571428571,False,{},"{'NIKKI': ['BE', 'GB', 'IN', 'NL', 'SE', 'US']}",{'NIKKI': ['CA']}
+596,4VJ9JLBG,Australian Network on Disability,Author,0.0,Unexpected name format,,,,,
+597,B5R8S9B2,"Thorpe, Kristen",Author,0.0,F,0.5,False,"{'KRISTEN': ['DK', 'NO']}","{'KRISTEN': ['GB', 'IE', 'US']}",{'KRISTEN': ['CA']}
+598,BJPWGPBP,Clare,Author,0.0,Unexpected name format,,,,,
+599,V2V86E5Z,Australian Museums and Galleries Association,Author,0.0,Unexpected name format,,,,,
+600,N2BI6QXS,"State Library New South Wales, Sydney",Author,0.0,?FM,0.3333333333333333,False,{'SYDNEY': ['GB']},{'SYDNEY': ['US']},{'SYDNEY': ['CA']}
+601,KKU42ZDT,Australian Inclusive Publishing Initiative,Author,0.0,Unexpected name format,,,,,
+602,F6PQMKI6,"Andersen, Nikki",Author,0.0,F,0.8571428571428571,False,{},"{'NIKKI': ['BE', 'GB', 'IN', 'NL', 'SE', 'US']}",{'NIKKI': ['CA']}
+603,744UBJ7T,IFLA,Author,0.0,Unexpected name format,,,,,
+604,BISPNKFH,W3C Web Accessibility Initiative,Author,0.0,Unexpected name format,,,,,
+605,GJVQVBNY,"Coolidge, Amanda",Author,0.0,F,0.9444444444444444,False,{},"{'AMANDA': ['AL', 'BE', 'CH', 'CL', 'DE', 'DK', 'ES', 'FI', 'GB', 'IE', 'IT', 'MT', 'NL', 'NO', 'NZ', 'SE', 'US']}",{'AMANDA': ['CA']}
+606,GJVQVBNY," Doner, Sue",Author,1.0,F,1.0,False,{},"{'SUE': ['CA', 'GB', 'IE', 'US']}",{}
+607,GJVQVBNY," Robertson, Tara",Author,2.0,F,0.8888888888888888,False,{},"{'TARA': ['BE', 'GB', 'IE', 'IL', 'IN', 'NL', 'SE', 'US']}",{'TARA': ['CA']}
+608,GJVQVBNY," Gray, Josie",Author,3.0,F,0.6,False,{'JOSIE': ['MT']},"{'JOSIE': ['CH', 'GB', 'US']}",{'JOSIE': ['CA']}
+609,Z4LIT28T,Center for Digital Syracues University,Author,0.0,Unexpected name format,,,,,
+610,ZJQH3HHI,University of Minnesota,Author,0.0,Unexpected name format,,,,,
+611,VTKVJLRH,Minnesota IT Services Office of Accesiblity,Author,0.0,Unexpected name format,,,,,
+612,K4ZIEBPE,UK Government,Author,0.0,Unexpected name format,,,,,
+613,CPSMDE8G,University of Minnesota,Author,0.0,Unexpected name format,,,,,
+614,4P7E4SKV,University of Queensland Libraries,Author,0.0,Unexpected name format,,,,,
+615,SPL8429M,"Turner, Hannah",Author,0.0,F,1.0,False,{},"{'HANNAH': ['AT', 'CA', 'DE', 'DK', 'GB', 'IE', 'IL', 'MT', 'MY', 'NL', 'US']}",{}
+616,FZEAD8DV,"Stoler, Ann Laura",Author,0.0,F,1.0,True,{},"{'ANN': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'GB', 'GE', 'IE', 'MT', 'NL', 'NO', 'SE', 'US'], 'LAURA': ['AD', 'AL', 'AM', 'AT', 'AZ', 'BE', 'BR', 'CA', 'CH', 'DE', 'DK', 'EE', 'ES', 'FI', 'FR', 'GB', 'GE', 'HU', 'IE', 'IT', 'KS', 'KZ', 'LU', 'LV', 'MT', 'NL', 'PT', 'RO', 'SE', 'SK', 'US']}",{}
+617,FZEAD8DV, Princeton University Press,Author,1.0,Unexpected name format,,,,,
+618,MM99RSKN,"Perez, Emma",Author,0.0,F,1.0,False,{},"{'EMMA': ['AD', 'AM', 'AR', 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'ES', 'FI', 'FR', 'GB', 'HU', 'IE', 'IS', 'IT', 'LI', 'LU', 'LV', 'MC', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+619,7LV7LT3S,"Noble, Safiya Umoja",Author,0.0,F,0.75,True,{'UMOJA': ['US']},"{'SAFIYA': ['CA', 'GB', 'US']}",{}
+620,R7379HJR,"Kingdon, Zachary",Author,0.0,M,1.0,False,"{'ZACHARY': ['CA', 'GB', 'MT', 'US']}",{},{}
+621,R7379HJR," Brown, Kathryn",Author,1.0,F,1.0,False,{},"{'KATHRYN': ['CA', 'GB', 'IE', 'MT', 'US']}",{}
+622,KSIDSEIE,"Greene, Candace S.",Author,0.0,F,1.0,True,{},"{'CANDACE': ['CA', 'GB', 'US']}",{}
+623,J2ZTMI2W,"Camille, Michael",Author,0.0,M,0.9523809523809523,False,"{'MICHAEL': [nan, 'AM', 'AT', 'AU', 'BE', 'CH', 'CZ', 'DE', 'DK', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'SE', 'SK', 'US']}",{},{'MICHAEL': ['CA']}
+624,J2ZTMI2W," Çelik, Zeynep",Author,1.0,F,1.0,False,{},"{'ZEYNEP': ['CA', 'GB', 'SE', 'TR', 'US']}",{}
+625,J2ZTMI2W," Onians, John",Author,2.0,M,1.0,False,"{'JOHN': [nan, 'AM', 'AZ', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'IN', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{},{}
+626,J2ZTMI2W," Rifkin, Adrian",Author,3.0,M,0.9444444444444444,False,"{'ADRIAN': ['AL', 'AT', 'BE', 'BG', 'CH', 'DE', 'ES', 'GB', 'HU', 'IE', 'MD', 'MT', 'NL', 'PL', 'RO', 'SK', 'US']}",{},{'ADRIAN': ['CA']}
+627,J2ZTMI2W," Steiner, Christopher B.",Author,4.0,M,0.9166666666666666,True,"{'CHRISTOPHER': [nan, 'AT', 'CH', 'DE', 'GB', 'IE', 'MT', 'NO', 'SE', 'UG', 'US']}",{},{'CHRISTOPHER': ['CA']}
+628,Z4ERKH4L,"Burton, Antoinette M",Author,0.0,F,1.0,True,{},"{'ANTOINETTE': ['BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'US']}",{}
+629,L9IPCRVI,"Bowker, Geoffrey C",Author,0.0,M,1.0,True,"{'GEOFFREY': ['BE', 'CA', 'FR', 'GB', 'IE', 'MT', 'US']}",{},{}
+630,L9IPCRVI," Star, Susan Leigh",Author,1.0,F,0.9473684210526315,True,{},"{'LEIGH': ['GB', 'IE', 'US'], 'SUSAN': [nan, 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'IL', 'MT', 'NL', 'NO', 'SE', 'US']}",{'LEIGH': ['CA']}
+631,UDUYQIFW,"Adler, Melissa",Author,0.0,F,0.9230769230769231,False,{},"{'MELISSA': ['AT', 'BE', 'CH', 'DE', 'FR', 'GB', 'IE', 'IT', 'MT', 'NL', 'SE', 'US']}",{'MELISSA': ['CA']}
+632,8PFKE579,"Anderson, Jane",Author,0.0,F,0.9375,False,{'JANE': ['MK']},"{'JANE': ['AT', 'BE', 'CA', 'CH', 'DK', 'EE', 'GB', 'IE', 'LT', 'MT', 'NL', 'NO', 'PH', 'SE', 'US']}",{}
+633,8PFKE579," Christen, Kim",Author,1.0,F,0.6153846153846154,False,"{'KIM': ['AM', 'DK', 'NO']}","{'KIM': ['BE', 'CH', 'GB', 'IE', 'LU', 'NL', 'US', 'VN']}","{'KIM': ['CA', 'SE']}"
+634,YKE5ZI25,"Riley, Angela R.",Author,0.0,F,1.0,True,{},"{'ANGELA': ['AM', 'AT', 'BE', 'CA', 'CH', 'DE', 'EE', 'ES', 'FR', 'GB', 'GR', 'HU', 'IE', 'IT', 'KZ', 'MD', 'MK', 'MT', 'NL', 'PT', 'RO', 'RU', 'SI', 'SK', 'US']}",{}
+635,FAM46VYW,"Dutfield, Graham",Author,0.0,M,1.0,False,"{'GRAHAM': ['CA', 'GB', 'IE', 'MT', 'US']}",{},{}
+636,KIIS7PVX,"Blackwell, Amy Hackney",Author,0.0,F,1.0,True,{},"{'AMY': ['CA', 'GB', 'IE', 'IL', 'LU', 'MT', 'US']}",{}
+637,KIIS7PVX," Blackwell, Christopher William",Author,1.0,M,0.9655172413793104,True,"{'CHRISTOPHER': [nan, 'AT', 'CH', 'DE', 'GB', 'IE', 'MT', 'NO', 'SE', 'UG', 'US'], 'WILLIAM': ['AU', 'BE', 'CA', 'CH', 'DK', 'FI', 'FR', 'GB', 'IE', 'IT', 'LU', 'MT', 'NL', 'NO', 'NZ', 'SE', 'US']}",{},{'CHRISTOPHER': ['CA']}
+638,56YVX8JK,Victoria and Albert Museum,Author,0.0,Unexpected name format,,,,,
+639,XR7F2IBC,"Voon, Claire",Author,0.0,F,0.9,False,{},"{'CLAIRE': ['BE', 'CH', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'US']}",{'CLAIRE': ['CA']}
+640,LDTEWQ95,"Flynn, Jacob",Author,0.0,M,1.0,False,"{'JACOB': ['AT', 'AU', 'BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'IL', 'MT', 'NL', 'NO', 'NZ', 'SE', 'US']}",{},{}
+641,LDTEWQ95," Giblin, Rebecca",Author,1.0,F,1.0,False,{},"{'REBECCA': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'IN', 'IT', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+642,LDTEWQ95," Petitjean, Francois",Author,2.0,M,1.0,False,"{'FRANCOIS': [nan, 'BE', 'CA', 'CH', 'FR', 'GB', 'LU', 'US']}",{},{}
+643,VDVLIWSE,"Cannell, Michael",Author,0.0,M,0.9523809523809523,False,"{'MICHAEL': [nan, 'AM', 'AT', 'AU', 'BE', 'CH', 'CZ', 'DE', 'DK', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'SE', 'SK', 'US']}",{},{'MICHAEL': ['CA']}
+644,JR6GZDN6,"Butler, Kathleen Connolly",Author,0.0,F,0.8,True,{},"{'KATHLEEN': ['BE', 'CA', 'DE', 'FR', 'GB', 'IE', 'MT', 'US']}","{'CONNOLLY': ['CA', 'US']}"
+645,CY6NJ784,"Autry, La Tanya",Author,0.0,F,0.9444444444444444,True,{},"{'LA': ['GB', 'US'], 'TANYA': ['AZ', 'BG', 'BY', 'CA', 'GB', 'IE', 'IL', 'IR', 'KZ', 'MD', 'NL', 'RU', 'SE', 'UA', 'US']}",{'LA': ['CA']}
+646,CY6NJ784," Murawski, Mike",Author,1.0,M,0.8333333333333334,False,"{'MIKE': ['AT', 'BE', 'CA', 'CH', 'GB', 'IE', 'LU', 'NO', 'SE', 'US']}",{'MIKE': ['NL']},{'MIKE': ['DE']}
+647,RICTZVC5,"Rodriguez, Anabel Roque",Author,0.0,FM,0.5,True,"{'ROQUE': ['CA', 'ES', 'GB', 'PT', 'US']}","{'ANABEL': ['CA', 'CH', 'FR', 'GB', 'US']}",{}
+648,FHE66G5Q,"Anderson, Suse",Author,0.0,F,1.0,False,{},"{'SUSE': ['AT', 'DE']}",{}
+649,FHE66G5Q,"Autry, La Tanya",Guest,0.0,F,0.9444444444444444,True,{},"{'LA': ['GB', 'US'], 'TANYA': ['AZ', 'BG', 'BY', 'CA', 'GB', 'IE', 'IL', 'IR', 'KZ', 'MD', 'NL', 'RU', 'SE', 'UA', 'US']}",{'LA': ['CA']}
+650,FHE66G5Q," Murawski, Mike",Guest,1.0,M,0.8333333333333334,False,"{'MIKE': ['AT', 'BE', 'CA', 'CH', 'GB', 'IE', 'LU', 'NO', 'SE', 'US']}",{'MIKE': ['NL']},{'MIKE': ['DE']}
+651,R3UALFWC,"Watlington, Emily",Author,0.0,F,1.0,False,{},"{'EMILY': ['AU', 'AW', 'BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'LU', 'MT', 'NZ', 'US']}",{}
+652,R3UALFWC," Watlington, Emily",Author,1.0,F,1.0,False,{},"{'EMILY': ['AU', 'AW', 'BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'LU', 'MT', 'NZ', 'US']}",{}
+653,2KRLEJ6T,"Romeo, Fiona",Author,0.0,F,1.0,False,{},"{'FIONA': ['BE', 'CA', 'CH', 'GB', 'IE', 'MT', 'NL', 'UG', 'US']}",{}
+654,SJ3SND5G,"Kingston, Adrian",Author,0.0,M,0.9444444444444444,False,"{'ADRIAN': ['AL', 'AT', 'BE', 'BG', 'CH', 'DE', 'ES', 'GB', 'HU', 'IE', 'MD', 'MT', 'NL', 'PL', 'RO', 'SK', 'US']}",{},{'ADRIAN': ['CA']}
+655,I5ZRTSXE,"Tanner, Simon",Author,0.0,M,0.9642857142857143,False,"{'SIMON': ['AL', 'AM', 'AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'GE', 'IE', 'IL', 'IS', 'LI', 'LU', 'ME', 'MK', 'MT', 'NL', 'NO', 'RO', 'RS', 'SE', 'SI', 'US']}",{},{'SIMON': ['CA']}
+656,I5ZRTSXE," Deegan, Marilyn",Author,1.0,F,1.0,False,{},"{'MARILYN': ['BE', 'CA', 'FR', 'GB', 'IE', 'US']}",{}
+657,5994IB3Q,"Deazley, Ronan",Author,0.0,M,0.8,False,"{'RONAN': ['FR', 'GB', 'IE', 'US']}",{},{'RONAN': ['CA']}
+658,AWQUCRGJ,"Fisher, William",Author,0.0,M,1.0,False,"{'WILLIAM': ['AU', 'BE', 'CA', 'CH', 'DK', 'FI', 'FR', 'GB', 'IE', 'IT', 'LU', 'MT', 'NL', 'NO', 'NZ', 'SE', 'US']}",{},{}
+659,AWQUCRGJ,"Munzer, Stephen",Editor,0.0,M,1.0,False,"{'STEPHEN': ['BE', 'CA', 'GB', 'IE', 'IL', 'KE', 'MT', 'SZ', 'US']}",{},{}
+660,MTB8SWJ2,"Deazley, Ronan",Author,0.0,M,0.8,False,"{'RONAN': ['FR', 'GB', 'IE', 'US']}",{},{'RONAN': ['CA']}
+661,MTB8SWJ2,"Deazley, Ronan",Editor,0.0,M,0.8,False,"{'RONAN': ['FR', 'GB', 'IE', 'US']}",{},{'RONAN': ['CA']}
+662,XN88T47C,"Katyal, Sonia",Author,0.0,F,1.0,False,{},"{'SONIA': ['AM', 'BE', 'BG', 'CA', 'CH', 'DK', 'ES', 'FR', 'GB', 'GR', 'IE', 'IL', 'IN', 'IR', 'IT', 'LU', 'MT', 'PT', 'RO', 'SE', 'US']}",{}
+663,KP4UTEJA,"Stierch, Sarah",Author,0.0,F,1.0,False,{},"{'SARAH': ['AE', 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'LI', 'LU', 'LY', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+664,75XKUIKD,DPLA,Author,0.0,Unexpected name format,,,,,
+665,8QL9UHLS,"Farley, Christine Haight",Author,0.0,F,1.0,True,{},"{'CHRISTINE': ['AM', 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'FI', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+666,NG6PD6WA,"Brown, Michael F.",Author,0.0,M,0.9523809523809523,True,"{'MICHAEL': [nan, 'AM', 'AT', 'AU', 'BE', 'CH', 'CZ', 'DE', 'DK', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'SE', 'SK', 'US']}",{},{'MICHAEL': ['CA']}
+667,5BLAFHBC,"Mendis, Dinusha",Author,0.0,M,1.0,False,{'DINUSHA': ['US']},{},{}
+668,5BLAFHBC," Nordermann, Jan Bernd",Author,1.0,M,0.8620689655172413,True,"{'BERND': ['AT', 'BE', 'CH', 'DE', 'DK', 'LU', 'NL', 'US'], 'JAN': ['AD', 'AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'IL', 'NL', 'NO', 'PL', 'RO', 'SE', 'SI', 'SK']}","{'JAN': ['IE', 'US']}","{'JAN': ['CA', 'GB']}"
+669,5BLAFHBC," Ballardini, Rosa Maria",Author,2.0,F,1.0,False,{},{'ROSA MARIA': ['CA']},{}
+670,5BLAFHBC," Brorsen, Hans",Author,3.0,M,1.0,False,"{'HANS': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'GB', 'GL', 'IS', 'LU', 'LV', 'NL', 'NO', 'SE', 'US']}",{},{}
+671,5BLAFHBC," Calatrava Moreno, Maria del Carmen",Author,4.0,F,1.0,False,{},"{'MARIA DEL CARMEN': ['ES', 'GQ']}",{}
+672,5BLAFHBC," Robson, Julie",Author,5.0,F,1.0,False,{},"{'JULIE': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DK', 'FR', 'GB', 'GE', 'GL', 'IE', 'LU', 'MT', 'NO', 'SE', 'US']}",{}
+673,5BLAFHBC," Dickens, Phill",Author,6.0,M,1.0,False,{'PHILL': ['US']},{},{}
+674,XVCW66JG,"Coombe, Rosemary J.",Author,0.0,F,1.0,True,{},"{'ROSEMARY': ['CA', 'GB', 'IE', 'US']}",{}
+675,YJR5WZ4Q,"Macmillan, Fiona",Author,0.0,F,1.0,False,{},"{'FIONA': ['BE', 'CA', 'CH', 'GB', 'IE', 'MT', 'NL', 'UG', 'US']}",{}
+676,YJR5WZ4Q,"Ginsburgh, Victor A.",Editor,0.0,M,1.0,True,"{'VICTOR': ['AM', 'AZ', 'BE', 'BG', 'BY', 'CA', 'DK', 'ES', 'FR', 'GB', 'IE', 'IL', 'IS', 'KZ', 'LU', 'MD', 'MT', 'NL', 'NO', 'PT', 'RO', 'RU', 'SE', 'UA', 'US']}",{},{}
+677,YJR5WZ4Q," Throsby, David",Editor,1.0,M,0.972972972972973,False,"{'DAVID': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'GE', 'HR', 'HU', 'IE', 'IL', 'IS', 'IT', 'KZ', 'LI', 'LU', 'MD', 'MT', 'NL', 'NO', 'PE', 'PT', 'PY', 'RO', 'SE', 'SI', 'UA', 'US', 'VE']}",{},{'DAVID': ['CA']}
+678,KZN5S8DY,"Boyle, James",Author,0.0,M,1.0,False,"{'JAMES': ['AU', 'BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'IN', 'LU', 'MT', 'NZ', 'SE', 'US']}",{},{}
+679,LH852FQL,"Borck, Larissa",Author,0.0,F,1.0,False,{},"{'LARISSA': ['AT', 'AZ', 'BE', 'BG', 'BY', 'CA', 'CH', 'DE', 'EE', 'GB', 'KZ', 'NL', 'RU', 'UA', 'US']}",{}
+680,8AVLH97J,"Loyer, Jessie",Author,0.0,F,0.8333333333333334,False,{},"{'JESSIE': ['BE', 'GB', 'NL', 'SE', 'US']}",{'JESSIE': ['CA']}
+681,I2GJPGRC,"Buccafusco, Christopher J.",Author,0.0,M,0.9166666666666666,True,"{'CHRISTOPHER': [nan, 'AT', 'CH', 'DE', 'GB', 'IE', 'MT', 'NO', 'SE', 'UG', 'US']}",{},{'CHRISTOPHER': ['CA']}
+682,I2GJPGRC," Heald, Paul J.",Author,1.0,M,1.0,True,"{'PAUL': ['AT', 'BE', 'CA', 'CH', 'CM', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'RO', 'SE', 'US']}",{},{}
+683,L2QRMKCY,"Buccafusco, Christopher",Author,0.0,M,0.9166666666666666,False,"{'CHRISTOPHER': [nan, 'AT', 'CH', 'DE', 'GB', 'IE', 'MT', 'NO', 'SE', 'UG', 'US']}",{},{'CHRISTOPHER': ['CA']}
+684,L2QRMKCY," Sprigman, Christopher Jon",Author,1.0,M,1.0,False,{'CHRISTOPHER JON': ['CA']},{},{}
+685,L2QRMKCY,"Mennel, Peter",Editor,0.0,M,1.0,False,"{'PETER': [nan, 'AT', 'BE', 'BY', 'CA', 'CH', 'DE', 'DK', 'EG', 'GB', 'GL', 'HU', 'IE', 'IL', 'KE', 'LI', 'LU', 'MT', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{},{}
+686,L2QRMKCY," Schwartz, David",Editor,1.0,M,0.972972972972973,False,"{'DAVID': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'GE', 'HR', 'HU', 'IE', 'IL', 'IS', 'IT', 'KZ', 'LI', 'LU', 'MD', 'MT', 'NL', 'NO', 'PE', 'PT', 'PY', 'RO', 'SE', 'SI', 'UA', 'US', 'VE']}",{},{'DAVID': ['CA']}
+687,HX3P34SR,"Wallace, Andrea",Author,0.0,F,0.9090909090909091,False,{'ANDREA': ['IT']},"{'ANDREA': ['AL', 'AT', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HU', 'IE', 'IS', 'LU', 'ME', 'NL', 'SK', 'US']}",{'ANDREA': ['CA']}
+688,HX3P34SR,"Wallace, Andrea",Editor,0.0,F,0.9090909090909091,False,{'ANDREA': ['IT']},"{'ANDREA': ['AL', 'AT', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HU', 'IE', 'IS', 'LU', 'ME', 'NL', 'SK', 'US']}",{'ANDREA': ['CA']}
+689,HX3P34SR," Deazley, Ronan",Editor,1.0,M,0.8,False,"{'RONAN': ['FR', 'GB', 'IE', 'US']}",{},{'RONAN': ['CA']}
+690,24SFZ5QI,"Blakely, Megan",Author,0.0,F,0.75,False,{},"{'MEGAN': ['GB', 'IE', 'US']}",{'MEGAN': ['CA']}
+691,24SFZ5QI,"Wallace, Andrea",Editor,0.0,F,0.9090909090909091,False,{'ANDREA': ['IT']},"{'ANDREA': ['AL', 'AT', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HU', 'IE', 'IS', 'LU', 'ME', 'NL', 'SK', 'US']}",{'ANDREA': ['CA']}
+692,24SFZ5QI," Deazley, Ronan",Editor,1.0,M,0.8,False,"{'RONAN': ['FR', 'GB', 'IE', 'US']}",{},{'RONAN': ['CA']}
+693,5LS5R658,"Harney, Stefano",Author,0.0,M,1.0,False,"{'STEFANO': ['CA', 'CH', 'GB', 'IT', 'MT', 'US']}",{},{}
+694,5LS5R658," Moten, Fred",Author,1.0,M,1.0,False,"{'FRED': ['AL', 'AT', 'CA', 'CH', 'DE', 'EE', 'GB', 'IE', 'NL', 'NO', 'SE', 'US']}",{},{}
+695,6FMPB9RE,"Loos, Ted",Author,0.0,M,1.0,False,"{'TED': ['CA', 'GB', 'IE', 'NL', 'SE', 'US']}",{},{}
+696,QU64QYH2,"Bearman, David",Author,0.0,M,0.972972972972973,False,"{'DAVID': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'GE', 'HR', 'HU', 'IE', 'IL', 'IS', 'IT', 'KZ', 'LI', 'LU', 'MD', 'MT', 'NL', 'NO', 'PE', 'PT', 'PY', 'RO', 'SE', 'SI', 'UA', 'US', 'VE']}",{},{'DAVID': ['CA']}
+697,QU64QYH2,"Jones-Garmil, Katherine",Editor,0.0,F,1.0,False,{},"{'KATHERINE': ['CA', 'CH', 'GB', 'IE', 'US']}",{}
+698,4UH2DCQ8,"Seadle, Michael",Author,0.0,M,0.9523809523809523,False,"{'MICHAEL': [nan, 'AM', 'AT', 'AU', 'BE', 'CH', 'CZ', 'DE', 'DK', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'SE', 'SK', 'US']}",{},{'MICHAEL': ['CA']}
+699,I3GUWDI2,"Ballon, Hillary",Author,0.0,F,0.6666666666666666,False,{},"{'HILLARY': ['GB', 'US']}",{'HILLARY': ['CA']}
+700,I3GUWDI2," Westermann, Mariet",Author,1.0,F,1.0,False,{},{'MARIET': ['NL']},{}
+701,TWN33D43,"Allen, Nancy",Author,0.0,F,1.0,False,{},"{'NANCY': ['BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+702,CUYY4XVM,"Zorich, Diane M",Author,0.0,F,1.0,True,{},"{'DIANE': ['AT', 'BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'IE', 'LU', 'NL', 'US']}",{}
+703,HC62WWYK,"Britz, Johannes J.",Author,0.0,M,1.0,True,"{'JOHANNES': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'FI', 'GB', 'IS', 'MC', 'NL', 'NO', 'SE', 'US']}",{},{}
+704,HC62WWYK," Lipinski, Tomas A.",Author,1.0,M,1.0,True,"{'TOMAS': ['AR', 'CA', 'CH', 'CZ', 'DK', 'EE', 'ES', 'GB', 'IE', 'IS', 'LT', 'NL', 'NO', 'PT', 'SE', 'SK', 'US']}",{},{}
+705,5Q7NA7B2,"Morsink, Johannes",Author,0.0,M,1.0,False,"{'JOHANNES': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'FI', 'GB', 'IS', 'MC', 'NL', 'NO', 'SE', 'US']}",{},{}
+706,SNXFS6T6,"Zorich, Diane M.",Author,0.0,F,1.0,True,{},"{'DIANE': ['AT', 'BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'IE', 'LU', 'NL', 'US']}",{}
+707,LQN42I9Z,"Werner, Sarah",Author,0.0,F,1.0,False,{},"{'SARAH': ['AE', 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'LI', 'LU', 'LY', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+708,GGFAH9A6,"Kenney, Anne R.",Author,0.0,F,0.8888888888888888,True,{},"{'ANNE': [nan, 'AT', 'BE', 'CH', 'DE', 'DK', 'EE', 'FI', 'FR', 'GB', 'IE', 'LU', 'MT', 'NO', 'SE', 'US']}","{'ANNE': ['CA', 'NL']}"
+709,HGLLBYBG,"Plaza, Beatriz",Author,0.0,F,1.0,False,{},"{'BEATRIZ': ['CA', 'CO', 'ES', 'GB', 'MX', 'PT', 'PY', 'US']}",{}
+710,I58FKXM3,"Boyle, James",Author,0.0,M,1.0,False,"{'JAMES': ['AU', 'BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'IN', 'LU', 'MT', 'NZ', 'SE', 'US']}",{},{}
+711,DP6ZLBTC,Creative Commons UK,Author,0.0,Unexpected name format,,,,,
+712,8EBILRYA,Creative Commons UK,Author,0.0,Unexpected name format,,,,,
+713,S8H3MDL3,"Rodríguez-Ortega, Nuria",Author,0.0,F,1.0,False,{},"{'NURIA': ['CA', 'ES', 'GB', 'KZ', 'PT', 'US']}",{}
+714,4ZSRVGGQ,"Wilkinson, Mark D.",Author,0.0,M,1.0,True,"{'MARK': [nan, 'AL', 'AM', 'AT', 'AZ', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'EG', 'GB', 'HU', 'IE', 'IL', 'KS', 'KZ', 'LI', 'MT', 'NL', 'SE', 'SI', 'US']}",{},{}
+715,4ZSRVGGQ," Dumontier, Michel",Author,1.0,M,0.9166666666666666,False,"{'MICHEL': ['BE', 'CH', 'DE', 'FR', 'GB', 'IL', 'LU', 'MT', 'NL', 'SE', 'US']}",{},{'MICHEL': ['CA']}
+716,4ZSRVGGQ," Aalbersberg, IJsbrand Jan",Author,2.0,M,0.8095238095238095,True,"{'JAN': ['AD', 'AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'IL', 'NL', 'NO', 'PL', 'RO', 'SE', 'SI', 'SK']}","{'JAN': ['IE', 'US']}","{'JAN': ['CA', 'GB']}"
+717,4ZSRVGGQ," Appleton, Gabrielle",Author,3.0,F,0.9090909090909091,False,{},"{'GABRIELLE': ['BE', 'CH', 'FR', 'GB', 'IE', 'JM', 'LU', 'NL', 'SE', 'US']}",{'GABRIELLE': ['CA']}
+718,4ZSRVGGQ," Axton, Myles",Author,4.0,M,0.6666666666666666,False,"{'MYLES': ['GB', 'US']}",{},{'MYLES': ['CA']}
+719,4ZSRVGGQ," Baak, Arie",Author,5.0,M,0.75,False,"{'ARIE': ['BE', 'FR', 'GB', 'IL', 'NL', 'RO']}",{},"{'ARIE': ['CA', 'US']}"
+720,4ZSRVGGQ," Blomberg, Niklas",Author,6.0,M,1.0,False,"{'NIKLAS': ['AT', 'CA', 'CH', 'DE', 'DK', 'GB', 'NO', 'SE', 'US']}",{},{}
+721,4ZSRVGGQ," Boiten, Jan-Willem",Author,7.0,M,0.8461538461538461,True,"{'JAN': ['AD', 'AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'IL', 'NL', 'NO', 'PL', 'RO', 'SE', 'SI', 'SK'], 'WILLEM': ['BE', 'CA', 'GB', 'NL', 'US']}","{'JAN': ['IE', 'US']}","{'JAN': ['CA', 'GB']}"
+722,4ZSRVGGQ," Santos, Luiz Bonino da Silva",Author,8.0,F,0.55,True,"{'DA': ['US'], 'LUIZ': ['BR', 'CA', 'GB', 'US']}","{'DA': ['GB'], 'SILVA': ['AL', 'AM', 'BG', 'EE', 'GB', 'IT', 'LV', 'RS', 'SI', 'US']}","{'DA': ['CA', 'CN', 'KR'], 'SILVA': ['CA']}"
+723,4ZSRVGGQ," Bourne, Philip E.",Author,9.0,M,1.0,True,"{'PHILIP': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'IL', 'MT', 'NL', 'NO', 'SE', 'US']}",{},{}
+724,4ZSRVGGQ," Bouwman, Jildau",Author,10.0,Name(s) not found,,,,,
+725,4ZSRVGGQ," Brookes, Anthony J.",Author,11.0,M,1.0,True,"{'ANTHONY': ['BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'IN', 'LU', 'MT', 'NO', 'US', 'ZM']}",{},{}
+726,4ZSRVGGQ," Clark, Tim",Author,12.0,M,1.0,False,"{'TIM': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'NL', 'NO', 'SE', 'SI', 'US']}",{},{}
+727,4ZSRVGGQ," Crosas, Mercè",Author,13.0,?F,0.5,False,{},{'MERCE': ['ES']},{'MERCE': ['US']}
+728,4ZSRVGGQ," Dillo, Ingrid",Author,14.0,F,1.0,False,{},"{'INGRID': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'FR', 'GB', 'HR', 'LU', 'MT', 'NL', 'NO', 'NZ', 'SE', 'SK', 'US']}",{}
+729,4ZSRVGGQ," Dumon, Olivier",Author,15.0,M,1.0,False,"{'OLIVIER': ['BE', 'CA', 'CH', 'FR', 'GB', 'LU', 'SE', 'US']}",{},{}
+730,4ZSRVGGQ," Edmunds, Scott",Author,16.0,M,1.0,False,"{'SCOTT': ['CA', 'GB', 'IE', 'SE', 'US']}",{},{}
+731,4ZSRVGGQ," Evelo, Chris T.",Author,17.0,M,0.9090909090909091,True,"{'CHRIS': ['BE', 'DE', 'DK', 'GB', 'IE', 'MT', 'NL', 'NO', 'SE', 'US']}",{},{'CHRIS': ['CA']}
+732,4ZSRVGGQ," Finkers, Richard",Author,18.0,M,1.0,False,"{'RICHARD': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'FR', 'GB', 'HU', 'IE', 'LU', 'MT', 'NL', 'NO', 'PH', 'SE', 'SK', 'TT', 'US']}",{},{}
+733,4ZSRVGGQ," Gonzalez-Beltran, Alejandra",Author,19.0,F,1.0,False,{},"{'ALEJANDRA': ['CA', 'ES', 'GB', 'US']}",{}
+734,4ZSRVGGQ," Gray, Alasdair J. G.",Author,20.0,M,1.0,True,"{'ALASDAIR': ['CA', 'GB', 'US']}",{},{}
+735,4ZSRVGGQ," Groth, Paul",Author,21.0,M,1.0,False,"{'PAUL': ['AT', 'BE', 'CA', 'CH', 'CM', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'RO', 'SE', 'US']}",{},{}
+736,4ZSRVGGQ," Goble, Carole",Author,22.0,F,1.0,False,{},"{'CAROLE': ['BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'LU', 'MC', 'MT', 'US']}",{}
+737,4ZSRVGGQ," Grethe, Jeffrey S.",Author,23.0,M,0.8571428571428571,True,"{'JEFFREY': ['BE', 'GB', 'IE', 'MT', 'NL', 'US']}",{},{'JEFFREY': ['CA']}
+738,4ZSRVGGQ," Heringa, Jaap",Author,24.0,M,1.0,False,{'JAAP': ['NL']},{},{}
+739,4ZSRVGGQ," Hoen, Peter A. C. ’t",Author,25.0,M,1.0,True,"{'PETER': [nan, 'AT', 'BE', 'BY', 'CA', 'CH', 'DE', 'DK', 'EG', 'GB', 'GL', 'HU', 'IE', 'IL', 'KE', 'LI', 'LU', 'MT', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{},{}
+740,4ZSRVGGQ," Hooft, Rob",Author,26.0,M,1.0,False,"{'ROB': ['BE', 'CA', 'GB', 'NL', 'US']}",{},{}
+741,4ZSRVGGQ," Kuhn, Tobias",Author,27.0,M,1.0,False,"{'TOBIAS': ['AT', 'CA', 'CH', 'DE', 'DK', 'GB', 'LI', 'NO', 'SE', 'US']}",{},{}
+742,4ZSRVGGQ," Kok, Ruben",Author,28.0,M,0.9375,False,"{'RUBEN': ['AM', 'AT', 'BE', 'DE', 'DK', 'ES', 'GB', 'IT', 'MT', 'NL', 'NO', 'PT', 'RO', 'SE', 'US']}",{},{'RUBEN': ['CA']}
+743,4ZSRVGGQ," Kok, Joost",Author,29.0,M,1.0,False,"{'JOOST': ['BE', 'CA', 'DE', 'GB', 'NL', 'US']}",{},{}
+744,4ZSRVGGQ," Lusher, Scott J.",Author,30.0,M,1.0,True,"{'SCOTT': ['CA', 'GB', 'IE', 'SE', 'US']}",{},{}
+745,4ZSRVGGQ," Martone, Maryann E.",Author,31.0,F,1.0,True,{},"{'MARYANN': ['CA', 'GB', 'US']}",{}
+746,4ZSRVGGQ," Mons, Albert",Author,32.0,M,1.0,False,"{'ALBERT': [nan, 'AL', 'AM', 'AT', 'AZ', 'BE', 'CA', 'CH', 'DE', 'DK', 'ES', 'FI', 'FR', 'GB', 'GE', 'HU', 'IE', 'IS', 'KS', 'LU', 'ME', 'MT', 'NL', 'NO', 'PL', 'RU', 'SK', 'US']}",{},{}
+747,4ZSRVGGQ," Packer, Abel L.",Author,33.0,M,1.0,True,"{'ABEL': ['BE', 'CA', 'DE', 'ES', 'FI', 'FR', 'GB', 'HR', 'HU', 'NL', 'PT', 'US']}",{},{}
+748,4ZSRVGGQ," Persson, Bengt",Author,34.0,M,1.0,False,"{'BENGT': ['DK', 'NO', 'SE', 'US']}",{},{}
+749,4ZSRVGGQ," Rocca-Serra, Philippe",Author,35.0,M,1.0,False,"{'PHILIPPE': ['BE', 'CA', 'CH', 'FR', 'GB', 'LU', 'MT', 'US']}",{},{}
+750,4ZSRVGGQ," Roos, Marco",Author,36.0,M,1.0,False,"{'MARCO': ['AT', 'BE', 'CA', 'CH', 'CR', 'DE', 'ES', 'GB', 'IT', 'LU', 'MT', 'NL', 'PT', 'SE', 'US']}",{},{}
+751,4ZSRVGGQ," Schaik, Rene van",Author,37.0,M,0.8181818181818182,True,"{'RENE': ['AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'LU', 'MT', 'NL', 'NO', 'SK', 'US'], 'VAN': ['US', 'VN']}",{},"{'RENE': ['CA', 'SE'], 'VAN': ['CA', 'GB']}"
+752,4ZSRVGGQ," Sansone, Susanna-Assunta",Author,38.0,F,1.0,True,{},"{'ASSUNTA': ['CA', 'CH', 'GB', 'IT', 'MT', 'US'], 'SUSANNA': ['AM', 'AT', 'AZ', 'CA', 'CH', 'DE', 'DK', 'ES', 'FI', 'GB', 'IE', 'IS', 'IT', 'KZ', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+753,4ZSRVGGQ," Schultes, Erik",Author,39.0,M,1.0,False,"{'ERIK': ['AM', 'AT', 'AZ', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FI', 'GB', 'HU', 'ID', 'KZ', 'LU', 'NL', 'NO', 'SE', 'SI', 'SK', 'US']}",{},{}
+754,4ZSRVGGQ," Sengstag, Thierry",Author,40.0,M,1.0,False,"{'THIERRY': ['BE', 'CA', 'CH', 'FR', 'GB', 'LU', 'US']}",{},{}
+755,4ZSRVGGQ," Slater, Ted",Author,41.0,M,1.0,False,"{'TED': ['CA', 'GB', 'IE', 'NL', 'SE', 'US']}",{},{}
+756,4ZSRVGGQ," Strawn, George",Author,42.0,M,0.8823529411764706,False,"{'GEORGE': ['AM', 'AU', 'BE', 'CH', 'EG', 'GB', 'GE', 'IE', 'IL', 'IN', 'MD', 'MT', 'NL', 'RO', 'US']}",{},"{'GEORGE': ['CA', 'FR']}"
+757,4ZSRVGGQ," Swertz, Morris A.",Author,43.0,M,1.0,True,"{'MORRIS': ['CA', 'DE', 'GB', 'SE', 'US']}",{},{}
+758,4ZSRVGGQ," Thompson, Mark",Author,44.0,M,1.0,False,"{'MARK': [nan, 'AL', 'AM', 'AT', 'AZ', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'EG', 'GB', 'HU', 'IE', 'IL', 'KS', 'KZ', 'LI', 'MT', 'NL', 'SE', 'SI', 'US']}",{},{}
+759,4ZSRVGGQ," Lei, Johan van der",Author,45.0,M,0.75,True,"{'JOHAN': ['BE', 'CH', 'DE', 'DK', 'FI', 'GB', 'NL', 'NO', 'SE', 'US'], 'VAN': ['US', 'VN']}",{'DER': ['US']},"{'JOHAN': ['CA'], 'VAN': ['CA', 'GB']}"
+760,4ZSRVGGQ," Mulligen, Erik van",Author,46.0,M,0.9259259259259259,True,"{'ERIK': ['AM', 'AT', 'AZ', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FI', 'GB', 'HU', 'ID', 'KZ', 'LU', 'NL', 'NO', 'SE', 'SI', 'SK', 'US'], 'VAN': ['US', 'VN']}",{},"{'VAN': ['CA', 'GB']}"
+761,4ZSRVGGQ," Velterop, Jan",Author,47.0,M,0.8095238095238095,False,"{'JAN': ['AD', 'AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'IL', 'NL', 'NO', 'PL', 'RO', 'SE', 'SI', 'SK']}","{'JAN': ['IE', 'US']}","{'JAN': ['CA', 'GB']}"
+762,4ZSRVGGQ," Waagmeester, Andra",Author,48.0,F,1.0,False,{},"{'ANDRA': ['CA', 'DE', 'EE', 'ES', 'GB', 'LV', 'NL', 'RO', 'US']}",{}
+763,4ZSRVGGQ," Wittenburg, Peter",Author,49.0,M,1.0,False,"{'PETER': [nan, 'AT', 'BE', 'BY', 'CA', 'CH', 'DE', 'DK', 'EG', 'GB', 'GL', 'HU', 'IE', 'IL', 'KE', 'LI', 'LU', 'MT', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{},{}
+764,4ZSRVGGQ," Wolstencroft, Katherine",Author,50.0,F,1.0,False,{},"{'KATHERINE': ['CA', 'CH', 'GB', 'IE', 'US']}",{}
+765,4ZSRVGGQ," Zhao, Jun",Author,51.0,M,0.8333333333333334,False,"{'JUN': ['CN', 'GB', 'JP', 'KR', 'US']}",{},{'JUN': ['CA']}
+766,4ZSRVGGQ," Mons, Barend",Author,52.0,M,1.0,False,"{'BAREND': ['CA', 'NL']}",{},{}
+767,X7AP8S8L,"Naruta-Moya, Anna",Author,0.0,F,1.0,False,{},"{'ANNA': ['AM', 'AT', 'AZ', 'BE', 'BG', 'BY', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FI', 'FR', 'GB', 'GE', 'GR', 'HU', 'IE', 'IL', 'IS', 'IT', 'JP', 'KZ', 'LI', 'LU', 'LV', 'MD', 'MT', 'NA', 'NL', 'NO', 'PL', 'RO', 'RU', 'SE', 'SK', 'UA', 'US']}",{}
+768,8BFSGQWZ,Airini,Author,0.0,Unexpected name format,,,,,
+769,8BFSGQWZ," Anae, Melani",Author,1.0,F,0.75,False,{},"{'MELANI': ['DE', 'GB', 'US']}",{'MELANI': ['CA']}
+770,8BFSGQWZ," Mila-Schaaf, Karlo",Author,2.0,M,1.0,False,"{'KARLO': ['BA', 'BG', 'CA', 'DK', 'GB', 'GE', 'HR', 'SI', 'US']}",{},{}
+771,UREN9CA5,"Parry, Ross",Author,0.0,M,0.75,False,"{'ROSS': ['GB', 'IE', 'US']}",{},{'ROSS': ['CA']}
+772,UREN9CA5,"Gianni, Tula",Editor,0.0,F,1.0,False,{},"{'TULA': ['CA', 'GB', 'US']}",{}
+773,UREN9CA5," Bowen, Jonathan",Editor,1.0,M,1.0,False,"{'JONATHAN': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'SE', 'US']}",{},{}
+774,ID99GC94,"Parry, Ross",Author,0.0,M,0.75,False,"{'ROSS': ['GB', 'IE', 'US']}",{},{'ROSS': ['CA']}
+775,3I9P9Y4W,UK Government,Author,0.0,Unexpected name format,,,,,
+776,WR5B94GH,"Ng, Wendy",Author,0.0,F,1.0,False,{},"{'WENDY': ['BE', 'CA', 'GB', 'IE', 'NL', 'US']}",{}
+777,WR5B94GH," Ware, Syrus Marcus",Author,1.0,M,0.9375,True,"{'MARCUS': ['AT', 'BE', 'BR', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'NL', 'NO', 'SE', 'US'], 'SYRUS': ['GB', 'US']}",{},{'SYRUS': ['CA']}
+778,WR5B94GH," Greenberg, Alyssa",Author,2.0,F,1.0,False,{},"{'ALYSSA': ['CA', 'GB', 'US']}",{}
+779,YXZVF5W4,"Burri, Mira",Author,0.0,F,1.0,False,{},"{'MIRA': ['AL', 'AM', 'AZ', 'BA', 'BE', 'BG', 'CA', 'FI', 'GB', 'HR', 'IL', 'IN', 'IT', 'KS', 'KZ', 'ME', 'MK', 'NL', 'RO', 'RS', 'SE', 'SI', 'US']}",{}
+780,7RDMG2LG,"D'Ignazio, Catherine",Author,0.0,F,1.0,False,{},"{'CATHERINE': ['AT', 'BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'LU', 'MT', 'US']}",{}
+781,7RDMG2LG," Klein, Lauren F.",Author,1.0,F,0.6666666666666666,True,{},"{'LAUREN': ['GB', 'US']}",{'LAUREN': ['CA']}
+782,R2YMAK3B,"Craig, Carys J.",Author,0.0,F,1.0,True,{},"{'CARYS': ['CA', 'GB', 'US']}",{}
+783,XTZML3WA,"Eubanks, Virginia",Author,0.0,F,1.0,False,{},"{'VIRGINIA': ['BE', 'BG', 'CA', 'CH', 'ES', 'GB', 'GR', 'IE', 'IT', 'PT', 'RO', 'US', 'ZW']}",{}
+784,S8J96UG7,"Mundy, Owen",Author,0.0,M,1.0,False,"{'OWEN': ['CA', 'GB', 'IE', 'MT', 'SE', 'US']}",{},{}
+785,39S2WXC8,"Meurer, David M.",Author,0.0,M,0.972972972972973,True,"{'DAVID': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'GE', 'HR', 'HU', 'IE', 'IL', 'IS', 'IT', 'KZ', 'LI', 'LU', 'MD', 'MT', 'NL', 'NO', 'PE', 'PT', 'PY', 'RO', 'SE', 'SI', 'UA', 'US', 'VE']}",{},{'DAVID': ['CA']}
+786,39S2WXC8," Coombe, Rosemary J.",Author,1.0,F,1.0,True,{},"{'ROSEMARY': ['CA', 'GB', 'IE', 'US']}",{}
+787,SVGYJQSD,"Dhalla, Amira",Author,0.0,F,1.0,False,{},"{'AMIRA': ['AZ', 'BA', 'CA', 'GB', 'IR', 'ME', 'US']}",{}
+788,SWLNR2BL,"Reilly, Maura",Author,0.0,F,1.0,False,{},"{'MAURA': ['AT', 'CA', 'CH', 'ES', 'GB', 'IE', 'IT', 'RO', 'US']}",{}
+789,SWLNR2BL," Lippard, Lucy R",Author,1.0,F,1.0,True,{},"{'LUCY': ['AU', 'BE', 'CA', 'CH', 'GB', 'IE', 'MT', 'NL', 'SE', 'US']}",{}
+790,AN8KGF9E,Open Access Scholarly Publishers Association,Author,0.0,Unexpected name format,,,,,
+791,YBPQTVX6,"Bond, Sarah E.",Author,0.0,F,1.0,True,{},"{'SARAH': ['AE', 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'LI', 'LU', 'LY', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+792,YBPQTVX6," Leonard, Victoria",Author,1.0,F,1.0,False,{},"{'VICTORIA': ['AM', 'AT', 'AZ', 'BE', 'BG', 'BY', 'CA', 'CH', 'DK', 'ES', 'FR', 'GB', 'IE', 'KZ', 'MD', 'MT', 'RO', 'RU', 'SE', 'UA', 'US', 'VE']}",{}
+793,URNZU4LQ,ICA,Author,0.0,Unexpected name format,,,,,
+794,DCMJ8I6K,"Guibault, Lucie",Author,0.0,F,1.0,False,{},"{'LUCIE': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'FR', 'GB', 'IE', 'LU', 'NL', 'US']}",{}
+795,DCMJ8I6K,"Guibault, Lucie",Editor,0.0,F,1.0,False,{},"{'LUCIE': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'FR', 'GB', 'IE', 'LU', 'NL', 'US']}",{}
+796,DCMJ8I6K," Hugenholtz, Bernt",Editor,1.0,M,1.0,False,"{'BERNT': ['DE', 'DK', 'NO', 'SE', 'US']}",{},{}
+797,B37AGVCX,"Gauguin, Paul",Author,0.0,M,1.0,False,"{'PAUL': ['AT', 'BE', 'CA', 'CH', 'CM', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'RO', 'SE', 'US']}",{},{}
+798,J9QG9V2N,"Deazley, Ronan",Author,0.0,M,0.8,False,"{'RONAN': ['FR', 'GB', 'IE', 'US']}",{},{'RONAN': ['CA']}
+799,J9QG9V2N," Sullivan, Robert",Author,1.0,M,0.9714285714285714,False,"{'ROBERT': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'BY', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'GE', 'HR', 'HU', 'ID', 'IE', 'IL', 'IS', 'LU', 'MK', 'MT', 'NL', 'NO', 'PL', 'RO', 'RU', 'SE', 'SI', 'SK', 'US']}",{},{'ROBERT': ['CA']}
+800,CRABBC2Q,"Incluseum, The",Author,0.0,M,0.6,False,"{'THE': ['GB', 'NL', 'US']}",{'THE': ['VN']},{'THE': ['CA']}
+801,3VIZPU6H,photoconsadmin,Author,0.0,Unexpected name format,,,,,
+802,U95MWCST,"Science, London School of Economics and Political",Author,0.0,?,0.6666666666666666,True,{},{'LONDON': ['US']},"{'LONDON': ['CA', 'GB']}"
+803,8PFZHZE8,"Harrison, Stephen",Author,0.0,M,1.0,False,"{'STEPHEN': ['BE', 'CA', 'GB', 'IE', 'IL', 'KE', 'MT', 'SZ', 'US']}",{},{}
+804,K94JEAZ2,"Bhambra, Gurminder K",Author,0.0,?M,0.5,True,{'GURMINDER': ['GB']},{},{'GURMINDER': ['CA']}
+805,VIT7ZG5L,"Chun, Wendy Hui Kyong",Author,0.0,F,0.7333333333333333,True,{},"{'HUI': [nan, 'CA', 'GB', 'US'], 'KYONG': ['US'], 'WENDY': ['BE', 'CA', 'GB', 'IE', 'NL', 'US']}","{'HUI': ['CN', 'KR', 'VN'], 'KYONG': ['KR']}"
+806,W64C82Z4,"Palfrey, John",Author,0.0,M,1.0,False,"{'JOHN': [nan, 'AM', 'AZ', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'IN', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{},{}
+807,W64C82Z4," Gasser, Urs",Author,1.0,M,1.0,False,"{'URS': ['AT', 'CH', 'US']}",{},{}
+808,3T6WFPIJ,"Sullivan, Robert",Author,0.0,M,0.9714285714285714,False,"{'ROBERT': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'BY', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'GE', 'HR', 'HU', 'ID', 'IE', 'IL', 'IS', 'LU', 'MK', 'MT', 'NL', 'NO', 'PL', 'RO', 'RU', 'SE', 'SI', 'SK', 'US']}",{},{'ROBERT': ['CA']}
+809,8EGKQLSC,"Aiken, Susan Hardy",Author,0.0,F,0.7142857142857143,True,"{'HARDY': ['CA', 'CH', 'DE', 'DK', 'GB', 'US']}","{'SUSAN': [nan, 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'IL', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+810,SDDZA8VP,"Adam, Alison",Author,0.0,F,0.8571428571428571,False,{},"{'ALISON': ['BE', 'FR', 'GB', 'IE', 'MT', 'US']}",{'ALISON': ['CA']}
+811,N4HKATHD,"Pendergrass, Keith L.",Author,0.0,M,0.8,True,"{'KEITH': ['GB', 'IE', 'MT', 'US']}",{},{'KEITH': ['CA']}
+812,N4HKATHD," Sampson, Walker",Author,1.0,M,0.6666666666666666,False,"{'WALKER': ['GB', 'US']}",{},{'WALKER': ['CA']}
+813,N4HKATHD," Walsh, Tessa",Author,2.0,F,1.0,False,{},"{'TESSA': ['AZ', 'BE', 'CA', 'DE', 'GB', 'NL', 'US']}",{}
+814,N4HKATHD," Alagna, Laura",Author,3.0,F,1.0,False,{},"{'LAURA': ['AD', 'AL', 'AM', 'AT', 'AZ', 'BE', 'BR', 'CA', 'CH', 'DE', 'DK', 'EE', 'ES', 'FI', 'FR', 'GB', 'GE', 'HU', 'IE', 'IT', 'KS', 'KZ', 'LU', 'LV', 'MT', 'NL', 'PT', 'RO', 'SE', 'SK', 'US']}",{}
+815,ESTU6F7P,"Williams, Anthony D.",Author,0.0,M,1.0,True,"{'ANTHONY': ['BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'IN', 'LU', 'MT', 'NO', 'US', 'ZM']}",{},{}
+816,ESTU6F7P," Tapscott, Don",Author,1.0,M,0.6666666666666666,False,"{'DON': ['GB', 'IE', 'NL', 'US']}",{},"{'DON': ['CA', 'KR']}"
+817,K7WL99TU,"Farivar, Cyrus",Author,0.0,M,0.6666666666666666,False,"{'CYRUS': ['GB', 'US']}",{},{'CYRUS': ['CA']}
+818,6YPHA5CS,"Tsosie, Rebecca",Author,0.0,F,1.0,False,{},"{'REBECCA': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'IN', 'IT', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+819,UADED9D3,"Carpenter, Kristen A.",Author,0.0,F,0.5,True,"{'KRISTEN': ['DK', 'NO']}","{'KRISTEN': ['GB', 'IE', 'US']}",{'KRISTEN': ['CA']}
+820,UADED9D3," Katyal, Sonia K.",Author,1.0,F,1.0,True,{},"{'SONIA': ['AM', 'BE', 'BG', 'CA', 'CH', 'DK', 'ES', 'FR', 'GB', 'GR', 'IE', 'IL', 'IN', 'IR', 'IT', 'LU', 'MT', 'PT', 'RO', 'SE', 'US']}",{}
+821,UADED9D3," Riley, Angela R.",Author,2.0,F,1.0,True,{},"{'ANGELA': ['AM', 'AT', 'BE', 'CA', 'CH', 'DE', 'EE', 'ES', 'FR', 'GB', 'GR', 'HU', 'IE', 'IT', 'KZ', 'MD', 'MK', 'MT', 'NL', 'PT', 'RO', 'RU', 'SI', 'SK', 'US']}",{}
+822,ETBYXLED,"Aoki, Keith",Author,0.0,M,0.8,False,"{'KEITH': ['GB', 'IE', 'MT', 'US']}",{},{'KEITH': ['CA']}
+823,ITTLYRV2,"Harpur, Paul",Author,0.0,M,1.0,False,"{'PAUL': ['AT', 'BE', 'CA', 'CH', 'CM', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'RO', 'SE', 'US']}",{},{}
+824,Q7PFE8S6,"Christen, Kimberly A.",Author,0.0,F,1.0,True,{},"{'KIMBERLY': ['BE', 'CA', 'GB', 'SE', 'US']}",{}
+825,AW7KXZGB,"Fofana, Amadou",Author,0.0,M,1.0,False,"{'AMADOU': ['CA', 'GB', 'ML', 'US']}",{},{}
+826,NY2YLENY,"Hartocollis, Anemona",Author,0.0,F,1.0,False,{},{'ANEMONA': ['RO']},{}
+827,FJQ4WRUG,"Gordon, Robert",Author,0.0,M,0.9714285714285714,False,"{'ROBERT': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'BY', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'GE', 'HR', 'HU', 'ID', 'IE', 'IL', 'IS', 'LU', 'MK', 'MT', 'NL', 'NO', 'PL', 'RO', 'RU', 'SE', 'SI', 'SK', 'US']}",{},{'ROBERT': ['CA']}
+828,T88HR23T,Elevator Repair Service,Author,0.0,Unexpected name format,,,,,
+829,T88HR23T," Collins, John",Author,1.0,M,1.0,False,"{'JOHN': [nan, 'AM', 'AZ', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'IN', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{},{}
+830,T88HR23T," Rubin, Ben",Author,2.0,M,0.9166666666666666,False,"{'BEN': [nan, 'BE', 'CA', 'CH', 'DE', 'GB', 'IE', 'LU', 'MT', 'NL', 'US']}",{},{'BEN': ['CN']}
+831,T88HR23T," Thorp, Jer",Author,3.0,?,1.0,False,{},{},{'JER': ['US']}
+832,92EUU9G8,"Prescott, Andrew",Author,0.0,M,0.8333333333333334,False,"{'ANDREW': ['GB', 'IE', 'MT', 'UA', 'US']}",{},{'ANDREW': ['CA']}
+833,EY3EPXGY,"Borghi, Maurizio",Author,0.0,M,1.0,False,"{'MAURIZIO': ['CA', 'CH', 'GB', 'IT', 'MT', 'US']}",{},{}
+834,EY3EPXGY," Karapapa, Stavroula",Author,1.0,F,1.0,False,{},"{'STAVROULA': ['CA', 'GR', 'US']}",{}
+835,8CUXKJ3G,"Gana, Ruth L.",Author,0.0,F,1.0,True,{},"{'RUTH': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'DO', 'EE', 'ES', 'GB', 'IE', 'IL', 'IS', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+836,7TGCY8YZ,"Fishert, William",Author,0.0,M,1.0,False,"{'WILLIAM': ['AU', 'BE', 'CA', 'CH', 'DK', 'FI', 'FR', 'GB', 'IE', 'IT', 'LU', 'MT', 'NL', 'NO', 'NZ', 'SE', 'US']}",{},{}
+837,ZQL6E7DC,"Okediji, Ruth L.",Author,0.0,F,1.0,True,{},"{'RUTH': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'DO', 'EE', 'ES', 'GB', 'IE', 'IL', 'IS', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+838,9FB7LCIE,"Kelly, Kristin",Author,0.0,F,0.9166666666666666,False,{},"{'KRISTIN': ['AT', 'BE', 'CH', 'DE', 'DK', 'EE', 'GB', 'IS', 'NO', 'SE', 'US']}",{'KRISTIN': ['CA']}
+839,SBKHCVSW,"Fleshman, Karen",Author,0.0,F,0.8947368421052632,False,"{'KAREN': ['AM', 'AZ']}","{'KAREN': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'FR', 'GB', 'IE', 'IL', 'IS', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+840,DH93THGE,"Seyfeddinipur, Mandana",Author,0.0,F,1.0,False,{},"{'MANDANA': ['GB', 'US']}",{}
+841,DH93THGE," Ameka, Felix",Author,1.0,M,1.0,False,"{'FELIX': ['AM', 'AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'ES', 'FR', 'GB', 'IL', 'LU', 'MT', 'NL', 'PT', 'RO', 'SK', 'UA', 'US']}",{},{}
+842,DH93THGE," Bolton, Lissant",Author,2.0,Name(s) not found,,,,,
+843,DH93THGE," Blumtritt, Jonathan",Author,3.0,M,1.0,False,"{'JONATHAN': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'SE', 'US']}",{},{}
+844,DH93THGE," Carpenter, Brian",Author,4.0,M,0.8888888888888888,False,"{'BRIAN': ['BE', 'DK', 'GB', 'IE', 'MT', 'NL', 'NO', 'US']}",{},{'BRIAN': ['CA']}
+845,DH93THGE," Cruz, Hilaria",Author,5.0,F,1.0,False,{},"{'HILARIA': ['AT', 'ES', 'PT', 'RO', 'SK', 'US']}",{}
+846,DH93THGE," Drude, Sebastian",Author,6.0,M,1.0,False,"{'SEBASTIAN': ['AT', 'BE', 'CA', 'CH', 'CO', 'DE', 'DK', 'EE', 'ES', 'GB', 'IE', 'MT', 'MX', 'PE', 'PL', 'RO', 'SE', 'US', 'VE']}",{},{}
+847,DH93THGE," Epps, Patience L.",Author,7.0,F,1.0,True,{},"{'PATIENCE': ['CA', 'GB', 'US']}",{}
+848,DH93THGE," Ferreira, Vera",Author,8.0,F,1.0,False,{},"{'VERA': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'BG', 'BY', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'GR', 'HR', 'HU', 'IS', 'IT', 'KS', 'KZ', 'LT', 'LU', 'LV', 'MD', 'ME', 'MK', 'NL', 'NO', 'PT', 'RO', 'RS', 'RU', 'SE', 'SI', 'UA', 'US']}",{}
+849,DH93THGE," Galucio, Ana Vilacy",Author,9.0,F,1.0,True,{},"{'ANA': ['AL', 'AO', 'BA', 'BG', 'BR', 'CA', 'CH', 'ES', 'GB', 'GE', 'HR', 'IL', 'IN', 'KS', 'MD', 'ME', 'MK', 'NZ', 'PT', 'RO', 'RS', 'SI', 'SV', 'US']}",{}
+850,DH93THGE," Hellwig, Brigit",Author,10.0,F,1.0,False,{},"{'BRIGIT': ['CA', 'GB', 'NL', 'US']}",{}
+851,DH93THGE," Hinte, Oliver",Author,11.0,M,1.0,False,"{'OLIVER': [nan, 'AT', 'AU', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'ES', 'FI', 'GB', 'IE', 'ME', 'MK', 'NZ', 'RS', 'SE', 'US']}",{},{}
+852,DH93THGE," Holton, Gary",Author,12.0,M,1.0,False,"{'GARY': ['BE', 'CA', 'GB', 'IE', 'US']}",{},{}
+853,DH93THGE," Jung, Dagmar",Author,13.0,F,0.9285714285714286,False,{},"{'DAGMAR': ['AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'EE', 'IS', 'NL', 'NO', 'SE', 'SK', 'US']}",{'DAGMAR': ['CA']}
+854,DH93THGE," Buddeberg, Irmgarda Kasinskaite",Author,14.0,F,1.0,True,{},{'IRMGARDA': ['DE']},{}
+855,DH93THGE," Krifka, Manfred",Author,15.0,M,1.0,False,"{'MANFRED': ['AT', 'BE', 'CA', 'CH', 'DE', 'GB', 'LU', 'MT', 'NL', 'SE', 'US']}",{},{}
+856,DH93THGE," Kung, Susan",Author,16.0,F,1.0,False,{},"{'SUSAN': [nan, 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'IL', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+857,DH93THGE," Monroig, Miyuki",Author,17.0,F,1.0,False,{},"{'MIYUKI': ['CA', 'GB', 'JP', 'US']}",{}
+858,DH93THGE," Neba, Ayu'nwi Ngwabe",Author,18.0,Name(s) not found,,,,,
+859,DH93THGE," Nordhoff, Sebastian",Author,19.0,M,1.0,False,"{'SEBASTIAN': ['AT', 'BE', 'CA', 'CH', 'CO', 'DE', 'DK', 'EE', 'ES', 'GB', 'IE', 'MT', 'MX', 'PE', 'PL', 'RO', 'SE', 'US', 'VE']}",{},{}
+860,DH93THGE," Pakendorf, Brigitte",Author,20.0,F,1.0,False,{},"{'BRIGITTE': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'LU', 'MT', 'NL', 'NO', 'US']}",{}
+861,DH93THGE," von Prince, Kilu",Author,21.0,Name(s) not found,,,,,
+862,DH93THGE," Rau, Felix",Author,22.0,M,1.0,False,"{'FELIX': ['AM', 'AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'ES', 'FR', 'GB', 'IL', 'LU', 'MT', 'NL', 'PT', 'RO', 'SK', 'UA', 'US']}",{},{}
+863,DH93THGE," Rice, Keren",Author,23.0,F,1.0,False,{},"{'KEREN': ['CA', 'GB', 'IL', 'US']}",{}
+864,DH93THGE," Riessler, Michael",Author,24.0,M,0.9523809523809523,False,"{'MICHAEL': [nan, 'AM', 'AT', 'AU', 'BE', 'CH', 'CZ', 'DE', 'DK', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'SE', 'SK', 'US']}",{},{'MICHAEL': ['CA']}
+865,DH93THGE," Szoelloesi Brenig, Vera",Author,25.0,F,1.0,False,{},"{'VERA': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'BG', 'BY', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'GR', 'HR', 'HU', 'IS', 'IT', 'KS', 'KZ', 'LT', 'LU', 'LV', 'MD', 'ME', 'MK', 'NL', 'NO', 'PT', 'RO', 'RS', 'RU', 'SE', 'SI', 'UA', 'US']}",{}
+866,DH93THGE," Thieberger, Nick",Author,26.0,M,1.0,False,"{'NICK': ['BE', 'CA', 'CH', 'DE', 'GB', 'IE', 'NL', 'SE', 'US']}",{},{}
+867,DH93THGE," Trilsbeek, Paul",Author,27.0,M,1.0,False,"{'PAUL': ['AT', 'BE', 'CA', 'CH', 'CM', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'RO', 'SE', 'US']}",{},{}
+868,DH93THGE," van der Voort, Hein",Author,28.0,M,1.0,False,"{'HEIN': ['BE', 'CA', 'DE', 'NL']}",{},{}
+869,DH93THGE," Woodbury, Tony",Author,29.0,M,0.8571428571428571,False,"{'TONY': ['BE', 'CH', 'DE', 'DK', 'FI', 'FR', 'GB', 'IE', 'MT', 'NL', 'SE', 'US']}",{},"{'TONY': ['CA', 'NO']}"
+870,4SVBE95U,"Jones-Rizzi, Joanne",Author,0.0,F,1.0,False,{},"{'JOANNE': ['BE', 'CA', 'FR', 'GB', 'IE', 'MT', 'NL', 'US']}",{}
+871,4SVBE95U," Mann, Stacey",Author,1.0,F,0.75,False,{},"{'STACEY': ['GB', 'IE', 'US']}",{'STACEY': ['CA']}
+872,ATAC37YB,"Hamilton, Amber M.",Author,0.0,F,0.8,True,{},"{'AMBER': ['BE', 'GB', 'NL', 'US']}",{'AMBER': ['CA']}
+873,IFE288VE,"Voss, Jon",Author,0.0,M,1.0,False,"{'JON': [nan, 'AM', 'CA', 'CH', 'DK', 'ES', 'GB', 'IS', 'NL', 'NO', 'SE', 'US']}",{},{}
+874,N2NG5E4C,"Williams, Matariki",Author,0.0,Name(s) not found,,,,,
+875,N2NG5E4C," Williams, Matariki",Author,1.0,Name(s) not found,,,,,
+876,D9N7EDCB,"Greenwald, Diana",Author,0.0,F,1.0,False,{},"{'DIANA': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'BG', 'BY', 'CA', 'CH', 'CZ', 'DE', 'EE', 'ES', 'FR', 'GB', 'HR', 'HU', 'IE', 'IL', 'IS', 'IT', 'KS', 'KZ', 'LT', 'LV', 'MD', 'ME', 'MK', 'NL', 'PL', 'PT', 'RO', 'RS', 'RU', 'SK', 'SV', 'UA', 'US']}",{}
+877,TMPIBCBV,"Gabriels, Nele",Author,0.0,F,1.0,False,{},"{'NELE': ['CA', 'DE', 'EE', 'LT']}",{}
+878,DU85LKVR,"Melissa Levine, Richard C. Adler",Author,0.0,M,1.0,True,"{'ADLER': ['CA', 'US'], 'RICHARD': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'FR', 'GB', 'HU', 'IE', 'LU', 'MT', 'NL', 'NO', 'PH', 'SE', 'SK', 'TT', 'US']}",{},{}
+879,LCZSZ5FI,"Watt, J. Charles",Author,0.0,M,0.9230769230769231,True,"{'CHARLES': ['BE', 'CH', 'DK', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'SE', 'US', 'ZW']}",{},{'CHARLES': ['CA']}
+880,XAPGINMW,"School of Biological Sciences, University of Canterbury, Christchurch, New Zealand",Author,0.0,Unexpected name format,,,,,
+881,XAPGINMW," Collier-Robinson, Levi",Author,1.0,M,0.8571428571428571,False,"{'LEVI': ['AU', 'GB', 'IL', 'NL', 'SE', 'US']}",{},{'LEVI': ['CA']}
+882,XAPGINMW," Rayne, Aisling",Author,2.0,F,1.0,False,{},"{'AISLING': ['CA', 'GB', 'IE', 'US']}",{}
+883,XAPGINMW," Rupene, Makarini",Author,3.0,Name(s) not found,,,,,
+884,XAPGINMW," Thoms, Channell",Author,4.0,F,1.0,False,{},"{'CHANNELL': ['CA', 'US']}",{}
+885,XAPGINMW," Steeves, Tammy",Author,5.0,F,1.0,False,{},"{'TAMMY': ['CA', 'GB', 'IL', 'US']}",{}
+886,DLYA9JBC,"Seyfeddinipur, Mandana",Author,0.0,F,1.0,False,{},"{'MANDANA': ['GB', 'US']}",{}
+887,DLYA9JBC," Ameka, Felix",Author,1.0,M,1.0,False,"{'FELIX': ['AM', 'AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'ES', 'FR', 'GB', 'IL', 'LU', 'MT', 'NL', 'PT', 'RO', 'SK', 'UA', 'US']}",{},{}
+888,DLYA9JBC," Bolton, Lissant",Author,2.0,Name(s) not found,,,,,
+889,DLYA9JBC," Blumtritt, Jonathan",Author,3.0,M,1.0,False,"{'JONATHAN': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'SE', 'US']}",{},{}
+890,DLYA9JBC," Carpenter, Brian",Author,4.0,M,0.8888888888888888,False,"{'BRIAN': ['BE', 'DK', 'GB', 'IE', 'MT', 'NL', 'NO', 'US']}",{},{'BRIAN': ['CA']}
+891,DLYA9JBC," Cruz, Hilaria",Author,5.0,F,1.0,False,{},"{'HILARIA': ['AT', 'ES', 'PT', 'RO', 'SK', 'US']}",{}
+892,DLYA9JBC," Drude, Sebastian",Author,6.0,M,1.0,False,"{'SEBASTIAN': ['AT', 'BE', 'CA', 'CH', 'CO', 'DE', 'DK', 'EE', 'ES', 'GB', 'IE', 'MT', 'MX', 'PE', 'PL', 'RO', 'SE', 'US', 'VE']}",{},{}
+893,DLYA9JBC," Epps, Patience L.",Author,7.0,F,1.0,True,{},"{'PATIENCE': ['CA', 'GB', 'US']}",{}
+894,DLYA9JBC," Ferreira, Vera",Author,8.0,F,1.0,False,{},"{'VERA': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'BG', 'BY', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'GR', 'HR', 'HU', 'IS', 'IT', 'KS', 'KZ', 'LT', 'LU', 'LV', 'MD', 'ME', 'MK', 'NL', 'NO', 'PT', 'RO', 'RS', 'RU', 'SE', 'SI', 'UA', 'US']}",{}
+895,DLYA9JBC," Galucio, Ana Vilacy",Author,9.0,F,1.0,True,{},"{'ANA': ['AL', 'AO', 'BA', 'BG', 'BR', 'CA', 'CH', 'ES', 'GB', 'GE', 'HR', 'IL', 'IN', 'KS', 'MD', 'ME', 'MK', 'NZ', 'PT', 'RO', 'RS', 'SI', 'SV', 'US']}",{}
+896,DLYA9JBC," Hellwig, Brigit",Author,10.0,F,1.0,False,{},"{'BRIGIT': ['CA', 'GB', 'NL', 'US']}",{}
+897,DLYA9JBC," Hinte, Oliver",Author,11.0,M,1.0,False,"{'OLIVER': [nan, 'AT', 'AU', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'ES', 'FI', 'GB', 'IE', 'ME', 'MK', 'NZ', 'RS', 'SE', 'US']}",{},{}
+898,DLYA9JBC," Holton, Gary",Author,12.0,M,1.0,False,"{'GARY': ['BE', 'CA', 'GB', 'IE', 'US']}",{},{}
+899,DLYA9JBC," Jung, Dagmar",Author,13.0,F,0.9285714285714286,False,{},"{'DAGMAR': ['AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'EE', 'IS', 'NL', 'NO', 'SE', 'SK', 'US']}",{'DAGMAR': ['CA']}
+900,DLYA9JBC," Buddeberg, Irmgarda Kasinskaite",Author,14.0,F,1.0,True,{},{'IRMGARDA': ['DE']},{}
+901,DLYA9JBC," Krifka, Manfred",Author,15.0,M,1.0,False,"{'MANFRED': ['AT', 'BE', 'CA', 'CH', 'DE', 'GB', 'LU', 'MT', 'NL', 'SE', 'US']}",{},{}
+902,DLYA9JBC," Kung, Susan",Author,16.0,F,1.0,False,{},"{'SUSAN': [nan, 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'IL', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+903,DLYA9JBC," Monroig, Miyuki",Author,17.0,F,1.0,False,{},"{'MIYUKI': ['CA', 'GB', 'JP', 'US']}",{}
+904,DLYA9JBC," Neba, Ayu'nwi Ngwabe",Author,18.0,Name(s) not found,,,,,
+905,DLYA9JBC," Nordhoff, Sebastian",Author,19.0,M,1.0,False,"{'SEBASTIAN': ['AT', 'BE', 'CA', 'CH', 'CO', 'DE', 'DK', 'EE', 'ES', 'GB', 'IE', 'MT', 'MX', 'PE', 'PL', 'RO', 'SE', 'US', 'VE']}",{},{}
+906,DLYA9JBC," Pakendorf, Brigitte",Author,20.0,F,1.0,False,{},"{'BRIGITTE': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'LU', 'MT', 'NL', 'NO', 'US']}",{}
+907,DLYA9JBC," von Prince, Kilu",Author,21.0,Name(s) not found,,,,,
+908,DLYA9JBC," Rau, Felix",Author,22.0,M,1.0,False,"{'FELIX': ['AM', 'AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'ES', 'FR', 'GB', 'IL', 'LU', 'MT', 'NL', 'PT', 'RO', 'SK', 'UA', 'US']}",{},{}
+909,DLYA9JBC," Rice, Keren",Author,23.0,F,1.0,False,{},"{'KEREN': ['CA', 'GB', 'IL', 'US']}",{}
+910,DLYA9JBC," Riessler, Michael",Author,24.0,M,0.9523809523809523,False,"{'MICHAEL': [nan, 'AM', 'AT', 'AU', 'BE', 'CH', 'CZ', 'DE', 'DK', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'SE', 'SK', 'US']}",{},{'MICHAEL': ['CA']}
+911,DLYA9JBC," Szoelloesi Brenig, Vera",Author,25.0,F,1.0,False,{},"{'VERA': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'BG', 'BY', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'GR', 'HR', 'HU', 'IS', 'IT', 'KS', 'KZ', 'LT', 'LU', 'LV', 'MD', 'ME', 'MK', 'NL', 'NO', 'PT', 'RO', 'RS', 'RU', 'SE', 'SI', 'UA', 'US']}",{}
+912,DLYA9JBC," Thieberger, Nick",Author,26.0,M,1.0,False,"{'NICK': ['BE', 'CA', 'CH', 'DE', 'GB', 'IE', 'NL', 'SE', 'US']}",{},{}
+913,DLYA9JBC," Trilsbeek, Paul",Author,27.0,M,1.0,False,"{'PAUL': ['AT', 'BE', 'CA', 'CH', 'CM', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'RO', 'SE', 'US']}",{},{}
+914,DLYA9JBC," van der Voort, Hein",Author,28.0,M,1.0,False,"{'HEIN': ['BE', 'CA', 'DE', 'NL']}",{},{}
+915,DLYA9JBC," Woodbury, Tony",Author,29.0,M,0.8571428571428571,False,"{'TONY': ['BE', 'CH', 'DE', 'DK', 'FI', 'FR', 'GB', 'IE', 'MT', 'NL', 'SE', 'US']}",{},"{'TONY': ['CA', 'NO']}"
+916,72GEKC8M,https://plus.google.com/+UNESCO,Author,0.0,Unexpected name format,,,,,
+917,2XY4PUFQ,"Addeo, Sam",Author,0.0,M,0.7,False,"{'SAM': ['BE', 'GB', 'IE', 'MT', 'NL', 'SE', 'US']}",{},"{'SAM': ['CA', 'KR', 'VN']}"
+918,EMWKL4JN,"Addeo, Sam",Author,0.0,M,0.7,False,"{'SAM': ['BE', 'GB', 'IE', 'MT', 'NL', 'SE', 'US']}",{},"{'SAM': ['CA', 'KR', 'VN']}"
+919,GI24XZ5V,"Davis, Josh",Author,0.0,M,1.0,False,"{'JOSH': ['CA', 'GB', 'US']}",{},{}
+920,NHHT78GU,"Das, S.",Author,0.0,Name(s) not found,,,,,
+921,NHHT78GU," Lowe, M.",Author,1.0,Name(s) not found,,,,,
+922,FQ2JDCC3,"Budet, Osvaldo",Author,0.0,M,1.0,False,"{'OSVALDO': ['CA', 'CH', 'ES', 'IT', 'MT', 'PT', 'US']}",{},{}
+923,9DKQMMV5,"Kelly, Elizabeth Joan",Author,0.0,F,0.7727272727272727,True,"{'JOAN': ['ES', 'FR']}","{'ELIZABETH': ['AM', 'BE', 'GB', 'IE', 'IL', 'MT', 'NL', 'PY', 'US'], 'JOAN': ['CA', 'DK', 'GB', 'IE', 'MT', 'NO', 'SE', 'US']}","{'ELIZABETH': ['CA'], 'JOAN': ['BE', 'NL']}"
+924,DEGFXMZX,"Tessy, Djossè Roméo",Author,0.0,M,1.0,True,"{'ROMEO': ['AL', 'AM', 'AT', 'BA', 'BE', 'CA', 'CH', 'FR', 'GB', 'HR', 'IT', 'MD', 'MT', 'RO', 'SE', 'SI', 'US']}",{},{}
+925,PFVSNEBI,ARIPO,Author,0.0,Unexpected name format,,,,,
+926,DGH6EX65,"El-Gendi, Lubna",Author,0.0,F,1.0,False,{},"{'LUBNA': ['CA', 'GB', 'IR', 'US']}",{}
+927,PQEAKHYA,"Garba, Tapji",Author,0.0,Name(s) not found,,,,,
+928,PQEAKHYA," Sorentino, Sara-Maria",Author,1.0,F,0.9882352941176471,True,{},"{'MARIA': ['AD', 'AL', 'AM', 'AR', 'AT', 'AZ', 'BE', 'BG', 'BY', 'CA', 'CH', 'CO', 'CU', 'CZ', 'DE', 'DK', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GE', 'GR', 'HU', 'IE', 'IL', 'IS', 'IT', 'KZ', 'LU', 'MD', 'MT', 'MX', 'NL', 'NO', 'PE', 'PL', 'PT', 'PY', 'RO', 'RU', 'SE', 'SK', 'UA', 'US'], 'SARA': [nan, 'AE', 'AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'CH', 'CO', 'DE', 'DK', 'DZ', 'ES', 'FI', 'FR', 'GB', 'HR', 'HU', 'IE', 'IL', 'IR', 'IS', 'IT', 'JP', 'LI', 'ME', 'MX', 'MY', 'NL', 'NO', 'PT', 'RO', 'RS', 'SE', 'SI', 'TR', 'US']}",{'SARA': ['CA']}
+929,5NWM62BB,Caribbean Reparations Commission,Author,0.0,Unexpected name format,,,,,
+930,3RNB2WX7,"Kimeria, Ciku",Author,0.0,Name(s) not found,,,,,
+931,7CYI2VD9,"Pavis, Mathilde",Author,0.0,F,1.0,False,{},"{'MATHILDE': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'LU', 'NL', 'NO', 'SE', 'US']}",{}
+932,7CYI2VD9," Wallace, Andrea",Author,1.0,F,0.9090909090909091,False,{'ANDREA': ['IT']},"{'ANDREA': ['AL', 'AT', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HU', 'IE', 'IS', 'LU', 'ME', 'NL', 'SK', 'US']}",{'ANDREA': ['CA']}
+933,VLDAG2TV,"Riley, Angela R.",Author,0.0,F,1.0,True,{},"{'ANGELA': ['AM', 'AT', 'BE', 'CA', 'CH', 'DE', 'EE', 'ES', 'FR', 'GB', 'GR', 'HU', 'IE', 'IT', 'KZ', 'MD', 'MK', 'MT', 'NL', 'PT', 'RO', 'RU', 'SI', 'SK', 'US']}",{}
+934,VLDAG2TV," Carpenter, Kristen",Author,1.0,F,0.5,False,"{'KRISTEN': ['DK', 'NO']}","{'KRISTEN': ['GB', 'IE', 'US']}",{'KRISTEN': ['CA']}
+935,NUP6GW2R,"Bond, Sarah",Author,0.0,F,1.0,False,{},"{'SARAH': ['AE', 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'LI', 'LU', 'LY', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+936,WGSEUCLL,SAAM,Author,0.0,Unexpected name format,,,,,
+937,AM2GHSQR,"Murphy, Oonagh",Author,0.0,F,1.0,False,{},"{'OONAGH': ['CA', 'GB', 'IE', 'US']}",{}
+938,AM2GHSQR," Villaespesa, Elena",Author,1.0,F,1.0,False,{},"{'ELENA': [nan, 'AL', 'AM', 'AZ', 'BE', 'BG', 'BY', 'CA', 'CH', 'CZ', 'EE', 'ES', 'GB', 'GE', 'GR', 'IL', 'IT', 'KZ', 'LT', 'LV', 'MD', 'MK', 'MT', 'RO', 'RU', 'SK', 'UA', 'US', 'ZA']}",{}
+939,2XDKQHQD,"Harrower, Natalie",Author,0.0,F,0.9285714285714286,False,{},"{'NATALIE': ['AM', 'AT', 'AZ', 'BE', 'CH', 'CZ', 'DE', 'GB', 'IE', 'IL', 'NL', 'SE', 'US']}",{'NATALIE': ['CA']}
+940,2XDKQHQD," Maryl, Maciej",Author,1.0,M,1.0,False,"{'MACIEJ': ['CA', 'GB', 'PL', 'US']}",{},{}
+941,2XDKQHQD," Biro, Timea",Author,2.0,F,1.0,False,{},"{'TIMEA': ['CA', 'GB', 'HU', 'US']}",{}
+942,2XDKQHQD," Immenhauser, Beat",Author,3.0,M,1.0,False,"{'BEAT': ['AT', 'CH', 'DE', 'US']}",{},{}
+943,FJMIHBKC,"Wallace, Andrea",Author,0.0,F,0.9090909090909091,False,{'ANDREA': ['IT']},"{'ANDREA': ['AL', 'AT', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HU', 'IE', 'IS', 'LU', 'ME', 'NL', 'SK', 'US']}",{'ANDREA': ['CA']}
+944,FJMIHBKC,"McCutcheon, Jani",Editor,0.0,M,0.8,False,"{'JANI': ['AL', 'BG', 'FI', 'GB', 'HR', 'KS', 'MK', 'SI']}",{'JANI': ['US']},{'JANI': ['CA']}
+945,FJMIHBKC," Ramalho, Ana",Editor,1.0,F,1.0,False,{},"{'ANA': ['AL', 'AO', 'BA', 'BG', 'BR', 'CA', 'CH', 'ES', 'GB', 'GE', 'HR', 'IL', 'IN', 'KS', 'MD', 'ME', 'MK', 'NZ', 'PT', 'RO', 'RS', 'SI', 'SV', 'US']}",{}
+946,E7TUJMLV,"Cairns, Puawai",Author,0.0,Name(s) not found,,,,,
+947,6XVC92SL,"Robinson, Helena",Author,0.0,F,1.0,False,{},"{'HELENA': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FI', 'FR', 'GB', 'HR', 'IE', 'IL', 'IS', 'LV', 'MT', 'NL', 'NO', 'PL', 'PT', 'SE', 'SI', 'SK', 'US']}",{}
+948,K39FDRLH,"Aufderheide, Patricia",Author,0.0,F,1.0,False,{},"{'PATRICIA': ['AT', 'AU', 'BE', 'CA', 'CH', 'DE', 'ES', 'FR', 'GB', 'HU', 'IE', 'LU', 'MT', 'NL', 'PT', 'PY', 'SE', 'SI', 'SK', 'US']}",{}
+949,K39FDRLH," Jaszi, Peter",Author,1.0,M,1.0,False,"{'PETER': [nan, 'AT', 'BE', 'BY', 'CA', 'CH', 'DE', 'DK', 'EG', 'GB', 'GL', 'HU', 'IE', 'IL', 'KE', 'LI', 'LU', 'MT', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{},{}
+950,C9SS7WRP,"Aufderheide, Patricia",Author,0.0,F,1.0,False,{},"{'PATRICIA': ['AT', 'AU', 'BE', 'CA', 'CH', 'DE', 'ES', 'FR', 'GB', 'HU', 'IE', 'LU', 'MT', 'NL', 'PT', 'PY', 'SE', 'SI', 'SK', 'US']}",{}
+951,C9SS7WRP," Jaszi, Peter",Author,1.0,M,1.0,False,"{'PETER': [nan, 'AT', 'BE', 'BY', 'CA', 'CH', 'DE', 'DK', 'EG', 'GB', 'GL', 'HU', 'IE', 'IL', 'KE', 'LI', 'LU', 'MT', 'NL', 'NO', 'RU', 'SE', 'SI', 'SK', 'UA', 'US']}",{},{}
+952,C9SS7WRP," Bello, Brian",Author,2.0,M,0.8888888888888888,False,"{'BRIAN': ['BE', 'DK', 'GB', 'IE', 'MT', 'NL', 'NO', 'US']}",{},{'BRIAN': ['CA']}
+953,C9SS7WRP," Milosevic, Tijana",Author,3.0,F,1.0,False,{},"{'TIJANA': ['BA', 'CA', 'GB', 'RS', 'US']}",{}
+954,54ZMWF9C,"Reetz, Daniel",Author,0.0,M,0.9736842105263158,False,"{'DANIEL': ['AD', 'AL', 'AM', 'AT', 'AU', 'AW', 'AZ', 'BE', 'BG', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HT', 'HU', 'IE', 'IL', 'IS', 'JM', 'LU', 'MD', 'MK', 'MT', 'NL', 'NO', 'PE', 'PL', 'PT', 'PY', 'RO', 'SE', 'SK', 'US']}",{},{'DANIEL': ['CA']}
+955,P7NIGKU2,"Craig, Carys J",Author,0.0,F,1.0,True,{},"{'CARYS': ['CA', 'GB', 'US']}",{}
+956,SFTAEMAB,"Rose, Mark",Author,0.0,M,1.0,False,"{'MARK': [nan, 'AL', 'AM', 'AT', 'AZ', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'EG', 'GB', 'HU', 'IE', 'IL', 'KS', 'KZ', 'LI', 'MT', 'NL', 'SE', 'SI', 'US']}",{},{}
+957,Z4GBIEYU,"Greene, K. J.",Author,0.0,Name(s) not found,,,,,
+958,JTZVPMHX,"Craig, Carys",Author,0.0,F,1.0,False,{},"{'CARYS': ['CA', 'GB', 'US']}",{}
+959,GHPCELLB,"Bartow, Ann",Author,0.0,F,1.0,False,{},"{'ANN': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'GB', 'GE', 'IE', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+960,UL9EARMB,"Correa, Carlos Maria",Author,0.0,F,0.7931034482758621,True,"{'CARLOS': [nan, 'BE', 'CA', 'CH', 'ES', 'FR', 'GB', 'GW', 'PE', 'PT', 'PY', 'US']}","{'MARIA': ['AD', 'AL', 'AM', 'AR', 'AT', 'AZ', 'BE', 'BG', 'BY', 'CA', 'CH', 'CO', 'CU', 'CZ', 'DE', 'DK', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GE', 'GR', 'HU', 'IE', 'IL', 'IS', 'IT', 'KZ', 'LU', 'MD', 'MT', 'MX', 'NL', 'NO', 'PE', 'PL', 'PT', 'PY', 'RO', 'RU', 'SE', 'SK', 'UA', 'US']}",{}
+961,PTYH7VR6,"Robertson, Tara",Author,0.0,F,0.8888888888888888,False,{},"{'TARA': ['BE', 'GB', 'IE', 'IL', 'IN', 'NL', 'SE', 'US']}",{'TARA': ['CA']}
+962,KTDM85LV,"Erickson, Kristofer",Author,0.0,M,1.0,False,"{'KRISTOFER': ['CA', 'GB', 'IE', 'IS', 'SE', 'US']}",{},{}
+963,KTDM85LV," Perez, Felix Rodriguez",Author,1.0,M,0.9523809523809523,True,"{'FELIX': ['AM', 'AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'ES', 'FR', 'GB', 'IL', 'LU', 'MT', 'NL', 'PT', 'RO', 'SK', 'UA', 'US'], 'RODRIGUEZ': ['US']}",{'RODRIGUEZ': ['CA']},{}
+964,KTDM85LV," Perez, Jesus Rodriguez",Author,2.0,M,0.875,True,"{'JESUS': ['CA', 'ES', 'GB', 'PE', 'PT', 'US'], 'RODRIGUEZ': ['US']}",{'RODRIGUEZ': ['CA']},{}
+965,RD7LW88S,"Bishara, Hakim",Author,0.0,M,1.0,False,"{'HAKIM': ['AL', 'CA', 'GB', 'IR', 'US']}",{},{}
+966,EPWH4YCR,"Weinberg, Michael",Author,0.0,M,0.9523809523809523,False,"{'MICHAEL': [nan, 'AM', 'AT', 'AU', 'BE', 'CH', 'CZ', 'DE', 'DK', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'SE', 'SK', 'US']}",{},{'MICHAEL': ['CA']}
+967,EPWH4YCR,"Anderson, Jane",Guest,0.0,F,0.9375,False,{'JANE': ['MK']},"{'JANE': ['AT', 'BE', 'CA', 'CH', 'DK', 'EE', 'GB', 'IE', 'LT', 'MT', 'NL', 'NO', 'PH', 'SE', 'US']}",{}
+968,8L5PW43F,"Vézina, Brigitte",Author,0.0,F,1.0,False,{},"{'BRIGITTE': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'LU', 'MT', 'NL', 'NO', 'US']}",{}
+969,PIE6FUP5,"Park, Jane",Author,0.0,F,0.9375,False,{'JANE': ['MK']},"{'JANE': ['AT', 'BE', 'CA', 'CH', 'DK', 'EE', 'GB', 'IE', 'LT', 'MT', 'NL', 'NO', 'PH', 'SE', 'US']}",{}
+970,4IZTU38D,"Wilson-Goldie, Kaelen",Author,0.0,?FM,0.3333333333333333,False,{'KAELEN': ['GB']},{'KAELEN': ['US']},{'KAELEN': ['CA']}
+971,PZ6MIKF2,"Peters, Diane",Author,0.0,F,1.0,False,{},"{'DIANE': ['AT', 'BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'IE', 'LU', 'NL', 'US']}",{}
+972,T6WRRHC2,"Weinberg, Michael",Author,0.0,M,0.9523809523809523,False,"{'MICHAEL': [nan, 'AM', 'AT', 'AU', 'BE', 'CH', 'CZ', 'DE', 'DK', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'SE', 'SK', 'US']}",{},{'MICHAEL': ['CA']}
+973,33DLXAQB,"Adeney, Elizabeth",Author,0.0,F,0.9,False,{},"{'ELIZABETH': ['AM', 'BE', 'GB', 'IE', 'IL', 'MT', 'NL', 'PY', 'US']}",{'ELIZABETH': ['CA']}
+974,Z8XSB2SW,"Samuelson, Pamela",Author,0.0,F,1.0,False,{},"{'PAMELA': ['CA', 'DE', 'GB', 'IE', 'IT', 'MT', 'SE', 'US']}",{}
+975,Z8XSB2SW,"Guibault, Lucie",Editor,0.0,F,1.0,False,{},"{'LUCIE': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'FR', 'GB', 'IE', 'LU', 'NL', 'US']}",{}
+976,5NFX9BBT,"Prelinger, Rick",Author,0.0,M,1.0,False,"{'RICK': ['CA', 'GB', 'IE', 'NL', 'US']}",{},{}
+977,RCBVSFBK,"Heald, Paul J.",Author,0.0,M,1.0,True,"{'PAUL': ['AT', 'BE', 'CA', 'CH', 'CM', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'NL', 'NO', 'RO', 'SE', 'US']}",{},{}
+978,RCBVSFBK," Erickson, Kris",Author,1.0,M,0.8333333333333334,False,"{'KRIS': ['BE', 'GB', 'MT', 'NL', 'US']}",{},{'KRIS': ['CA']}
+979,RCBVSFBK," Kretschmer, Martin",Author,2.0,M,1.0,False,"{'MARTIN': [nan, 'AL', 'AM', 'AT', 'BE', 'BG', 'CA', 'CH', 'CL', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'HR', 'IE', 'IS', 'LU', 'MK', 'MT', 'NL', 'NO', 'PE', 'PL', 'RO', 'SE', 'SI', 'SK', 'US', 'UY']}",{},{}
+980,D7VIAEF5,"Manžuch, Zinaida",Author,0.0,F,1.0,False,{},"{'ZINAIDA': ['AM', 'BG', 'BY', 'CA', 'EE', 'KZ', 'LT', 'LV', 'MD', 'RO', 'RU', 'UA']}",{}
+981,Q9HE23YC,"McCracken, Krista",Author,0.0,F,0.9333333333333333,False,{},"{'KRISTA': ['AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'EE', 'GB', 'LV', 'NL', 'RS', 'SE', 'SK', 'US']}",{'KRISTA': ['CA']}
+982,UQVSEGLR,"Meier, Allison",Author,0.0,F,0.75,False,{},"{'ALLISON': ['GB', 'IE', 'US']}",{'ALLISON': ['CA']}
+983,FWXXJNHB,"Douglas, Susan",Author,0.0,F,1.0,False,{},"{'SUSAN': [nan, 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'IL', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+984,FWXXJNHB," Hayes, Melanie",Author,1.0,F,1.0,False,{},"{'MELANIE': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'FR', 'GB', 'IE', 'LU', 'NL', 'SE', 'US']}",{}
+985,UXLUE629,"Ayoubi, Lida",Author,0.0,F,1.0,False,{},"{'LIDA': ['AL', 'AM', 'BG', 'CA', 'DE', 'GB', 'IT', 'LV', 'NL', 'UA', 'US']}",{}
+986,BBUELC6S,"Livingston, Donovan",Author,0.0,M,1.0,False,"{'DONOVAN': ['CA', 'GB', 'US']}",{},{}
+987,BBUELC6S," Waln, Frank",Author,1.0,M,1.0,False,"{'FRANK': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'NO', 'SE', 'TZ', 'US']}",{},{}
+988,QMFE5JFS,ARCHES,Author,0.0,Unexpected name format,,,,,
+989,HTNN7SMK,"Kärkkäinen, Samuli",Author,0.0,M,1.0,False,{'SAMULI': ['FI']},{},{}
+990,CNL6T3AZ,"Kinsella, Eileen",Author,0.0,F,1.0,False,{},"{'EILEEN': ['CA', 'GB', 'IE', 'US']}",{}
+991,83VJGUY8,"Lin, Dawei",Author,0.0,Name(s) not found,,,,,
+992,83VJGUY8," Crabtree, Jonathan",Author,1.0,M,1.0,False,"{'JONATHAN': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'SE', 'US']}",{},{}
+993,83VJGUY8," Dillo, Ingrid",Author,2.0,F,1.0,False,{},"{'INGRID': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EE', 'FR', 'GB', 'HR', 'LU', 'MT', 'NL', 'NO', 'NZ', 'SE', 'SK', 'US']}",{}
+994,83VJGUY8," Downs, Robert R.",Author,3.0,M,0.9714285714285714,True,"{'ROBERT': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'BY', 'CH', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FR', 'GB', 'GE', 'HR', 'HU', 'ID', 'IE', 'IL', 'IS', 'LU', 'MK', 'MT', 'NL', 'NO', 'PL', 'RO', 'RU', 'SE', 'SI', 'SK', 'US']}",{},{'ROBERT': ['CA']}
+995,83VJGUY8," Edmunds, Rorie",Author,4.0,?FM,0.3333333333333333,False,{'RORIE': ['GB']},{'RORIE': ['US']},{'RORIE': ['CA']}
+996,83VJGUY8," Giaretta, David",Author,5.0,M,0.972972972972973,False,"{'DAVID': ['AL', 'AM', 'AT', 'AZ', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'GE', 'HR', 'HU', 'IE', 'IL', 'IS', 'IT', 'KZ', 'LI', 'LU', 'MD', 'MT', 'NL', 'NO', 'PE', 'PT', 'PY', 'RO', 'SE', 'SI', 'UA', 'US', 'VE']}",{},{'DAVID': ['CA']}
+997,83VJGUY8," De Giusti, Marisa",Author,6.0,F,1.0,False,{},"{'MARISA': ['AL', 'AT', 'CA', 'CH', 'ES', 'GB', 'IT', 'MT', 'NL', 'PT', 'US']}",{}
+998,83VJGUY8," L’Hours, Hervé",Author,7.0,M,1.0,False,"{'HERVE': ['BE', 'CH', 'FR', 'GB', 'LU', 'US']}",{},{}
+999,83VJGUY8," Hugo, Wim",Author,8.0,M,1.0,False,"{'WIM': ['BE', 'CA', 'NL']}",{},{}
+1000,83VJGUY8," Jenkyns, Reyna",Author,9.0,F,1.0,False,{},"{'REYNA': ['CA', 'ES', 'GB', 'US']}",{}
+1001,83VJGUY8," Khodiyar, Varsha",Author,10.0,F,1.0,False,{},"{'VARSHA': ['CA', 'GB', 'IN', 'US']}",{}
+1002,83VJGUY8," Martone, Maryann E.",Author,11.0,F,1.0,True,{},"{'MARYANN': ['CA', 'GB', 'US']}",{}
+1003,83VJGUY8," Mokrane, Mustapha",Author,12.0,M,1.0,False,"{'MUSTAPHA': ['CA', 'GB', 'IR', 'MA', 'US']}",{},{}
+1004,83VJGUY8," Navale, Vivek",Author,13.0,M,1.0,False,"{'VIVEK': ['CA', 'GB', 'IN', 'US']}",{},{}
+1005,83VJGUY8," Petters, Jonathan",Author,14.0,M,1.0,False,"{'JONATHAN': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'IL', 'LU', 'MT', 'SE', 'US']}",{},{}
+1006,83VJGUY8," Sierman, Barbara",Author,15.0,F,1.0,False,{},"{'BARBARA': [nan, 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HU', 'IE', 'IS', 'IT', 'LU', 'MT', 'NL', 'PL', 'PT', 'SE', 'SI', 'US']}",{}
+1007,83VJGUY8," Sokolova, Dina V.",Author,16.0,F,0.96,True,{},"{'DINA': ['AT', 'AZ', 'BE', 'BG', 'BY', 'CH', 'DE', 'DK', 'GB', 'GE', 'HR', 'IL', 'IR', 'IT', 'KZ', 'LT', 'LV', 'MD', 'NL', 'PT', 'RO', 'RU', 'UA', 'US']}",{'DINA': ['CA']}
+1008,83VJGUY8," Stockhause, Martina",Author,17.0,F,1.0,False,{},"{'MARTINA': ['AD', 'AR', 'AT', 'BA', 'BE', 'CA', 'CH', 'CL', 'CZ', 'DE', 'DK', 'ES', 'GB', 'HR', 'IE', 'IT', 'LV', 'MX', 'NL', 'NO', 'SE', 'SI', 'SK', 'US']}",{}
+1009,83VJGUY8," Westbrook, John",Author,18.0,M,1.0,False,"{'JOHN': [nan, 'AM', 'AZ', 'BE', 'CA', 'CH', 'DE', 'DK', 'EG', 'FR', 'GB', 'IE', 'IL', 'IN', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{},{}
+1010,7I5RY9LH,"McCann, Steve",Author,0.0,M,1.0,False,"{'STEVE': ['CA', 'CH', 'DE', 'GB', 'IE', 'MT', 'NL', 'US']}",{},{}
+1011,7I5RY9LH," Ravas, Tammy",Author,1.0,F,1.0,False,{},"{'TAMMY': ['CA', 'GB', 'IL', 'US']}",{}
+1012,D66ANRBC,"Thylstrup, Nanna",Author,0.0,F,1.0,False,{},"{'NANNA': ['DE', 'DK', 'FI', 'IS', 'IT', 'NO', 'SE', 'US']}",{}
+1013,D66ANRBC," Teilmann-Lock, Stina",Author,1.0,F,1.0,False,{},"{'STINA': ['CA', 'DE', 'DK', 'GB', 'NO', 'SE', 'US']}",{}
+1014,GEBDUZPZ,"Wilf, Steven",Author,0.0,M,1.0,False,"{'STEVEN': ['BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'SE', 'US']}",{},{}
+1015,ZGVEPCMX,"Graham, Helen",Author,0.0,F,1.0,False,{},"{'HELEN': ['BE', 'CA', 'CH', 'DK', 'EE', 'GB', 'GH', 'IE', 'IS', 'KZ', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+1016,ZGVEPCMX," Mason, Rhiannon",Author,1.0,F,1.0,False,{},"{'RHIANNON': ['CA', 'GB', 'IE', 'US']}",{}
+1017,ZGVEPCMX," Nayling, Nigel",Author,2.0,M,1.0,False,"{'NIGEL': ['CA', 'GB', 'IE', 'MT', 'US']}",{},{}
+1018,795KA4CF,"Röschenthaler, Ute",Author,0.0,F,1.0,False,{},"{'UTE': ['AT', 'CH', 'DE', 'US']}",{}
+1019,795KA4CF," Diawara, Mamadou",Author,1.0,M,1.0,False,"{'MAMADOU': ['CA', 'GB', 'IR', 'ML', 'US']}",{},{}
+1020,LJIATV5T,"Okediji, Ruth",Author,0.0,F,1.0,False,{},"{'RUTH': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'DO', 'EE', 'ES', 'GB', 'IE', 'IL', 'IS', 'LU', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+1021,89ZYK35D,"Macdonald, Sharon",Author,0.0,F,0.875,False,{'SHARON': ['IL']},"{'SHARON': ['BE', 'CA', 'GB', 'IE', 'MT', 'NL', 'US']}",{}
+1022,89ZYK35D,"Macdonald, Sharon",Editor,0.0,F,0.875,False,{'SHARON': ['IL']},"{'SHARON': ['BE', 'CA', 'GB', 'IE', 'MT', 'NL', 'US']}",{}
+1023,LUIGGKSK,"Smith, Linda Tuhiwai",Author,0.0,F,0.9545454545454546,True,{},"{'LINDA': ['AT', 'BE', 'CH', 'CZ', 'DE', 'DK', 'EE', 'FI', 'FR', 'GB', 'IE', 'IL', 'IS', 'IT', 'KS', 'LU', 'LV', 'NL', 'NO', 'SE', 'US']}",{'LINDA': ['CA']}
+1024,H6GZ2H9M,"Sherratt, Tim",Author,0.0,M,1.0,False,"{'TIM': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'GB', 'IE', 'NL', 'NO', 'SE', 'SI', 'US']}",{},{}
+1025,H6GZ2H9M,"Lewi, Hannah",Editor,0.0,F,1.0,False,{},"{'HANNAH': ['AT', 'CA', 'DE', 'DK', 'GB', 'IE', 'IL', 'MT', 'MY', 'NL', 'US']}",{}
+1026,H6GZ2H9M," Smith, Wally",Editor,1.0,M,0.6,False,"{'WALLY': ['CA', 'MT', 'US']}",{'WALLY': ['NO']},{'WALLY': ['NL']}
+1027,H6GZ2H9M," Cooke, Steven",Editor,2.0,M,1.0,False,"{'STEVEN': ['BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'SE', 'US']}",{},{}
+1028,H6GZ2H9M," vom Lehn, Dirk",Editor,3.0,M,1.0,False,"{'DIRK': ['AT', 'BE', 'CA', 'CH', 'DE', 'GB', 'NL', 'US']}",{},{}
+1029,F6TQFYBE,"Christen, Kimberly",Author,0.0,F,1.0,False,{},"{'KIMBERLY': ['BE', 'CA', 'GB', 'SE', 'US']}",{}
+1030,7A9GHZCV,"Hennessy, Kate",Author,0.0,F,0.9090909090909091,False,{},"{'KATE': ['AT', 'DE', 'DK', 'GB', 'HR', 'IE', 'MK', 'MT', 'NO', 'US']}",{'KATE': ['CA']}
+1031,7QVYZVRY,"Daes, Erica-Irene",Author,0.0,F,1.0,True,{},"{'ERICA': [nan, 'AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'ES', 'GB', 'IT', 'NL', 'RO', 'SE', 'US'], 'IRENE': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'EE', 'EG', 'ES', 'FI', 'FR', 'GB', 'GE', 'IE', 'IT', 'LU', 'MT', 'NL', 'NO', 'PT', 'SE', 'US']}",{}
+1032,DNC6EMF7,"Tsosie, Rebecca",Author,0.0,F,1.0,False,{},"{'REBECCA': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'IN', 'IT', 'MT', 'NL', 'NO', 'SE', 'US']}",{}
+1033,ARPRG7K9,"Foster, Sally",Author,0.0,F,1.0,False,{},"{'SALLY': ['BE', 'CA', 'DK', 'GB', 'IE', 'NL', 'SE', 'US']}",{}
+1034,ARPRG7K9," Jones, Siân",Author,1.0,F,0.6666666666666666,False,{},"{'SIAN': ['GB', 'US']}",{'SIAN': ['CA']}
+1035,EMADH2F2,"McCarthy, Douglas",Author,0.0,M,1.0,False,"{'DOUGLAS': ['CA', 'GB', 'IE', 'MT', 'US']}",{},{}
+1036,EMADH2F2," Wallace, Andrea",Author,1.0,F,0.9090909090909091,False,{'ANDREA': ['IT']},"{'ANDREA': ['AL', 'AT', 'BA', 'BE', 'CH', 'CZ', 'DE', 'DK', 'ES', 'FR', 'GB', 'HR', 'HU', 'IE', 'IS', 'LU', 'ME', 'NL', 'SK', 'US']}",{'ANDREA': ['CA']}
+1037,RD8BPYEU,"Dougherty, Jack",Editor,0.0,M,1.0,False,"{'JACK': ['AU', 'CA', 'CH', 'DK', 'FR', 'GB', 'IE', 'MT', 'NL', 'NO', 'NZ', 'SE', 'US']}",{},{}
+1038,RD8BPYEU," Nawrotzki, Kristen",Editor,1.0,F,0.5,False,"{'KRISTEN': ['DK', 'NO']}","{'KRISTEN': ['GB', 'IE', 'US']}",{'KRISTEN': ['CA']}
+1039,4B5KD5MC,"Callison, Camille",Editor,0.0,F,0.8571428571428571,False,{},"{'CAMILLE': ['BE', 'CH', 'FR', 'GB', 'LU', 'US']}",{'CAMILLE': ['CA']}
+1040,4B5KD5MC," Roy, Loriene",Editor,1.0,F,1.0,False,{},{'LORIENE': ['US']},{}
+1041,4B5KD5MC," LeCheminant, Gretchen Alice",Editor,2.0,F,1.0,True,{},"{'ALICE': ['AM', 'AT', 'BE', 'BR', 'CA', 'CH', 'CZ', 'DE', 'DK', 'FI', 'FR', 'GB', 'IE', 'IT', 'LU', 'NL', 'NO', 'PT', 'SE', 'US'], 'GRETCHEN': ['AT', 'CA', 'DE', 'GB', 'US']}",{}
+1042,DX6ILRFK,"Lewi, Hannah",Editor,0.0,F,1.0,False,{},"{'HANNAH': ['AT', 'CA', 'DE', 'DK', 'GB', 'IE', 'IL', 'MT', 'MY', 'NL', 'US']}",{}
+1043,DX6ILRFK," Smith, Wally",Editor,1.0,M,0.6,False,"{'WALLY': ['CA', 'MT', 'US']}",{'WALLY': ['NO']},{'WALLY': ['NL']}
+1044,DX6ILRFK," vom Lehn, Dirk",Editor,2.0,M,1.0,False,"{'DIRK': ['AT', 'BE', 'CA', 'CH', 'DE', 'GB', 'NL', 'US']}",{},{}
+1045,DX6ILRFK," Cooke, Steven",Editor,3.0,M,1.0,False,"{'STEVEN': ['BE', 'CA', 'CH', 'DE', 'FR', 'GB', 'IE', 'LU', 'MT', 'NL', 'SE', 'US']}",{},{}
+1046,84F43PS9,"Harle, Josh",Editor,0.0,M,1.0,False,"{'JOSH': ['CA', 'GB', 'US']}",{},{}
+1047,84F43PS9," Abdila, Angie",Editor,1.0,F,1.0,False,{},"{'ANGIE': ['CA', 'CH', 'GB', 'IE', 'US']}",{}
+1048,84F43PS9," Newman, Andrew",Editor,2.0,M,0.8333333333333334,False,"{'ANDREW': ['GB', 'IE', 'MT', 'UA', 'US']}",{},{'ANDREW': ['CA']}
+1049,7HBXBJ5E,"Young, Anne",Editor,0.0,F,0.8888888888888888,False,{},"{'ANNE': [nan, 'AT', 'BE', 'CH', 'DE', 'DK', 'EE', 'FI', 'FR', 'GB', 'IE', 'LU', 'MT', 'NO', 'SE', 'US']}","{'ANNE': ['CA', 'NL']}"
+1050,VLNRWLF9,"Dulong de Rosnay, Melanie",Editor,0.0,F,1.0,False,{},"{'MELANIE': ['AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'FR', 'GB', 'IE', 'LU', 'NL', 'SE', 'US']}",{}
+1051,VLNRWLF9," De Martin, Juan Carlos",Editor,1.0,M,1.0,False,"{'JUAN CARLOS': ['CA', 'US']}",{},{}
+1052,7HP9889A,"Jones-Garmil, Katherine",Editor,0.0,F,1.0,False,{},"{'KATHERINE': ['CA', 'CH', 'GB', 'IE', 'US']}",{}
+1053,ZSWSA7RX,"Winesmith, Keir",Editor,0.0,M,0.6666666666666666,False,"{'KEIR': ['GB', 'US']}",{},{'KEIR': ['CA']}
+1054,ZSWSA7RX," Anderson, Suse",Editor,1.0,F,1.0,False,{},"{'SUSE': ['AT', 'DE']}",{}
+1055,YF6X5394,"Winesmith, Keir",Editor,0.0,M,0.6666666666666666,False,"{'KEIR': ['GB', 'US']}",{},{'KEIR': ['CA']}
+1056,YF6X5394," Anderson, Suse",Editor,1.0,F,1.0,False,{},"{'SUSE': ['AT', 'DE']}",{}
+1057,3CKJRV4T,"Winesmith, Keir",Editor,0.0,M,0.6666666666666666,False,"{'KEIR': ['GB', 'US']}",{},{'KEIR': ['CA']}
+1058,3CKJRV4T," Anderson, Suse",Editor,1.0,F,1.0,False,{},"{'SUSE': ['AT', 'DE']}",{}
+1059,3CKJRV4T," Winesmith, Keir",Editor,2.0,M,0.6666666666666666,False,"{'KEIR': ['GB', 'US']}",{},{'KEIR': ['CA']}
+1060,3CKJRV4T," Anderson, Suse",Editor,3.0,F,1.0,False,{},"{'SUSE': ['AT', 'DE']}",{}
+1061,MZRYUK9L,"Waelde, Charlotte",Editor,0.0,F,1.0,False,{},"{'CHARLOTTE': ['AT', 'AU', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'LU', 'NL', 'NO', 'NZ', 'SE', 'US']}",{}
+1062,MZRYUK9L," Cummings, Catherine",Editor,1.0,F,1.0,False,{},"{'CATHERINE': ['AT', 'BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'LU', 'MT', 'US']}",{}
+1063,MZRYUK9L," Pavis, Mathilde",Editor,2.0,F,1.0,False,{},"{'MATHILDE': ['AT', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'LU', 'NL', 'NO', 'SE', 'US']}",{}
+1064,MZRYUK9L," Enright, Elena",Editor,3.0,F,1.0,False,{},"{'ELENA': [nan, 'AL', 'AM', 'AZ', 'BE', 'BG', 'BY', 'CA', 'CH', 'CZ', 'EE', 'ES', 'GB', 'GE', 'GR', 'IL', 'IT', 'KZ', 'LT', 'LV', 'MD', 'MK', 'MT', 'RO', 'RU', 'SK', 'UA', 'US', 'ZA']}",{}
+1065,8AF8Q78K,"Piron, Florence",Editor,0.0,F,1.0,False,{},"{'FLORENCE': ['BE', 'CA', 'CH', 'FR', 'GB', 'IE', 'LU', 'US']}",{}
+1066,8AF8Q78K," Regulus, Samuel",Editor,1.0,M,1.0,False,"{'SAMUEL': ['AU', 'BE', 'CA', 'CH', 'CO', 'DE', 'ES', 'FI', 'FR', 'GB', 'HT', 'HU', 'IE', 'IL', 'IS', 'LU', 'MT', 'MW', 'MX', 'PT', 'RO', 'SE', 'SK', 'US', 'VE']}",{},{}
+1067,8AF8Q78K," Madiba, Marie Sophie Dibounje",Editor,2.0,F,1.0,True,{},"{'MARIE': ['AL', 'AT', 'BE', 'CA', 'CH', 'CZ', 'DE', 'DK', 'EG', 'FI', 'FR', 'GB', 'IE', 'IT', 'JP', 'LU', 'MT', 'NL', 'NO', 'SE', 'US'], 'SOPHIE': ['AT', 'AU', 'BE', 'CA', 'CH', 'DE', 'DK', 'FR', 'GB', 'IE', 'LU', 'NL', 'NO', 'NZ', 'SE', 'US']}",{}
+1068,785EYPMT,"McCutcheon, Jani",Editor,0.0,M,0.8,False,"{'JANI': ['AL', 'BG', 'FI', 'GB', 'HR', 'KS', 'MK', 'SI']}",{'JANI': ['US']},{'JANI': ['CA']}
+1069,785EYPMT," Ramalho, Ana",Editor,1.0,F,1.0,False,{},"{'ANA': ['AL', 'AO', 'BA', 'BG', 'BR', 'CA', 'CH', 'ES', 'GB', 'GE', 'HR', 'IL', 'IN', 'KS', 'MD', 'ME', 'MK', 'NZ', 'PT', 'RO', 'RS', 'SI', 'SV', 'US']}",{}
+1070,GIIS83DU,,,,No name,,,,,
+1071,5GB7XZZ2,,,,No name,,,,,
+1072,3WITW2C4,,,,No name,,,,,
+1073,3TPTGEPC,,,,No name,,,,,
+1074,IG692XEB,,,,No name,,,,,
+1075,H47QRNSN,,,,No name,,,,,
+1076,285SHB3W,,,,No name,,,,,
+1077,HIH37TEP,,,,No name,,,,,
+1078,UL6NTPK7,,,,No name,,,,,
+1079,8YQVCMKP,,,,No name,,,,,
+1080,E5TPPPZL,,,,No name,,,,,
+1081,WNMNH6SX,,,,No name,,,,,
+1082,V4RFLGXX,,,,No name,,,,,
+1083,H3MUAVEH,,,,No name,,,,,
+1084,AAN6AAYE,,,,No name,,,,,
+1085,GYIK5UHG,,,,No name,,,,,
+1086,9J8KR6AK,,,,No name,,,,,
+1087,VS3LBZX5,,,,No name,,,,,
+1088,HNJ382Z2,,,,No name,,,,,
+1089,7Z4C9GC7,,,,No name,,,,,
+1090,FV53TKGF,,,,No name,,,,,
+1091,H7RGSCX8,,,,No name,,,,,
+1092,HTU55D49,,,,No name,,,,,
+1093,EIE9ALCT,,,,No name,,,,,
+1094,V3TV7LW9,,,,No name,,,,,
+1095,GMKDM5QU,,,,No name,,,,,
+1096,MWBD3E48,,,,No name,,,,,
+1097,7WMDBXER,,,,No name,,,,,
+1098,KWX7BNGK,,,,No name,,,,,
+1099,AEHLXGZP,,,,No name,,,,,
+1100,3EIMXSEQ,,,,No name,,,,,
+1101,Y65JXIJM,,,,No name,,,,,
+1102,NPQYBQWW,,,,No name,,,,,
+1103,XGGV9C4X,,,,No name,,,,,
+1104,BGPJFDRI,,,,No name,,,,,
+1105,QGWML3QB,,,,No name,,,,,
+1106,PBIAIJDM,,,,No name,,,,,
+1107,GR5AYPY3,,,,No name,,,,,
+1108,9C4R58T7,,,,No name,,,,,
+1109,4U8G6X3X,,,,No name,,,,,
+1110,L7JDEG7T,,,,No name,,,,,
+1111,CJFB2WJT,,,,No name,,,,,
+1112,RBRYZJI5,,,,No name,,,,,
+1113,AZVJ833Z,,,,No name,,,,,
+1114,3NVD3CJG,,,,No name,,,,,
+1115,QHEWTBNN,,,,No name,,,,,
+1116,EDASQA7M,,,,No name,,,,,
+1117,LUDLT85Z,,,,No name,,,,,
+1118,5GEZHVLQ,,,,No name,,,,,
+1119,PIMMT4FX,,,,No name,,,,,
+1120,BCE29462,,,,No name,,,,,
+1121,IMNHV8YV,,,,No name,,,,,
+1122,NNEAS6MH,,,,No name,,,,,
+1123,3WUQ3QMM,,,,No name,,,,,
+1124,GL5ULWSP,,,,No name,,,,,
+1125,I6YTT9FP,,,,No name,,,,,
+1126,376TNW94,,,,No name,,,,,
+1127,RNIRI83G,,,,No name,,,,,
+1128,A8SHYMC5,,,,No name,,,,,
+1129,LYFRBKNF,,,,No name,,,,,
+1130,YKX2VJCV,,,,No name,,,,,
+1131,CYVYK4X2,,,,No name,,,,,
+1132,GKJ3IC74,,,,No name,,,,,
+1133,PLA2DM68,,,,No name,,,,,
+1134,NBZYR53C,,,,No name,,,,,
+1135,52NZQN9D,,,,No name,,,,,
+1136,MUPFK8I7,,,,No name,,,,,
+1137,V8DF53YM,,,,No name,,,,,
+1138,4SJFP64S,,,,No name,,,,,
+1139,YT3UU7EV,,,,No name,,,,,
+1140,2N82D3CI,,,,No name,,,,,
+1141,9H9MSRDT,,,,No name,,,,,
+1142,5JLVE7MW,,,,No name,,,,,
+1143,7GL4B68V,,,,No name,,,,,
+1144,DVHRTYKK,,,,No name,,,,,
+1145,8GM2R5HV,,,,No name,,,,,
+1146,UJW7ZXWI,,,,No name,,,,,
+1147,NBSEKGV2,,,,No name,,,,,
+1148,N2KD6YAC,,,,No name,,,,,
+1149,CAC895MZ,,,,No name,,,,,
+1150,IE6DGXCI,,,,No name,,,,,
+1151,MH6XDF2V,,,,No name,,,,,
+1152,VHL7NLJG,,,,No name,,,,,
+1153,JA5S5FVE,,,,No name,,,,,
+1154,RUPIF972,,,,No name,,,,,
+1155,RWNI5XPR,,,,No name,,,,,
+1156,7V6H87MK,,,,No name,,,,,
+1157,UZT2CZP4,,,,No name,,,,,
+1158,25DNDVEZ,,,,No name,,,,,
+1159,SIYFVBF4,,,,No name,,,,,
+1160,MENXXZAL,,,,No name,,,,,
+1161,E2YHFDPH,,,,No name,,,,,
+1162,QNH4479C,,,,No name,,,,,
+1163,8TB9TPBB,,,,No name,,,,,
+1164,S8IN88MY,,,,No name,,,,,
+1165,32ECFHL2,,,,No name,,,,,
+1166,QM27RRTL,,,,No name,,,,,
+1167,A7IAD4Y4,,,,No name,,,,,
+1168,GD9ILUA7,,,,No name,,,,,
+1169,AEDRNJIL,,,,No name,,,,,
+1170,L5QWF5C6,,,,No name,,,,,
+1171,GP3RPAZW,,,,No name,,,,,
+1172,77PW57KR,,,,No name,,,,,
+1173,TLRK9L3F,,,,No name,,,,,
+1174,PHGPBEFL,,,,No name,,,,,
+1175,LZH9II7B,,,,No name,,,,,
+1176,7ZZFM9M9,,,,No name,,,,,
+1177,Y365YIYD,,,,No name,,,,,
+1178,DNM2BLNW,,,,No name,,,,,
+1179,IH7C5TZJ,,,,No name,,,,,
+1180,4YFCV4S7,,,,No name,,,,,
+1181,YDR98MZW,,,,No name,,,,,
+1182,7RBQEZEK,,,,No name,,,,,
+1183,LLBSLIMV,,,,No name,,,,,
+1184,GWX9LPFK,,,,No name,,,,,
+1185,C9R5U3Y6,,,,No name,,,,,
+1186,G56JHUID,,,,No name,,,,,
+1187,VVW3A4FK,,,,No name,,,,,
+1188,ZPXRT686,,,,No name,,,,,
+1189,IG3GKRLX,,,,No name,,,,,
+1190,SVVJUUXG,,,,No name,,,,,
+1191,Y9M3HG9S,,,,No name,,,,,
+1192,F5L62QB4,,,,No name,,,,,
+1193,N4PJPZB9,,,,No name,,,,,
+1194,F95QDGII,,,,No name,,,,,
+1195,HMIJKHSK,,,,No name,,,,,
+1196,HTSL6ILK,,,,No name,,,,,
+1197,QDD45EQV,,,,No name,,,,,
+1198,53J5ZQQL,,,,No name,,,,,
+1199,TEV37KIS,,,,No name,,,,,
+1200,W5SM7GEI,,,,No name,,,,,
+1201,4PRV6QDY,,,,No name,,,,,
+1202,A4KSPMXP,,,,No name,,,,,
+1203,BBEU6FQ7,,,,No name,,,,,
+1204,X7TZVAFA,,,,No name,,,,,
+1205,P4TQI5SQ,,,,No name,,,,,
+1206,3RJ25PG9,,,,No name,,,,,
+1207,ZC9LFTK9,,,,No name,,,,,
+1208,DLCTXJKP,,,,No name,,,,,
+1209,W797JLK7,,,,No name,,,,,
+1210,X9LYBUIR,,,,No name,,,,,
+1211,PSVYQWHN,,,,No name,,,,,
+1212,LW53GX6T,,,,No name,,,,,
+1213,7UZCP8TU,,,,No name,,,,,
+1214,YW2SY9Q9,,,,No name,,,,,
+1215,WLEWZXUI,,,,No name,,,,,
+1216,8MWUNC5K,,,,No name,,,,,
+1217,RFZUZEWM,,,,No name,,,,,
+1218,V24QASH6,,,,No name,,,,,
+1219,DG8U6WLP,,,,No name,,,,,
+1220,BU488J9N,,,,No name,,,,,
+1221,FM2Z9PC8,,,,No name,,,,,
+1222,77IDNRU7,,,,No name,,,,,
+1223,EVQAFI9Z,,,,No name,,,,,
+1224,NL3TCKF9,,,,No name,,,,,
+1225,K4SAGQ9Y,,,,No name,,,,,
+1226,TI5NNKRX,,,,No name,,,,,
+1227,7ZDS4W8Q,,,,No name,,,,,
+1228,UQPKMYK7,,,,No name,,,,,
+1229,8MBFFUNG,,,,No name,,,,,
+1230,5ILI8F9J,,,,No name,,,,,
+1231,FUWLTGQI,,,,No name,,,,,
+1232,ITXCRBNG,,,,No name,,,,,
+1233,WY7WC5AN,,,,No name,,,,,
+1234,PBDVZ8GJ,,,,No name,,,,,
+1235,ESVY4WLC,,,,No name,,,,,
+1236,LZYBK84J,,,,No name,,,,,
+1237,EYXHMPNC,,,,No name,,,,,
+1238,NYNUTUKY,,,,No name,,,,,
+1239,TJHNYA3B,,,,No name,,,,,
+1240,3VHKYNVW,,,,No name,,,,,
+1241,A55W98G8,,,,No name,,,,,
+1242,X2TKQJR5,,,,No name,,,,,
+1243,JQLZ8KNZ,,,,No name,,,,,
+1244,P4QE9A7E,,,,No name,,,,,
+1245,4KPL6VTD,,,,No name,,,,,
+1246,BT3YTL7Z,,,,No name,,,,,
+1247,HZJMHYXZ,,,,No name,,,,,
+1248,VEWVV73Y,,,,No name,,,,,
+1249,H4ATQ8J3,,,,No name,,,,,
+1250,RCI7C9HN,,,,No name,,,,,
+1251,T46PDPY3,,,,No name,,,,,
+1252,IFMRKFWU,,,,No name,,,,,
+1253,PHKNYBLD,,,,No name,,,,,
+1254,B72A8ZPK,,,,No name,,,,,
+1255,TW7YU2P6,,,,No name,,,,,
+1256,ES9INJVA,,,,No name,,,,,
+1257,26KDJCS9,,,,No name,,,,,
+1258,SF9NG6HP,,,,No name,,,,,
+1259,TJZWZGYQ,,,,No name,,,,,
+1260,3C33U3TW,,,,No name,,,,,
+1261,284TB24P,,,,No name,,,,,
+1262,SI9JBFIY,,,,No name,,,,,
+1263,EZJJYM36,,,,No name,,,,,
+1264,XH4IIGMZ,,,,No name,,,,,
+1265,BXAKJ8RL,,,,No name,,,,,
+1266,WQ7W7P7H,,,,No name,,,,,
+1267,5JNXT4JL,,,,No name,,,,,
+1268,HYYMDLX8,,,,No name,,,,,
+1269,DRFR5PGB,,,,No name,,,,,
+1270,6M78JWRM,,,,No name,,,,,
+1271,Y5R3NDSB,,,,No name,,,,,
+1272,AYX6MQUK,,,,No name,,,,,
+1273,UBQ6LB4L,,,,No name,,,,,
+1274,HLWEM6XU,,,,No name,,,,,
+1275,8QI3ITPH,,,,No name,,,,,
+1276,9V5UR7M6,,,,No name,,,,,
+1277,EHE5PTLJ,,,,No name,,,,,
+1278,P2XQPVZD,,,,No name,,,,,
+1279,CZQ2Y4XC,,,,No name,,,,,
+1280,ESEZGCLH,,,,No name,,,,,
+1281,D5DMJYWG,,,,No name,,,,,
+1282,92NW4WV3,,,,No name,,,,,
+1283,PVFS844Y,,,,No name,,,,,
+1284,9Z2BVJRI,,,,No name,,,,,
+1285,Y5DP9VEP,,,,No name,,,,,
+1286,9PX7ZZFP,,,,No name,,,,,
+1287,9P9F2WKQ,,,,No name,,,,,
+1288,DZHFPHKB,,,,No name,,,,,
+1289,Y7PSK5PP,,,,No name,,,,,
