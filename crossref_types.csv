@@ -1,0 +1,24 @@
+# CrossRef/Zotero content type equivalence
+# CrossRef content types as described in https://api.crossref.org/v1/types
+# Equivalence as inferred from Zotero's Crossref-REST translator
+# https://github.com/zotero/translators/blob/master/Crossref-REST.js
+crossref, zotero
+journal-article, journalArticle
+book, book,
+book-series, book,
+book-set, book,
+book-track, book,
+monograph, book,
+reference-book, book,
+book-chapter, bookSection
+book-part, bookSection
+book-section, bookSection
+reference-entry, bookSection
+dataset, report
+posted-content, report
+report, report
+report-series, report
+standard, report
+proceedings-article, conferencePaper
+dissertation, thesis
+
