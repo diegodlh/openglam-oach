@@ -16,33 +16,55 @@ Finally, open Jupyter Lab to see the `notebook.ipynb` notebook:
 
 ## File descriptions
 
-**zotero.csv**:
+### zotero.csv
 Zotero's OACH Declaration library export, in csv format.
 
-**zotero.rdf**:
+### zotero.rdf
 Zotero's OACH Declaration library export, in rdf format.
 
-**wgnd_ctry.csv**:
+### wgnd_ctry.csv
 List of name-country pairs and their gender. See notebook section "Gender" for more information.
 
-**gender.csv**:
+### gender.csv
 Gender information per publication (identified by the Zotero ID) and author.
 
-**authors.csv**:
+### authors.csv
 zotero.csv file expanded to one row per author, and merged with gender.csv. Includes information about collections ("\*WORK IN", "\*\*CITED IN", etc) as well.
 
-**crossref/crossref_types.csv**:
+### crossref/crossref_types.csv
 Equivalence between CrossRef content types and Zotero item types.
 
-**crossref/config.json**:
+### crossref/config.json
 Configuration parameters for the CrossRef API.
 
-**crossref/query_cache**:
+### crossref/query_cache
 Index of previous cached responses from CrossRef API.
 
-**crossref/json/<ZOTERO-ID>.json**
+- **key**: Zotero ID.
+- **query**: how the API was called.
+- **doi**:
+ 	- doi of the publication returned by the API, or
+ 	- *Error "Type not supported"*: the Zotero item is of a type not found in CrossRef (e.g., webpage).
+ 	- *Error "Not found"*: the API search returned no results.
+ 	- *Error "HTTP Error: NNN"*: unexpected HTTP error from API.
+- **score**: matching score of the top result returned. "exact" if doi was used for retrieval.
+- **ts**: timestamp.
+
+### crossref/json/<ZOTERO-ID>.json
 Saved responses from CrossRef API.
 
-**locations.csv**
+### crossref.csv
 Affiliation and publisher location information from CrossRef.
 
+- **key**: Zotero ID.
+- **xref_doi**: DOI of CrossRef top result, as in *crossref/query_cache* above.
+- **xref_title**: title of CrossRef top result, to compare with title of Zotero item. "Error: No title" if no title provided.
+- **xref_score**: as in *crossref/query_cache*.
+- **xref_author_count**: number of authors in the publication returned. Also to compare with original Zotero item.
+- **xref_affiliations**: list of affiliation lists, on per author. "Error: No affiliations provided" if no affiliations returned by the API.
+- **xref_affil_first_first**: first affiliation of the first author.
+- **xref_affil_main**: most frequent affiliation across all authors. More than one may be returned in case of tie.
+- **xref_publisher_location**: publisher location.
+
+### location.csv
+zotero.csv and crossref.csv merged, with collection information as well.
