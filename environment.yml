@@ -128,4 +128,6 @@ dependencies:
   - zipp=3.1.0=py_0
   - zlib=1.2.11=h7b6447c_3
 prefix: ./envs
+  - pip:
+    - pdftotext==2.1.5
 
