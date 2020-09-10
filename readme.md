@@ -68,3 +68,6 @@ Affiliation and publisher location information from CrossRef.
 
 ### location.csv
 zotero.csv and crossref.csv merged, with collection information as well.
+
+### emails.csv
+zotero.csv + collection information + email information (parsed from Zotero attachments)
