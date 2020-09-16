@@ -28,6 +28,14 @@ List of name-country pairs and their gender. See notebook section "Gender" for m
 ### gender.csv
 Gender information per publication (identified by the Zotero ID) and author.
 
+- gender: consensus gender (F: female, M: male, ?: ambiguous). If two or more genders are equally likely, they are all shown (e.g., "FM", "?F", etc).
+	- "No name": no author was available for the source.
+	- "Name(s) not found": name was not found in the gender database
+	- "Unexpected name format": name does not follow the "string <comma> string" format (this is often the case with non-human creators, such as institutions).
+- agreement: this is the index of agreement among databases for the consensus gender. 1 is maximum agreement.
+- split: False if full name was found in the gender database (e.g., "Jean Claude"). True if the full name was not found and it had to be split into its separate parts.
+- male/female/ambiguous: for each gender, a list of country codes is shown for each name found. For example, "{'ED': ['CA', 'GB', 'NL', 'US']}" in the male column indicates that "Ed" was found to be "male" according to information provided by "Canada", "Great Britain", "New Zealand" and "United States".
+
 ### authors.csv
 zotero.csv file expanded to one row per author, and merged with gender.csv. Includes information about collections ("\*WORK IN", "\*\*CITED IN", etc) as well.
 
