@@ -66,7 +66,7 @@ Affiliation and publisher location information from CrossRef.
 - **xref_affil_main**: most frequent affiliation across all authors. More than one may be returned in case of tie.
 - **xref_publisher_location**: publisher location.
 
-### location.csv
+### locations.csv
 zotero.csv and crossref.csv merged, with collection information as well.
 
 ### emails.csv
