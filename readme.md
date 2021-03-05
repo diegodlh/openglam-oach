@@ -1,5 +1,7 @@
 # OpenGlam/OACH Declaration - Bibliography audit
 
+See the report published [here](https://medium.com/open-glam/bibliography-audit-and-data-extraction-671c76a99626) to find out more.
+
 ## Setup
 
 To create an environment with the required Python packages, use Anaconda's `conda` package manager:
